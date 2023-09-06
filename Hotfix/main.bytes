@@ -28,6 +28,6 @@ load_file("test/lua_call_cs")
 load_file("test/test_config")
 
 --hotfix
-load_file("hotfix/hotfix_wrong_add")
+load_file("hotfix_wrong_add")
 
 main()
