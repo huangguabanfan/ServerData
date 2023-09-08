@@ -1,3 +1,9 @@
+--fix c# code
 xlua.hotfix(CS.HotfixClass, 'WrongAdd', function(self, a, b)
     return a + b
 end)
+
+--fix lua code
+TestConfig.hotfix_function_1 = function(self)
+    INFO("Hotfix overwrite this lua function")
+end
