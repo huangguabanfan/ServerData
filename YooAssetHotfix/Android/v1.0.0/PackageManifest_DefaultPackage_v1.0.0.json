@@ -14,7 +14,7 @@
             "AssetTags": [],
             "BundleID": 0,
             "DependIDs": [
-                15
+                16
             ]
         },
         {
@@ -24,7 +24,7 @@
             "AssetTags": [],
             "BundleID": 0,
             "DependIDs": [
-                15
+                16
             ]
         },
         {
@@ -104,7 +104,7 @@
             "DependIDs": [
                 3,
                 4,
-                15
+                16
             ]
         },
         {
@@ -123,7 +123,7 @@
             "BundleID": 2,
             "DependIDs": [
                 3,
-                15,
+                16,
                 4
             ]
         },
@@ -190,7 +190,7 @@
             "AssetTags": [],
             "BundleID": 5,
             "DependIDs": [
-                16,
+                17,
                 3
             ]
         },
@@ -201,7 +201,7 @@
             "AssetTags": [],
             "BundleID": 6,
             "DependIDs": [
-                16
+                17
             ]
         },
         {
@@ -220,7 +220,7 @@
             "BundleID": 8,
             "DependIDs": [
                 13,
-                17
+                18
             ]
         },
         {
@@ -231,7 +231,7 @@
             "BundleID": 9,
             "DependIDs": [
                 13,
-                17
+                18
             ]
         },
         {
@@ -249,7 +249,7 @@
             "AssetTags": [],
             "BundleID": 11,
             "DependIDs": [
-                17,
+                18,
                 13
             ]
         },
@@ -260,7 +260,7 @@
             "AssetTags": [],
             "BundleID": 12,
             "DependIDs": [
-                17,
+                18,
                 7
             ]
         },
@@ -430,6 +430,14 @@
             "AssetGUID": "",
             "AssetTags": [],
             "BundleID": 14,
+            "DependIDs": []
+        },
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/Samples/Test/Res/Cube.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 15,
             "DependIDs": []
         }
     ],
@@ -607,6 +615,17 @@
             "FileCRC": "81a475ee",
             "FileSize": 30,
             "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_samples_test_res.bundle",
+            "UnityCRC": 1465269010,
+            "FileHash": "3d211362897fd58974e4f68abcc6b9a1",
+            "FileCRC": "139f88df",
+            "FileSize": 144781,
+            "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": []
