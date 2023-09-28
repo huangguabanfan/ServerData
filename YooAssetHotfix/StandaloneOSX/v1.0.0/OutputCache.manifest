@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1848062322
+CRC: 1297589929
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -61,11 +61,14 @@ AssetBundleManifest:
       Name: assets_samples_yooasset_1_5_6-preview_space shooter_gameres_uisprite_common.bundle
       Dependencies: {}
     Info_14:
-      Name: share_assets_samples_yooasset_1_5_6-preview_space shooter_gameart_effect.bundle
+      Name: assets_samples_test_res.bundle
       Dependencies: {}
     Info_15:
-      Name: share_assets_samples_yooasset_1_5_6-preview_space shooter_gameart_scene.bundle
+      Name: share_assets_samples_yooasset_1_5_6-preview_space shooter_gameart_effect.bundle
       Dependencies: {}
     Info_16:
+      Name: share_assets_samples_yooasset_1_5_6-preview_space shooter_gameart_scene.bundle
+      Dependencies: {}
+    Info_17:
       Name: share_assets_samples_yooasset_1_5_6-preview_space shooter_gameart_uifont.bundle
       Dependencies: {}

@@ -2,8 +2,8 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "9/27/2023 5:52:51 PM",
-        "BuildSeconds": 4,
+        "BuildDate": "9/28/2023 3:09:35 PM",
+        "BuildSeconds": 9,
         "BuildTarget": 2,
         "BuildPipeline": 0,
         "BuildMode": 0,
@@ -19,10 +19,10 @@
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
-        "AssetFileTotalCount": 109,
-        "MainAssetTotalCount": 48,
-        "AllBundleTotalCount": 18,
-        "AllBundleTotalSize": 5114515,
+        "AssetFileTotalCount": 110,
+        "MainAssetTotalCount": 49,
+        "AllBundleTotalCount": 19,
+        "AllBundleTotalSize": 5165981,
         "EncryptedBundleTotalCount": 1,
         "EncryptedBundleTotalSize": 1034891,
         "RawBundleTotalCount": 1,
@@ -670,6 +670,16 @@
             "MainBundleSize": 30,
             "DependBundles": [],
             "DependAssets": []
+        },
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/Samples/Test/Res/Cube.prefab",
+            "AssetGUID": "39c0dbeb44729494390c29aaadd33bbc",
+            "AssetTags": [],
+            "MainBundleName": "assets_samples_test_res.bundle",
+            "MainBundleSize": 51466,
+            "DependBundles": [],
+            "DependAssets": []
         }
     ],
     "BundleInfos": [
@@ -978,6 +988,20 @@
             "ReferenceIDs": [],
             "AllBuiltinAssets": [
                 "Assets/Samples/YooAsset/1.5.6-preview/Space Shooter/GameRes/Config/about.txt"
+            ]
+        },
+        {
+            "BundleName": "assets_samples_test_res.bundle",
+            "FileName": "f10478d5c159cf8bb00ee8106bc376fa.bundle",
+            "FileHash": "f10478d5c159cf8bb00ee8106bc376fa",
+            "FileCRC": "6746ac0e",
+            "FileSize": 51466,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/Samples/Test/Res/Cube.prefab"
             ]
         },
         {
