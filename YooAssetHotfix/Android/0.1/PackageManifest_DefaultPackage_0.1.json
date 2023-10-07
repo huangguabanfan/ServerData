@@ -1,0 +1,75 @@
+{
+    "FileVersion": "1.5.2",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 1,
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "0.1",
+    "AssetList": [
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/BundledRes/Prefab/Cube.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "Canvas",
+            "AssetPath": "Assets/BundledRes/UI/Canvas.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "HeroInfoUIForm",
+            "AssetPath": "Assets/BundledRes/UI/HeroInfoUIForm.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "Test",
+            "AssetPath": "Assets/BundledRes/UI/Test.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "UILogin",
+            "AssetPath": "Assets/BundledRes/UI/UILogin.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_bundledres_prefab.bundle",
+            "UnityCRC": 195621964,
+            "FileHash": "33bfa87446ef5d1d76d9f23e2b108b92",
+            "FileCRC": "28e7fc75",
+            "FileSize": 123302,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundledres_ui.bundle",
+            "UnityCRC": 819686960,
+            "FileHash": "5b983de6332f1c45db122c9e46ea30e8",
+            "FileCRC": "5ef6e318",
+            "FileSize": 1410817,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        }
+    ]
+}
