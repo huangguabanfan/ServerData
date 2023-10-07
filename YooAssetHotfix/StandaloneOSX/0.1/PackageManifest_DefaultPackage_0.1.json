@@ -1,0 +1,139 @@
+{
+    "FileVersion": "1.5.2",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 1,
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "0.1",
+    "AssetList": [
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/BundledRes/Prefab/Cube.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "Canvas",
+            "AssetPath": "Assets/BundledRes/UI/Canvas.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "HeroInfoUIForm",
+            "AssetPath": "Assets/BundledRes/UI/HeroInfoUIForm.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "Test",
+            "AssetPath": "Assets/BundledRes/UI/Test.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "UILogin",
+            "AssetPath": "Assets/BundledRes/UI/UILogin.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "Button_Green",
+            "AssetPath": "Assets/BundledRes/Element/Button_Green.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": [
+                3
+            ]
+        },
+        {
+            "Address": "Button_Red",
+            "AssetPath": "Assets/BundledRes/Element/Button_Red.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": [
+                3
+            ]
+        },
+        {
+            "Address": "Loader",
+            "AssetPath": "Assets/BundledRes/Element/Loader.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": [
+                3
+            ]
+        },
+        {
+            "Address": "Slider",
+            "AssetPath": "Assets/BundledRes/Element/Slider.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": [
+                3
+            ]
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_bundledres_prefab.bundle",
+            "UnityCRC": 3531436465,
+            "FileHash": "9f587ba72d6b9d808873d2af804e8fcd",
+            "FileCRC": "94948f23",
+            "FileSize": 51380,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundledres_ui.bundle",
+            "UnityCRC": 1996285909,
+            "FileHash": "998837705bef1d49d72d2a66be4b9677",
+            "FileCRC": "262f18b7",
+            "FileSize": 5179034,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_bundledres_element.bundle",
+            "UnityCRC": 3690882701,
+            "FileHash": "6d367d8362addd671a27a44d8b10b047",
+            "FileCRC": "13d9d614",
+            "FileSize": 619853,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "UnityCRC": 1836642677,
+            "FileHash": "ae35626832b3664a998453cc4748b477",
+            "FileCRC": "ac0e2d20",
+            "FileSize": 20722,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                2
+            ]
+        }
+    ]
+}
