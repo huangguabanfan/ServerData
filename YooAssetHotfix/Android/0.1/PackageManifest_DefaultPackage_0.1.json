@@ -16,43 +16,11 @@
             "DependIDs": []
         },
         {
-            "Address": "Canvas",
-            "AssetPath": "Assets/BundledRes/UI/Canvas.prefab",
-            "AssetGUID": "",
-            "AssetTags": [],
-            "BundleID": 1,
-            "DependIDs": []
-        },
-        {
-            "Address": "HeroInfoUIForm",
-            "AssetPath": "Assets/BundledRes/UI/HeroInfoUIForm.prefab",
-            "AssetGUID": "",
-            "AssetTags": [],
-            "BundleID": 1,
-            "DependIDs": []
-        },
-        {
-            "Address": "Test",
-            "AssetPath": "Assets/BundledRes/UI/Test.prefab",
-            "AssetGUID": "",
-            "AssetTags": [],
-            "BundleID": 1,
-            "DependIDs": []
-        },
-        {
-            "Address": "UILogin",
-            "AssetPath": "Assets/BundledRes/UI/UILogin.prefab",
-            "AssetGUID": "",
-            "AssetTags": [],
-            "BundleID": 1,
-            "DependIDs": []
-        },
-        {
             "Address": "Button_Green",
             "AssetPath": "Assets/BundledRes/Element/Button_Green.prefab",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 2,
+            "BundleID": 1,
             "DependIDs": [
                 3
             ]
@@ -62,7 +30,7 @@
             "AssetPath": "Assets/BundledRes/Element/Button_Red.prefab",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 2,
+            "BundleID": 1,
             "DependIDs": [
                 3
             ]
@@ -72,7 +40,7 @@
             "AssetPath": "Assets/BundledRes/Element/Loader.prefab",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 2,
+            "BundleID": 1,
             "DependIDs": [
                 3
             ]
@@ -82,30 +50,51 @@
             "AssetPath": "Assets/BundledRes/Element/Slider.prefab",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 2,
+            "BundleID": 1,
             "DependIDs": [
                 3
             ]
+        },
+        {
+            "Address": "Canvas",
+            "AssetPath": "Assets/BundledRes/UI/Canvas.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "HeroInfoUIForm",
+            "AssetPath": "Assets/BundledRes/UI/HeroInfoUIForm.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "Test",
+            "AssetPath": "Assets/BundledRes/UI/Test.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "UILogin",
+            "AssetPath": "Assets/BundledRes/UI/UILogin.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
         }
     ],
     "BundleList": [
         {
             "BundleName": "assets_bundledres_prefab.bundle",
-            "UnityCRC": 3525739736,
-            "FileHash": "a973fbdb976ede4e13ab68c9d359da97",
-            "FileCRC": "51b6ca6f",
-            "FileSize": 144701,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": []
-        },
-        {
-            "BundleName": "assets_bundledres_ui.bundle",
-            "UnityCRC": 2552435136,
-            "FileHash": "39cc40cd1402eb494099f3daa38baff2",
-            "FileCRC": "ab21acad",
-            "FileSize": 1410817,
+            "UnityCRC": 1447480520,
+            "FileHash": "44cb33e877cb63f4846249b17178bb76",
+            "FileCRC": "9d1624dd",
+            "FileSize": 123204,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -123,6 +112,17 @@
             "ReferenceIDs": []
         },
         {
+            "BundleName": "assets_bundledres_ui.bundle",
+            "UnityCRC": 2552435136,
+            "FileHash": "39cc40cd1402eb494099f3daa38baff2",
+            "FileCRC": "ab21acad",
+            "FileSize": 1410817,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
             "BundleName": "unityshaders.bundle",
             "UnityCRC": 356108819,
             "FileHash": "a5d6e2d78613beb7b1efc074ed62bb8c",
@@ -132,7 +132,7 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                2
+                1
             ]
         }
     ]

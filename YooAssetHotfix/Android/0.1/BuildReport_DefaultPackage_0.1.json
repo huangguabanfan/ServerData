@@ -2,8 +2,8 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/7/2023 5:42:56 PM",
-        "BuildSeconds": 3,
+        "BuildDate": "10/7/2023 6:01:32 PM",
+        "BuildSeconds": 4,
         "BuildTarget": 13,
         "BuildPipeline": 0,
         "BuildMode": 0,
@@ -19,10 +19,10 @@
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
-        "AssetFileTotalCount": 24,
+        "AssetFileTotalCount": 25,
         "MainAssetTotalCount": 9,
         "AllBundleTotalCount": 4,
-        "AllBundleTotalSize": 2200257,
+        "AllBundleTotalSize": 2178760,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 0,
@@ -35,54 +35,10 @@
             "AssetGUID": "826df16210d6b441a902000e4d0346f7",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_prefab.bundle",
-            "MainBundleSize": 144701,
-            "DependBundles": [],
-            "DependAssets": []
-        },
-        {
-            "Address": "Canvas",
-            "AssetPath": "Assets/BundledRes/UI/Canvas.prefab",
-            "AssetGUID": "a36340e11946f45118dfa97a79e858eb",
-            "AssetTags": [],
-            "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 1410817,
-            "DependBundles": [],
-            "DependAssets": []
-        },
-        {
-            "Address": "HeroInfoUIForm",
-            "AssetPath": "Assets/BundledRes/UI/HeroInfoUIForm.prefab",
-            "AssetGUID": "3f8c8381d03f44e7eb98b5fc6314ba96",
-            "AssetTags": [],
-            "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 1410817,
+            "MainBundleSize": 123204,
             "DependBundles": [],
             "DependAssets": [
-                "Assets/BundledRes/Texture/Ui/Main Atlas.png",
-                "Assets/BundledRes/Texture/Ui/ui_atlas_img_local_normal.png",
-                "Assets/BundledRes/Texture/Ui/ui_atlas_icon_common.png"
-            ]
-        },
-        {
-            "Address": "Test",
-            "AssetPath": "Assets/BundledRes/UI/Test.prefab",
-            "AssetGUID": "dda98fe90942740aca9f18fca00c3d85",
-            "AssetTags": [],
-            "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 1410817,
-            "DependBundles": [],
-            "DependAssets": []
-        },
-        {
-            "Address": "UILogin",
-            "AssetPath": "Assets/BundledRes/UI/UILogin.prefab",
-            "AssetGUID": "41651dba72f424433acadcc9e4e0243e",
-            "AssetTags": [],
-            "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 1410817,
-            "DependBundles": [],
-            "DependAssets": [
-                "Assets/BundledRes/Texture/Background/LogonBG.png"
+                "Assets/BundledRes/Material/mat_cube.mat"
             ]
         },
         {
@@ -175,42 +131,68 @@
                 "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
                 "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
             ]
+        },
+        {
+            "Address": "Canvas",
+            "AssetPath": "Assets/BundledRes/UI/Canvas.prefab",
+            "AssetGUID": "a36340e11946f45118dfa97a79e858eb",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_ui.bundle",
+            "MainBundleSize": 1410817,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "HeroInfoUIForm",
+            "AssetPath": "Assets/BundledRes/UI/HeroInfoUIForm.prefab",
+            "AssetGUID": "3f8c8381d03f44e7eb98b5fc6314ba96",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_ui.bundle",
+            "MainBundleSize": 1410817,
+            "DependBundles": [],
+            "DependAssets": [
+                "Assets/BundledRes/Texture/Ui/Main Atlas.png",
+                "Assets/BundledRes/Texture/Ui/ui_atlas_img_local_normal.png",
+                "Assets/BundledRes/Texture/Ui/ui_atlas_icon_common.png"
+            ]
+        },
+        {
+            "Address": "Test",
+            "AssetPath": "Assets/BundledRes/UI/Test.prefab",
+            "AssetGUID": "dda98fe90942740aca9f18fca00c3d85",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_ui.bundle",
+            "MainBundleSize": 1410817,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "UILogin",
+            "AssetPath": "Assets/BundledRes/UI/UILogin.prefab",
+            "AssetGUID": "41651dba72f424433acadcc9e4e0243e",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_ui.bundle",
+            "MainBundleSize": 1410817,
+            "DependBundles": [],
+            "DependAssets": [
+                "Assets/BundledRes/Texture/Background/LogonBG.png"
+            ]
         }
     ],
     "BundleInfos": [
         {
             "BundleName": "assets_bundledres_prefab.bundle",
-            "FileName": "a973fbdb976ede4e13ab68c9d359da97.bundle",
-            "FileHash": "a973fbdb976ede4e13ab68c9d359da97",
-            "FileCRC": "51b6ca6f",
-            "FileSize": 144701,
+            "FileName": "44cb33e877cb63f4846249b17178bb76.bundle",
+            "FileHash": "44cb33e877cb63f4846249b17178bb76",
+            "FileCRC": "9d1624dd",
+            "FileSize": 123204,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [],
             "AllBuiltinAssets": [
-                "Assets/BundledRes/Prefab/Cube.prefab"
-            ]
-        },
-        {
-            "BundleName": "assets_bundledres_ui.bundle",
-            "FileName": "39cc40cd1402eb494099f3daa38baff2.bundle",
-            "FileHash": "39cc40cd1402eb494099f3daa38baff2",
-            "FileCRC": "ab21acad",
-            "FileSize": 1410817,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [],
-            "AllBuiltinAssets": [
-                "Assets/BundledRes/UI/Canvas.prefab",
-                "Assets/BundledRes/UI/HeroInfoUIForm.prefab",
-                "Assets/BundledRes/UI/Test.prefab",
-                "Assets/BundledRes/UI/UILogin.prefab",
-                "Assets/BundledRes/Texture/Ui/Main Atlas.png",
-                "Assets/BundledRes/Texture/Ui/ui_atlas_img_local_normal.png",
-                "Assets/BundledRes/Texture/Ui/ui_atlas_icon_common.png",
-                "Assets/BundledRes/Texture/Background/LogonBG.png"
+                "Assets/BundledRes/Prefab/Cube.prefab",
+                "Assets/BundledRes/Material/mat_cube.mat"
             ]
         },
         {
@@ -241,6 +223,27 @@
             ]
         },
         {
+            "BundleName": "assets_bundledres_ui.bundle",
+            "FileName": "39cc40cd1402eb494099f3daa38baff2.bundle",
+            "FileHash": "39cc40cd1402eb494099f3daa38baff2",
+            "FileCRC": "ab21acad",
+            "FileSize": 1410817,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/BundledRes/UI/Canvas.prefab",
+                "Assets/BundledRes/UI/HeroInfoUIForm.prefab",
+                "Assets/BundledRes/UI/Test.prefab",
+                "Assets/BundledRes/UI/UILogin.prefab",
+                "Assets/BundledRes/Texture/Ui/Main Atlas.png",
+                "Assets/BundledRes/Texture/Ui/ui_atlas_img_local_normal.png",
+                "Assets/BundledRes/Texture/Ui/ui_atlas_icon_common.png",
+                "Assets/BundledRes/Texture/Background/LogonBG.png"
+            ]
+        },
+        {
             "BundleName": "unityshaders.bundle",
             "FileName": "a5d6e2d78613beb7b1efc074ed62bb8c.bundle",
             "FileHash": "a5d6e2d78613beb7b1efc074ed62bb8c",
@@ -250,7 +253,7 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                2
+                1
             ],
             "AllBuiltinAssets": [
                 "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
