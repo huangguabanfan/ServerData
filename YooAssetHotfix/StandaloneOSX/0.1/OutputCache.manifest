@@ -1,17 +1,20 @@
 ManifestFileVersion: 0
-CRC: 846671457
+CRC: 2619689402
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: assets_bundledres_prefab.bundle
       Dependencies: {}
     Info_1:
-      Name: assets_bundledres_ui.bundle
-      Dependencies: {}
-    Info_2:
       Name: assets_bundledres_element.bundle
       Dependencies:
         Dependency_0: unityshaders.bundle
+    Info_2:
+      Name: assets_bundledres_ui.bundle
+      Dependencies: {}
     Info_3:
+      Name: assets_dll_hotfix.bundle
+      Dependencies: {}
+    Info_4:
       Name: unityshaders.bundle
       Dependencies: {}

@@ -2,8 +2,8 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/7/2023 5:33:03 PM",
-        "BuildSeconds": 9,
+        "BuildDate": "10/8/2023 5:05:46 PM",
+        "BuildSeconds": 6,
         "BuildTarget": 2,
         "BuildPipeline": 0,
         "BuildMode": 0,
@@ -14,15 +14,15 @@
         "IncludeAssetGUID": false,
         "UniqueBundleName": false,
         "SharedPackRuleClassName": "YooAsset.Editor.ZeroRedundancySharedPackRule",
-        "EncryptionServicesClassName": "YooAsset.Editor.EncryptionNone",
+        "EncryptionServicesClassName": "null",
         "OutputNameStyle": 1,
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
-        "AssetFileTotalCount": 24,
-        "MainAssetTotalCount": 9,
-        "AllBundleTotalCount": 4,
-        "AllBundleTotalSize": 5870989,
+        "AssetFileTotalCount": 26,
+        "MainAssetTotalCount": 10,
+        "AllBundleTotalCount": 5,
+        "AllBundleTotalSize": 5871838,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 0,
@@ -35,9 +35,102 @@
             "AssetGUID": "826df16210d6b441a902000e4d0346f7",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_prefab.bundle",
-            "MainBundleSize": 51380,
+            "MainBundleSize": 49182,
             "DependBundles": [],
-            "DependAssets": []
+            "DependAssets": [
+                "Assets/BundledRes/Material/mat_cube.mat"
+            ]
+        },
+        {
+            "Address": "Button_Green",
+            "AssetPath": "Assets/BundledRes/Element/Button_Green.prefab",
+            "AssetGUID": "51084bdaa02f842e5bea9bc690c08c81",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_element.bundle",
+            "MainBundleSize": 619898,
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Sprites/common/common_btn_green_big_down.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/Sprites/common/common_btn_green_big.png",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "Button_Red",
+            "AssetPath": "Assets/BundledRes/Element/Button_Red.prefab",
+            "AssetGUID": "cb117a80e8ff74b6ea5d960bd1287c24",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_element.bundle",
+            "MainBundleSize": 619898,
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/Sprites/common/common_btn_red_big_down.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/Sprites/common/common_btn_red_big.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "Loader",
+            "AssetPath": "Assets/BundledRes/Element/Loader.prefab",
+            "AssetGUID": "d5d3cb1b72f4147dcb7b3aa482e01c9e",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_element.bundle",
+            "MainBundleSize": 619898,
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Assets/BundledRes/Element/Button_Green.prefab",
+                "Assets/BundledRes/Element/Slider.prefab",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Sprites/common/common_btn_green_big_down.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/Sprites/common/common_btn_red_big_down.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/Sprites/common/common_btn_red_big.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/BundledRes/Element/Button_Red.prefab",
+                "Assets/Sprites/common/common_btn_green_big.png",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "Slider",
+            "AssetPath": "Assets/BundledRes/Element/Slider.prefab",
+            "AssetGUID": "8b90734f8420245b8847afb8cecd45a6",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_element.bundle",
+            "MainBundleSize": 619898,
+            "DependBundles": [
+                "unityshaders.bundle"
+            ],
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
         },
         {
             "Address": "Canvas",
@@ -86,139 +179,38 @@
             ]
         },
         {
-            "Address": "Button_Green",
-            "AssetPath": "Assets/BundledRes/Element/Button_Green.prefab",
-            "AssetGUID": "51084bdaa02f842e5bea9bc690c08c81",
+            "Address": "hotfix",
+            "AssetPath": "Assets/Dll/hotfix/hotfix.bytes",
+            "AssetGUID": "bc03068921d2e4c288cba74d2c211b36",
             "AssetTags": [],
-            "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 619853,
-            "DependBundles": [
-                "unityshaders.bundle"
-            ],
-            "DependAssets": [
-                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
-                "Assets/Sprites/common/common_btn_green_big_down.png",
-                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
-                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
-                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
-                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
-                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
-                "Assets/Sprites/common/common_btn_green_big.png",
-                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
-            ]
-        },
-        {
-            "Address": "Button_Red",
-            "AssetPath": "Assets/BundledRes/Element/Button_Red.prefab",
-            "AssetGUID": "cb117a80e8ff74b6ea5d960bd1287c24",
-            "AssetTags": [],
-            "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 619853,
-            "DependBundles": [
-                "unityshaders.bundle"
-            ],
-            "DependAssets": [
-                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
-                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
-                "Assets/Sprites/common/common_btn_red_big_down.png",
-                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
-                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
-                "Assets/Sprites/common/common_btn_red_big.png",
-                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
-                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
-                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
-            ]
-        },
-        {
-            "Address": "Loader",
-            "AssetPath": "Assets/BundledRes/Element/Loader.prefab",
-            "AssetGUID": "d5d3cb1b72f4147dcb7b3aa482e01c9e",
-            "AssetTags": [],
-            "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 619853,
-            "DependBundles": [
-                "unityshaders.bundle"
-            ],
-            "DependAssets": [
-                "Assets/BundledRes/Element/Button_Green.prefab",
-                "Assets/BundledRes/Element/Slider.prefab",
-                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
-                "Assets/Sprites/common/common_btn_green_big_down.png",
-                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
-                "Assets/Sprites/common/common_btn_red_big_down.png",
-                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
-                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
-                "Assets/Sprites/common/common_btn_red_big.png",
-                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
-                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
-                "Assets/BundledRes/Element/Button_Red.prefab",
-                "Assets/Sprites/common/common_btn_green_big.png",
-                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
-            ]
-        },
-        {
-            "Address": "Slider",
-            "AssetPath": "Assets/BundledRes/Element/Slider.prefab",
-            "AssetGUID": "8b90734f8420245b8847afb8cecd45a6",
-            "AssetTags": [],
-            "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 619853,
-            "DependBundles": [
-                "unityshaders.bundle"
-            ],
-            "DependAssets": [
-                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
-                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
-                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
-                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
-                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
-                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
-                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
-            ]
+            "MainBundleName": "assets_dll_hotfix.bundle",
+            "MainBundleSize": 3002,
+            "DependBundles": [],
+            "DependAssets": []
         }
     ],
     "BundleInfos": [
         {
             "BundleName": "assets_bundledres_prefab.bundle",
-            "FileName": "9f587ba72d6b9d808873d2af804e8fcd.bundle",
-            "FileHash": "9f587ba72d6b9d808873d2af804e8fcd",
-            "FileCRC": "94948f23",
-            "FileSize": 51380,
+            "FileName": "e336984ebac9ac5c61d261fc9143a78c.bundle",
+            "FileHash": "e336984ebac9ac5c61d261fc9143a78c",
+            "FileCRC": "9fdfc7f8",
+            "FileSize": 49182,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [],
             "AllBuiltinAssets": [
-                "Assets/BundledRes/Prefab/Cube.prefab"
-            ]
-        },
-        {
-            "BundleName": "assets_bundledres_ui.bundle",
-            "FileName": "998837705bef1d49d72d2a66be4b9677.bundle",
-            "FileHash": "998837705bef1d49d72d2a66be4b9677",
-            "FileCRC": "262f18b7",
-            "FileSize": 5179034,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [],
-            "AllBuiltinAssets": [
-                "Assets/BundledRes/UI/Canvas.prefab",
-                "Assets/BundledRes/UI/HeroInfoUIForm.prefab",
-                "Assets/BundledRes/UI/Test.prefab",
-                "Assets/BundledRes/UI/UILogin.prefab",
-                "Assets/BundledRes/Texture/Ui/Main Atlas.png",
-                "Assets/BundledRes/Texture/Ui/ui_atlas_img_local_normal.png",
-                "Assets/BundledRes/Texture/Ui/ui_atlas_icon_common.png",
-                "Assets/BundledRes/Texture/Background/LogonBG.png"
+                "Assets/BundledRes/Prefab/Cube.prefab",
+                "Assets/BundledRes/Material/mat_cube.mat"
             ]
         },
         {
             "BundleName": "assets_bundledres_element.bundle",
-            "FileName": "6d367d8362addd671a27a44d8b10b047.bundle",
-            "FileHash": "6d367d8362addd671a27a44d8b10b047",
-            "FileCRC": "13d9d614",
-            "FileSize": 619853,
+            "FileName": "322a1552479a065b57e2fe326267783d.bundle",
+            "FileHash": "322a1552479a065b57e2fe326267783d",
+            "FileCRC": "be88a88a",
+            "FileSize": 619898,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -241,6 +233,41 @@
             ]
         },
         {
+            "BundleName": "assets_bundledres_ui.bundle",
+            "FileName": "f0bd8ebff712c8140fe44138250aafdb.bundle",
+            "FileHash": "f0bd8ebff712c8140fe44138250aafdb",
+            "FileCRC": "b46da8d6",
+            "FileSize": 5179034,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/BundledRes/UI/Canvas.prefab",
+                "Assets/BundledRes/UI/HeroInfoUIForm.prefab",
+                "Assets/BundledRes/UI/Test.prefab",
+                "Assets/BundledRes/UI/UILogin.prefab",
+                "Assets/BundledRes/Texture/Ui/Main Atlas.png",
+                "Assets/BundledRes/Texture/Ui/ui_atlas_img_local_normal.png",
+                "Assets/BundledRes/Texture/Ui/ui_atlas_icon_common.png",
+                "Assets/BundledRes/Texture/Background/LogonBG.png"
+            ]
+        },
+        {
+            "BundleName": "assets_dll_hotfix.bundle",
+            "FileName": "4a6c4e29446109d8f132e2edc340e2d4.bundle",
+            "FileHash": "4a6c4e29446109d8f132e2edc340e2d4",
+            "FileCRC": "977bb5de",
+            "FileSize": 3002,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/Dll/hotfix/hotfix.bytes"
+            ]
+        },
+        {
             "BundleName": "unityshaders.bundle",
             "FileName": "ae35626832b3664a998453cc4748b477.bundle",
             "FileHash": "ae35626832b3664a998453cc4748b477",
@@ -250,7 +277,7 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                2
+                1
             ],
             "AllBuiltinAssets": [
                 "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"

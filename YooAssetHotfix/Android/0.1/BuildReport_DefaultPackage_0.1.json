@@ -2,8 +2,8 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/7/2023 6:01:32 PM",
-        "BuildSeconds": 4,
+        "BuildDate": "10/8/2023 5:05:39 PM",
+        "BuildSeconds": 3,
         "BuildTarget": 13,
         "BuildPipeline": 0,
         "BuildMode": 0,
@@ -14,15 +14,15 @@
         "IncludeAssetGUID": false,
         "UniqueBundleName": false,
         "SharedPackRuleClassName": "YooAsset.Editor.ZeroRedundancySharedPackRule",
-        "EncryptionServicesClassName": "YooAsset.Editor.EncryptionNone",
+        "EncryptionServicesClassName": "null",
         "OutputNameStyle": 1,
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
-        "AssetFileTotalCount": 25,
-        "MainAssetTotalCount": 9,
-        "AllBundleTotalCount": 4,
-        "AllBundleTotalSize": 2178760,
+        "AssetFileTotalCount": 26,
+        "MainAssetTotalCount": 10,
+        "AllBundleTotalCount": 5,
+        "AllBundleTotalSize": 2181809,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 0,
@@ -47,7 +47,7 @@
             "AssetGUID": "51084bdaa02f842e5bea9bc690c08c81",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 619854,
+            "MainBundleSize": 619899,
             "DependBundles": [
                 "unityshaders.bundle"
             ],
@@ -69,7 +69,7 @@
             "AssetGUID": "cb117a80e8ff74b6ea5d960bd1287c24",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 619854,
+            "MainBundleSize": 619899,
             "DependBundles": [
                 "unityshaders.bundle"
             ],
@@ -91,7 +91,7 @@
             "AssetGUID": "d5d3cb1b72f4147dcb7b3aa482e01c9e",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 619854,
+            "MainBundleSize": 619899,
             "DependBundles": [
                 "unityshaders.bundle"
             ],
@@ -118,7 +118,7 @@
             "AssetGUID": "8b90734f8420245b8847afb8cecd45a6",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 619854,
+            "MainBundleSize": 619899,
             "DependBundles": [
                 "unityshaders.bundle"
             ],
@@ -177,6 +177,16 @@
             "DependAssets": [
                 "Assets/BundledRes/Texture/Background/LogonBG.png"
             ]
+        },
+        {
+            "Address": "hotfix",
+            "AssetPath": "Assets/Dll/hotfix/hotfix.bytes",
+            "AssetGUID": "bc03068921d2e4c288cba74d2c211b36",
+            "AssetTags": [],
+            "MainBundleName": "assets_dll_hotfix.bundle",
+            "MainBundleSize": 3004,
+            "DependBundles": [],
+            "DependAssets": []
         }
     ],
     "BundleInfos": [
@@ -197,10 +207,10 @@
         },
         {
             "BundleName": "assets_bundledres_element.bundle",
-            "FileName": "c03ab5247bf0aacbd526f9089f58495b.bundle",
-            "FileHash": "c03ab5247bf0aacbd526f9089f58495b",
-            "FileCRC": "e1577868",
-            "FileSize": 619854,
+            "FileName": "c0fc50df11c3326666c8c11144b6958c.bundle",
+            "FileHash": "c0fc50df11c3326666c8c11144b6958c",
+            "FileCRC": "6b7253f8",
+            "FileSize": 619899,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -224,9 +234,9 @@
         },
         {
             "BundleName": "assets_bundledres_ui.bundle",
-            "FileName": "39cc40cd1402eb494099f3daa38baff2.bundle",
-            "FileHash": "39cc40cd1402eb494099f3daa38baff2",
-            "FileCRC": "ab21acad",
+            "FileName": "5b983de6332f1c45db122c9e46ea30e8.bundle",
+            "FileHash": "5b983de6332f1c45db122c9e46ea30e8",
+            "FileCRC": "5ef6e318",
             "FileSize": 1410817,
             "IsRawFile": false,
             "LoadMethod": 0,
@@ -241,6 +251,20 @@
                 "Assets/BundledRes/Texture/Ui/ui_atlas_img_local_normal.png",
                 "Assets/BundledRes/Texture/Ui/ui_atlas_icon_common.png",
                 "Assets/BundledRes/Texture/Background/LogonBG.png"
+            ]
+        },
+        {
+            "BundleName": "assets_dll_hotfix.bundle",
+            "FileName": "1fe9477882c4bee2d50c2ec7c1057ed2.bundle",
+            "FileHash": "1fe9477882c4bee2d50c2ec7c1057ed2",
+            "FileCRC": "f13335a8",
+            "FileSize": 3004,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/Dll/hotfix/hotfix.bytes"
             ]
         },
         {

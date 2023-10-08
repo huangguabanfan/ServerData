@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1231127183
+CRC: 363161697
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -13,5 +13,8 @@ AssetBundleManifest:
       Name: assets_bundledres_ui.bundle
       Dependencies: {}
     Info_3:
+      Name: assets_dll_hotfix.bundle
+      Dependencies: {}
+    Info_4:
       Name: unityshaders.bundle
       Dependencies: {}

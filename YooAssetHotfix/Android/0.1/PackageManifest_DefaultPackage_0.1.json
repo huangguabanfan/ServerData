@@ -22,7 +22,7 @@
             "AssetTags": [],
             "BundleID": 1,
             "DependIDs": [
-                3
+                4
             ]
         },
         {
@@ -32,7 +32,7 @@
             "AssetTags": [],
             "BundleID": 1,
             "DependIDs": [
-                3
+                4
             ]
         },
         {
@@ -42,7 +42,7 @@
             "AssetTags": [],
             "BundleID": 1,
             "DependIDs": [
-                3
+                4
             ]
         },
         {
@@ -52,7 +52,7 @@
             "AssetTags": [],
             "BundleID": 1,
             "DependIDs": [
-                3
+                4
             ]
         },
         {
@@ -86,6 +86,14 @@
             "AssetTags": [],
             "BundleID": 2,
             "DependIDs": []
+        },
+        {
+            "Address": "hotfix",
+            "AssetPath": "Assets/Dll/hotfix/hotfix.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": []
         }
     ],
     "BundleList": [
@@ -102,10 +110,10 @@
         },
         {
             "BundleName": "assets_bundledres_element.bundle",
-            "UnityCRC": 1600576006,
-            "FileHash": "c03ab5247bf0aacbd526f9089f58495b",
-            "FileCRC": "e1577868",
-            "FileSize": 619854,
+            "UnityCRC": 3467116066,
+            "FileHash": "c0fc50df11c3326666c8c11144b6958c",
+            "FileCRC": "6b7253f8",
+            "FileSize": 619899,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -113,10 +121,21 @@
         },
         {
             "BundleName": "assets_bundledres_ui.bundle",
-            "UnityCRC": 2552435136,
-            "FileHash": "39cc40cd1402eb494099f3daa38baff2",
-            "FileCRC": "ab21acad",
+            "UnityCRC": 819686960,
+            "FileHash": "5b983de6332f1c45db122c9e46ea30e8",
+            "FileCRC": "5ef6e318",
             "FileSize": 1410817,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_dll_hotfix.bundle",
+            "UnityCRC": 38277020,
+            "FileHash": "1fe9477882c4bee2d50c2ec7c1057ed2",
+            "FileCRC": "f13335a8",
+            "FileSize": 3004,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
