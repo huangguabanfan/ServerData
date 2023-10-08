@@ -2,8 +2,8 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/8/2023 5:50:29 PM",
-        "BuildSeconds": 6,
+        "BuildDate": "10/8/2023 5:55:32 PM",
+        "BuildSeconds": 2,
         "BuildTarget": 13,
         "BuildPipeline": 0,
         "BuildMode": 0,
@@ -15,7 +15,7 @@
         "UniqueBundleName": false,
         "SharedPackRuleClassName": "YooAsset.Editor.ZeroRedundancySharedPackRule",
         "EncryptionServicesClassName": "null",
-        "OutputNameStyle": 1,
+        "OutputNameStyle": 4,
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
@@ -192,7 +192,7 @@
     "BundleInfos": [
         {
             "BundleName": "assets_bundledres_prefab.bundle",
-            "FileName": "44cb33e877cb63f4846249b17178bb76.bundle",
+            "FileName": "assets_bundledres_prefab_44cb33e877cb63f4846249b17178bb76.bundle",
             "FileHash": "44cb33e877cb63f4846249b17178bb76",
             "FileCRC": "9d1624dd",
             "FileSize": 123204,
@@ -207,7 +207,7 @@
         },
         {
             "BundleName": "assets_bundledres_element.bundle",
-            "FileName": "c0fc50df11c3326666c8c11144b6958c.bundle",
+            "FileName": "assets_bundledres_element_c0fc50df11c3326666c8c11144b6958c.bundle",
             "FileHash": "c0fc50df11c3326666c8c11144b6958c",
             "FileCRC": "6b7253f8",
             "FileSize": 619899,
@@ -234,7 +234,7 @@
         },
         {
             "BundleName": "assets_bundledres_ui.bundle",
-            "FileName": "5b983de6332f1c45db122c9e46ea30e8.bundle",
+            "FileName": "assets_bundledres_ui_5b983de6332f1c45db122c9e46ea30e8.bundle",
             "FileHash": "5b983de6332f1c45db122c9e46ea30e8",
             "FileCRC": "5ef6e318",
             "FileSize": 1410817,
@@ -255,7 +255,7 @@
         },
         {
             "BundleName": "assets_dll_hotfix_hotfix_bytes.rawfile",
-            "FileName": "06aa4a51baaf8e9146e810089bae4d79.rawfile",
+            "FileName": "assets_dll_hotfix_hotfix_bytes_06aa4a51baaf8e9146e810089bae4d79.rawfile",
             "FileHash": "06aa4a51baaf8e9146e810089bae4d79",
             "FileCRC": "61ba1a56",
             "FileSize": 4096,
@@ -269,7 +269,7 @@
         },
         {
             "BundleName": "unityshaders.bundle",
-            "FileName": "a5d6e2d78613beb7b1efc074ed62bb8c.bundle",
+            "FileName": "unityshaders_a5d6e2d78613beb7b1efc074ed62bb8c.bundle",
             "FileHash": "a5d6e2d78613beb7b1efc074ed62bb8c",
             "FileCRC": "62964199",
             "FileSize": 24885,
