@@ -3,7 +3,7 @@
     "EnableAddressable": true,
     "LocationToLower": false,
     "IncludeAssetGUID": false,
-    "OutputNameStyle": 1,
+    "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
     "PackageVersion": "0.1",
     "AssetList": [
