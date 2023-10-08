@@ -131,12 +131,12 @@
             "ReferenceIDs": []
         },
         {
-            "BundleName": "assets_dll_hotfix.bundle",
-            "UnityCRC": 3987132965,
-            "FileHash": "4a6c4e29446109d8f132e2edc340e2d4",
-            "FileCRC": "977bb5de",
-            "FileSize": 3002,
-            "IsRawFile": false,
+            "BundleName": "assets_dll_hotfix_hotfix_bytes.rawfile",
+            "UnityCRC": 0,
+            "FileHash": "06aa4a51baaf8e9146e810089bae4d79",
+            "FileCRC": "61ba1a56",
+            "FileSize": 4096,
+            "IsRawFile": true,
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": []

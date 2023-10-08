@@ -2,8 +2,8 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/8/2023 5:05:46 PM",
-        "BuildSeconds": 6,
+        "BuildDate": "10/8/2023 5:35:25 PM",
+        "BuildSeconds": 7,
         "BuildTarget": 2,
         "BuildPipeline": 0,
         "BuildMode": 0,
@@ -22,11 +22,11 @@
         "AssetFileTotalCount": 26,
         "MainAssetTotalCount": 10,
         "AllBundleTotalCount": 5,
-        "AllBundleTotalSize": 5871838,
+        "AllBundleTotalSize": 5872932,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
-        "RawBundleTotalCount": 0,
-        "RawBundleTotalSize": 0
+        "RawBundleTotalCount": 1,
+        "RawBundleTotalSize": 4096
     },
     "AssetInfos": [
         {
@@ -183,8 +183,8 @@
             "AssetPath": "Assets/Dll/hotfix/hotfix.bytes",
             "AssetGUID": "bc03068921d2e4c288cba74d2c211b36",
             "AssetTags": [],
-            "MainBundleName": "assets_dll_hotfix.bundle",
-            "MainBundleSize": 3002,
+            "MainBundleName": "assets_dll_hotfix_hotfix_bytes.rawfile",
+            "MainBundleSize": 4096,
             "DependBundles": [],
             "DependAssets": []
         }
@@ -254,12 +254,12 @@
             ]
         },
         {
-            "BundleName": "assets_dll_hotfix.bundle",
-            "FileName": "4a6c4e29446109d8f132e2edc340e2d4.bundle",
-            "FileHash": "4a6c4e29446109d8f132e2edc340e2d4",
-            "FileCRC": "977bb5de",
-            "FileSize": 3002,
-            "IsRawFile": false,
+            "BundleName": "assets_dll_hotfix_hotfix_bytes.rawfile",
+            "FileName": "06aa4a51baaf8e9146e810089bae4d79.rawfile",
+            "FileHash": "06aa4a51baaf8e9146e810089bae4d79",
+            "FileCRC": "61ba1a56",
+            "FileSize": 4096,
+            "IsRawFile": true,
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [],
