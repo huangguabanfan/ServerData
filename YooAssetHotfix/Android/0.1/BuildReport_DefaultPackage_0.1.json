@@ -2,8 +2,8 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/9/2023 10:25:41 AM",
-        "BuildSeconds": 3,
+        "BuildDate": "10/9/2023 3:11:23 PM",
+        "BuildSeconds": 7,
         "BuildTarget": 13,
         "BuildPipeline": 0,
         "BuildMode": 0,
@@ -19,14 +19,14 @@
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
-        "AssetFileTotalCount": 26,
-        "MainAssetTotalCount": 10,
-        "AllBundleTotalCount": 5,
-        "AllBundleTotalSize": 2182901,
+        "AssetFileTotalCount": 29,
+        "MainAssetTotalCount": 13,
+        "AllBundleTotalCount": 8,
+        "AllBundleTotalSize": 5098718,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
-        "RawBundleTotalCount": 1,
-        "RawBundleTotalSize": 4096
+        "RawBundleTotalCount": 4,
+        "RawBundleTotalSize": 2919936
     },
     "AssetInfos": [
         {
@@ -47,7 +47,7 @@
             "AssetGUID": "51084bdaa02f842e5bea9bc690c08c81",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 619899,
+            "MainBundleSize": 619876,
             "DependBundles": [
                 "unityshaders.bundle"
             ],
@@ -69,7 +69,7 @@
             "AssetGUID": "cb117a80e8ff74b6ea5d960bd1287c24",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 619899,
+            "MainBundleSize": 619876,
             "DependBundles": [
                 "unityshaders.bundle"
             ],
@@ -91,7 +91,7 @@
             "AssetGUID": "d5d3cb1b72f4147dcb7b3aa482e01c9e",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 619899,
+            "MainBundleSize": 619876,
             "DependBundles": [
                 "unityshaders.bundle"
             ],
@@ -118,7 +118,7 @@
             "AssetGUID": "8b90734f8420245b8847afb8cecd45a6",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 619899,
+            "MainBundleSize": 619876,
             "DependBundles": [
                 "unityshaders.bundle"
             ],
@@ -179,12 +179,42 @@
             ]
         },
         {
-            "Address": "hotfix",
-            "AssetPath": "Assets/Dll/hotfix/hotfix.bytes",
-            "AssetGUID": "bc03068921d2e4c288cba74d2c211b36",
+            "Address": "hotfix.dll",
+            "AssetPath": "Assets/Dll/hotfix/hotfix.dll.bytes",
+            "AssetGUID": "303468f9197874f29b7cd5c205b4ab7b",
             "AssetTags": [],
-            "MainBundleName": "assets_dll_hotfix_hotfix_bytes.rawfile",
+            "MainBundleName": "assets_dll_hotfix_hotfix_dll_bytes.rawfile",
             "MainBundleSize": 4096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/Dll/AOT/mscorlib.dll.bytes",
+            "AssetGUID": "477ecafe5bb7648e88d8c5fa0f1077b3",
+            "AssetTags": [],
+            "MainBundleName": "assets_dll_aot_mscorlib_dll_bytes.rawfile",
+            "MainBundleSize": 2186240,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/Dll/AOT/System.Core.dll.bytes",
+            "AssetGUID": "50fe3b2bdb0984b7dab6ff36f250bd94",
+            "AssetTags": [],
+            "MainBundleName": "assets_dll_aot_system_core_dll_bytes.rawfile",
+            "MainBundleSize": 72704,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/Dll/AOT/System.dll.bytes",
+            "AssetGUID": "3720eeabc6c47498a9bd29ccf30382f6",
+            "AssetTags": [],
+            "MainBundleName": "assets_dll_aot_system_dll_bytes.rawfile",
+            "MainBundleSize": 656896,
             "DependBundles": [],
             "DependAssets": []
         }
@@ -207,10 +237,10 @@
         },
         {
             "BundleName": "assets_bundledres_element.bundle",
-            "FileName": "assets_bundledres_element_c0fc50df11c3326666c8c11144b6958c.bundle",
-            "FileHash": "c0fc50df11c3326666c8c11144b6958c",
-            "FileCRC": "6b7253f8",
-            "FileSize": 619899,
+            "FileName": "assets_bundledres_element_b1458794770f428ae77b7490606ffd48.bundle",
+            "FileHash": "b1458794770f428ae77b7490606ffd48",
+            "FileCRC": "41c90a89",
+            "FileSize": 619876,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -254,17 +284,59 @@
             ]
         },
         {
-            "BundleName": "assets_dll_hotfix_hotfix_bytes.rawfile",
-            "FileName": "assets_dll_hotfix_hotfix_bytes_06aa4a51baaf8e9146e810089bae4d79.rawfile",
-            "FileHash": "06aa4a51baaf8e9146e810089bae4d79",
-            "FileCRC": "61ba1a56",
+            "BundleName": "assets_dll_hotfix_hotfix_dll_bytes.rawfile",
+            "FileName": "assets_dll_hotfix_hotfix_dll_bytes_461c702098fb46fbcea7f70dede4b4de.rawfile",
+            "FileHash": "461c702098fb46fbcea7f70dede4b4de",
+            "FileCRC": "cc1c2cfc",
             "FileSize": 4096,
             "IsRawFile": true,
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [],
             "AllBuiltinAssets": [
-                "Assets/Dll/hotfix/hotfix.bytes"
+                "Assets/Dll/hotfix/hotfix.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_dll_aot_mscorlib_dll_bytes.rawfile",
+            "FileName": "assets_dll_aot_mscorlib_dll_bytes_38038a8d999ec6b0b094d98e44db170a.rawfile",
+            "FileHash": "38038a8d999ec6b0b094d98e44db170a",
+            "FileCRC": "b288dae0",
+            "FileSize": 2186240,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/Dll/AOT/mscorlib.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_dll_aot_system_core_dll_bytes.rawfile",
+            "FileName": "assets_dll_aot_system_core_dll_bytes_19ea2f18131e021f1ae0a71c62e88197.rawfile",
+            "FileHash": "19ea2f18131e021f1ae0a71c62e88197",
+            "FileCRC": "b05dd44b",
+            "FileSize": 72704,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/Dll/AOT/System.Core.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_dll_aot_system_dll_bytes.rawfile",
+            "FileName": "assets_dll_aot_system_dll_bytes_209914a18333c4c89482d792b9417b14.rawfile",
+            "FileHash": "209914a18333c4c89482d792b9417b14",
+            "FileCRC": "eba46a5e",
+            "FileSize": 656896,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/Dll/AOT/System.dll.bytes"
             ]
         },
         {
