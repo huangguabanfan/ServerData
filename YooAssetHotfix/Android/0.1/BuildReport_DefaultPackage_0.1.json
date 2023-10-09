@@ -2,7 +2,7 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/9/2023 3:11:23 PM",
+        "BuildDate": "10/9/2023 3:27:13 PM",
         "BuildSeconds": 7,
         "BuildTarget": 13,
         "BuildPipeline": 0,
@@ -22,7 +22,7 @@
         "AssetFileTotalCount": 29,
         "MainAssetTotalCount": 13,
         "AllBundleTotalCount": 8,
-        "AllBundleTotalSize": 5098718,
+        "AllBundleTotalSize": 5099302,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 4,
@@ -35,7 +35,7 @@
             "AssetGUID": "826df16210d6b441a902000e4d0346f7",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_prefab.bundle",
-            "MainBundleSize": 123204,
+            "MainBundleSize": 123788,
             "DependBundles": [],
             "DependAssets": [
                 "Assets/BundledRes/Material/mat_cube.mat"
@@ -222,10 +222,10 @@
     "BundleInfos": [
         {
             "BundleName": "assets_bundledres_prefab.bundle",
-            "FileName": "assets_bundledres_prefab_44cb33e877cb63f4846249b17178bb76.bundle",
-            "FileHash": "44cb33e877cb63f4846249b17178bb76",
-            "FileCRC": "9d1624dd",
-            "FileSize": 123204,
+            "FileName": "assets_bundledres_prefab_207e5fc72b960898b2cde96430c62719.bundle",
+            "FileHash": "207e5fc72b960898b2cde96430c62719",
+            "FileCRC": "1e62dc66",
+            "FileSize": 123788,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],

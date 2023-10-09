@@ -123,10 +123,10 @@
     "BundleList": [
         {
             "BundleName": "assets_bundledres_prefab.bundle",
-            "UnityCRC": 1447480520,
-            "FileHash": "44cb33e877cb63f4846249b17178bb76",
-            "FileCRC": "9d1624dd",
-            "FileSize": 123204,
+            "UnityCRC": 2414923680,
+            "FileHash": "207e5fc72b960898b2cde96430c62719",
+            "FileCRC": "1e62dc66",
+            "FileSize": 123788,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
