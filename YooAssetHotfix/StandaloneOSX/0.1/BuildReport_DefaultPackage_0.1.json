@@ -2,8 +2,8 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/9/2023 4:50:38 PM",
-        "BuildSeconds": 17,
+        "BuildDate": "10/9/2023 5:32:33 PM",
+        "BuildSeconds": 11,
         "BuildTarget": 2,
         "BuildPipeline": 0,
         "BuildMode": 0,
@@ -19,10 +19,10 @@
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
-        "AssetFileTotalCount": 33,
-        "MainAssetTotalCount": 16,
+        "AssetFileTotalCount": 34,
+        "MainAssetTotalCount": 17,
         "AllBundleTotalCount": 12,
-        "AllBundleTotalSize": 9133636,
+        "AllBundleTotalSize": 9178056,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 4,
@@ -273,6 +273,18 @@
             "MainBundleSize": 656896,
             "DependBundles": [],
             "DependAssets": []
+        },
+        {
+            "Address": "ShaderVariants",
+            "AssetPath": "Assets/BundledRes/ShaderVariants/ShaderVariants.shadervariants",
+            "AssetGUID": "fc1ffc6f90d754fcfa73b4ed63a55b9d",
+            "AssetTags": [],
+            "MainBundleName": "unityshaders.bundle",
+            "MainBundleSize": 65142,
+            "DependBundles": [],
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
         }
     ],
     "BundleInfos": [
@@ -407,6 +419,23 @@
             ]
         },
         {
+            "BundleName": "unityshaders.bundle",
+            "FileName": "unityshaders_5d7c06a1f10e818f34b2288423ebaf21.bundle",
+            "FileHash": "5d7c06a1f10e818f34b2288423ebaf21",
+            "FileCRC": "11c34d8b",
+            "FileSize": 65142,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                10
+            ],
+            "AllBuiltinAssets": [
+                "Assets/BundledRes/ShaderVariants/ShaderVariants.shadervariants",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
             "BundleName": "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
             "FileName": "share_packages_com_unity_textmeshpro_editor resources_gizmos_1ada37c994c444f47041a042064ec0d7.bundle",
             "FileHash": "1ada37c994c444f47041a042064ec0d7",
@@ -419,22 +448,6 @@
             "AllBuiltinAssets": [
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
-            ]
-        },
-        {
-            "BundleName": "unityshaders.bundle",
-            "FileName": "unityshaders_ae35626832b3664a998453cc4748b477.bundle",
-            "FileHash": "ae35626832b3664a998453cc4748b477",
-            "FileCRC": "ac0e2d20",
-            "FileSize": 20722,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [
-                10
-            ],
-            "AllBuiltinAssets": [
-                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
             ]
         },
         {

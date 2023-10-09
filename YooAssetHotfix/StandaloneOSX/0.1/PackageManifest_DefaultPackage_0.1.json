@@ -22,8 +22,8 @@
             "AssetTags": [],
             "BundleID": 1,
             "DependIDs": [
-                8,
                 9,
+                8,
                 10,
                 11
             ]
@@ -51,8 +51,8 @@
             "AssetTags": [],
             "BundleID": 2,
             "DependIDs": [
-                8,
                 9,
+                8,
                 10,
                 11
             ]
@@ -64,8 +64,8 @@
             "AssetTags": [],
             "BundleID": 2,
             "DependIDs": [
-                8,
                 9,
+                8,
                 10,
                 11
             ]
@@ -77,8 +77,8 @@
             "AssetTags": [],
             "BundleID": 2,
             "DependIDs": [
-                8,
                 9,
+                8,
                 10,
                 11
             ]
@@ -90,8 +90,8 @@
             "AssetTags": [],
             "BundleID": 2,
             "DependIDs": [
-                8,
                 9,
+                8,
                 10,
                 11
             ]
@@ -158,6 +158,14 @@
             "AssetGUID": "",
             "AssetTags": [],
             "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "ShaderVariants",
+            "AssetPath": "Assets/BundledRes/ShaderVariants/ShaderVariants.shadervariants",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8,
             "DependIDs": []
         }
     ],
@@ -251,6 +259,19 @@
             "ReferenceIDs": []
         },
         {
+            "BundleName": "unityshaders.bundle",
+            "UnityCRC": 2837969433,
+            "FileHash": "5d7c06a1f10e818f34b2288423ebaf21",
+            "FileCRC": "11c34d8b",
+            "FileSize": 65142,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                10
+            ]
+        },
+        {
             "BundleName": "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
             "UnityCRC": 2671448094,
             "FileHash": "1ada37c994c444f47041a042064ec0d7",
@@ -260,19 +281,6 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": []
-        },
-        {
-            "BundleName": "unityshaders.bundle",
-            "UnityCRC": 1836642677,
-            "FileHash": "ae35626832b3664a998453cc4748b477",
-            "FileCRC": "ac0e2d20",
-            "FileSize": 20722,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [
-                10
-            ]
         },
         {
             "BundleName": "share_assets_textmesh pro_resources_fonts & materials.bundle",
