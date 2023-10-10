@@ -217,8 +217,8 @@
         {
             "BundleName": "assets_dll_hotfix_hotfix_dll_bytes.rawfile",
             "UnityCRC": 0,
-            "FileHash": "461c702098fb46fbcea7f70dede4b4de",
-            "FileCRC": "cc1c2cfc",
+            "FileHash": "bae6abd436f922619357b62bb41aae13",
+            "FileCRC": "ca4d3f71",
             "FileSize": 4096,
             "IsRawFile": true,
             "LoadMethod": 0,
