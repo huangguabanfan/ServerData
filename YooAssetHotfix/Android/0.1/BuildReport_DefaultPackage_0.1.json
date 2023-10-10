@@ -2,8 +2,8 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/10/2023 11:15:08 AM",
-        "BuildSeconds": 4,
+        "BuildDate": "10/10/2023 11:29:16 AM",
+        "BuildSeconds": 10,
         "BuildTarget": 13,
         "BuildPipeline": 0,
         "BuildMode": 0,
@@ -364,9 +364,9 @@
         },
         {
             "BundleName": "assets_dll_hotfix_hotfix_dll_bytes.rawfile",
-            "FileName": "assets_dll_hotfix_hotfix_dll_bytes_bae6abd436f922619357b62bb41aae13.rawfile",
-            "FileHash": "bae6abd436f922619357b62bb41aae13",
-            "FileCRC": "ca4d3f71",
+            "FileName": "assets_dll_hotfix_hotfix_dll_bytes_8fae305e01c2a04b7f386979b5a32d0b.rawfile",
+            "FileHash": "8fae305e01c2a04b7f386979b5a32d0b",
+            "FileCRC": "a2c6377f",
             "FileSize": 4096,
             "IsRawFile": true,
             "LoadMethod": 0,
