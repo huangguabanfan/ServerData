@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1034709685
+CRC: 2008229562
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -12,7 +12,8 @@ AssetBundleManifest:
     Info_2:
       Name: assets_bundledres_element.bundle
       Dependencies:
-        Dependency_0: share_assets_textmesh pro_resources_fonts & materials.bundle
+        Dependency_0: assets_bundledres_texture_background.bundle
+        Dependency_1: share_assets_textmesh pro_resources_fonts & materials.bundle
     Info_3:
       Name: assets_bundledres_ui.bundle
       Dependencies:
