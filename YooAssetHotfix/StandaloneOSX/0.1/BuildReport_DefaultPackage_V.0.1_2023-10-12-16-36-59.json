@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/12/2023 3:54:43 PM",
-        "BuildSeconds": 7,
-        "BuildTarget": 13,
+        "BuildDate": "10/12/2023 4:37:05 PM",
+        "BuildSeconds": 6,
+        "BuildTarget": 2,
         "BuildPipeline": 0,
-        "BuildMode": 0,
+        "BuildMode": 1,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "V.0.1_2023-10-12-15-54-35",
+        "BuildPackageVersion": "V.0.1_2023-10-12-16-36-59",
         "EnableAddressable": true,
         "LocationToLower": false,
         "IncludeAssetGUID": false,
@@ -22,7 +22,7 @@
         "AssetFileTotalCount": 68,
         "MainAssetTotalCount": 54,
         "AllBundleTotalCount": 18,
-        "AllBundleTotalSize": 9071531,
+        "AllBundleTotalSize": 14939456,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 5,
@@ -35,7 +35,7 @@
             "AssetGUID": "826df16210d6b441a902000e4d0346f7",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_prefab.bundle",
-            "MainBundleSize": 123787,
+            "MainBundleSize": 50023,
             "DependBundles": [],
             "DependAssets": [
                 "Assets/BundledRes/Material/mat_cube.mat"
@@ -47,7 +47,7 @@
             "AssetGUID": "c78bd51dc73674391b304d95c867e134",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_scene.bundle",
-            "MainBundleSize": 173771,
+            "MainBundleSize": 337207,
             "DependBundles": [
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
                 "unityshaders.bundle",
@@ -71,7 +71,7 @@
             "AssetGUID": "030b8bbeabe86426bb814ace1f0be35c",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_scene.bundle",
-            "MainBundleSize": 173771,
+            "MainBundleSize": 337207,
             "DependBundles": [
                 "assets_bundledres_element.bundle",
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
@@ -102,7 +102,7 @@
             "AssetGUID": "372a872c6d80d47d895d4580e38fbbbd",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_scene.bundle",
-            "MainBundleSize": 173771,
+            "MainBundleSize": 337207,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -112,7 +112,7 @@
             "AssetGUID": "51084bdaa02f842e5bea9bc690c08c81",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 20299,
+            "MainBundleSize": 20298,
             "DependBundles": [
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
                 "share_assets_sprites_common.bundle",
@@ -138,7 +138,7 @@
             "AssetGUID": "cb117a80e8ff74b6ea5d960bd1287c24",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 20299,
+            "MainBundleSize": 20298,
             "DependBundles": [
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
                 "unityshaders.bundle",
@@ -164,7 +164,7 @@
             "AssetGUID": "d5d3cb1b72f4147dcb7b3aa482e01c9e",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 20299,
+            "MainBundleSize": 20298,
             "DependBundles": [
                 "assets_bundledres_texture_background.bundle",
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
@@ -198,7 +198,7 @@
             "AssetGUID": "8b90734f8420245b8847afb8cecd45a6",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 20299,
+            "MainBundleSize": 20298,
             "DependBundles": [
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
                 "unityshaders.bundle",
@@ -221,7 +221,7 @@
             "AssetGUID": "a36340e11946f45118dfa97a79e858eb",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 17860,
+            "MainBundleSize": 17859,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -231,7 +231,7 @@
             "AssetGUID": "3f8c8381d03f44e7eb98b5fc6314ba96",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 17860,
+            "MainBundleSize": 17859,
             "DependBundles": [
                 "assets_bundledres_texture_ui.bundle"
             ],
@@ -247,7 +247,7 @@
             "AssetGUID": "dda98fe90942740aca9f18fca00c3d85",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 17860,
+            "MainBundleSize": 17859,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -257,7 +257,7 @@
             "AssetGUID": "41651dba72f424433acadcc9e4e0243e",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 17860,
+            "MainBundleSize": 17859,
             "DependBundles": [
                 "assets_bundledres_texture_background.bundle"
             ],
@@ -321,7 +321,7 @@
             "AssetGUID": "fc1ffc6f90d754fcfa73b4ed63a55b9d",
             "AssetTags": [],
             "MainBundleName": "unityshaders.bundle",
-            "MainBundleSize": 168542,
+            "MainBundleSize": 65142,
             "DependBundles": [],
             "DependAssets": [
                 "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
@@ -333,7 +333,7 @@
             "AssetGUID": "e62974d690f1d4747b6dc6a35b469fc7",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_background.bundle",
-            "MainBundleSize": 3165147,
+            "MainBundleSize": 8615105,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -343,7 +343,7 @@
             "AssetGUID": "a6c80b399b5604422a7143e463904788",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_background.bundle",
-            "MainBundleSize": 3165147,
+            "MainBundleSize": 8615105,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -353,7 +353,7 @@
             "AssetGUID": "05443e49778a6fd44bb6d81ab0f62639",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_background.bundle",
-            "MainBundleSize": 3165147,
+            "MainBundleSize": 8615105,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -363,7 +363,7 @@
             "AssetGUID": "13481744d039a2c45ae23c9a73cddcb3",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_background.bundle",
-            "MainBundleSize": 3165147,
+            "MainBundleSize": 8615105,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -373,7 +373,7 @@
             "AssetGUID": "24131bcbf2f8ef840baae53a964cb0a8",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_background.bundle",
-            "MainBundleSize": 3165147,
+            "MainBundleSize": 8615105,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -383,7 +383,7 @@
             "AssetGUID": "b1ce6df28a6181643830a0a0f3d12423",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_background.bundle",
-            "MainBundleSize": 3165147,
+            "MainBundleSize": 8615105,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -393,7 +393,7 @@
             "AssetGUID": "ebdccca273156ae4da44569b3a02d11e",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_background.bundle",
-            "MainBundleSize": 3165147,
+            "MainBundleSize": 8615105,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -403,7 +403,7 @@
             "AssetGUID": "d5d8600452a5eeb4caee849575a251f3",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_background.bundle",
-            "MainBundleSize": 3165147,
+            "MainBundleSize": 8615105,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -413,7 +413,7 @@
             "AssetGUID": "f8c9c69d10e619f4f9ab60fefb50d001",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_background.bundle",
-            "MainBundleSize": 3165147,
+            "MainBundleSize": 8615105,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -423,7 +423,7 @@
             "AssetGUID": "2b45ca3b0328ca649aefbdc424c6d9b4",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_npc.bundle",
-            "MainBundleSize": 34078,
+            "MainBundleSize": 46176,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -433,7 +433,7 @@
             "AssetGUID": "1643f2e26fc76684e9f82ff5d4d6095b",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_npc.bundle",
-            "MainBundleSize": 34078,
+            "MainBundleSize": 46176,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -443,7 +443,7 @@
             "AssetGUID": "68d2ad52117c7c3458c7283c2f3b6be9",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_npc.bundle",
-            "MainBundleSize": 34078,
+            "MainBundleSize": 46176,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -453,7 +453,7 @@
             "AssetGUID": "2778b6f023c8bd347affa2b4f22c6fff",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_npc.bundle",
-            "MainBundleSize": 34078,
+            "MainBundleSize": 46176,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -463,7 +463,7 @@
             "AssetGUID": "4ecc5ed9563da964d9bf92de723a7d8e",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_npc.bundle",
-            "MainBundleSize": 34078,
+            "MainBundleSize": 46176,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -473,7 +473,7 @@
             "AssetGUID": "6bd7fef5a150fa84892890525ccf7d14",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_npc.bundle",
-            "MainBundleSize": 34078,
+            "MainBundleSize": 46176,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -483,7 +483,7 @@
             "AssetGUID": "5e2e42a77bafb4d4eaa5af4c3f6fb9b6",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_npc.bundle",
-            "MainBundleSize": 34078,
+            "MainBundleSize": 46176,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -493,7 +493,7 @@
             "AssetGUID": "12da5c9946af2b045b917b0e80d36fab",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_packages.bundle",
-            "MainBundleSize": 88313,
+            "MainBundleSize": 103817,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -503,7 +503,7 @@
             "AssetGUID": "fa68afdde5252894f912844252e7c36a",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_packages.bundle",
-            "MainBundleSize": 88313,
+            "MainBundleSize": 103817,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -513,7 +513,7 @@
             "AssetGUID": "5f050d7a5161c8045aef008bbabbdc73",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_packages.bundle",
-            "MainBundleSize": 88313,
+            "MainBundleSize": 103817,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -523,7 +523,7 @@
             "AssetGUID": "6a7690dc59d2b9542940bda49c1bef7f",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_packages.bundle",
-            "MainBundleSize": 88313,
+            "MainBundleSize": 103817,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -533,7 +533,7 @@
             "AssetGUID": "7ba4e68d7058f044f804f6e820d6f976",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_packages.bundle",
-            "MainBundleSize": 88313,
+            "MainBundleSize": 103817,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -543,7 +543,7 @@
             "AssetGUID": "b8e58c90a0f371d41a86cab322665317",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_packages.bundle",
-            "MainBundleSize": 88313,
+            "MainBundleSize": 103817,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -553,7 +553,7 @@
             "AssetGUID": "51d1e026159700c439ea795b2adb1179",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_packages.bundle",
-            "MainBundleSize": 88313,
+            "MainBundleSize": 103817,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -563,7 +563,7 @@
             "AssetGUID": "fa70ae5ea0e65f04f9d4e2697fce5b8f",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_packages.bundle",
-            "MainBundleSize": 88313,
+            "MainBundleSize": 103817,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -573,7 +573,7 @@
             "AssetGUID": "4cf543e08d7c19c4393dc4d4530a726e",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_packages.bundle",
-            "MainBundleSize": 88313,
+            "MainBundleSize": 103817,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -583,7 +583,7 @@
             "AssetGUID": "492ca5c18fc6aa343ad2bb1b638f9eed",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_packages.bundle",
-            "MainBundleSize": 88313,
+            "MainBundleSize": 103817,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -593,7 +593,7 @@
             "AssetGUID": "ed8170017ded5d34b961834f416d36c7",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_packages.bundle",
-            "MainBundleSize": 88313,
+            "MainBundleSize": 103817,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -603,7 +603,7 @@
             "AssetGUID": "d8f7ea350e558784ab4b21a7e0edd498",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_packages.bundle",
-            "MainBundleSize": 88313,
+            "MainBundleSize": 103817,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -613,7 +613,7 @@
             "AssetGUID": "9b90f361b5001414b869e91c2b01f20c",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_packages.bundle",
-            "MainBundleSize": 88313,
+            "MainBundleSize": 103817,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -623,7 +623,7 @@
             "AssetGUID": "85f3a54ccc41a6e40ae5e98b6e4f52f7",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_ui.bundle",
-            "MainBundleSize": 1721046,
+            "MainBundleSize": 2125147,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -633,7 +633,7 @@
             "AssetGUID": "2b6993634e49ad74a840d47576210ab7",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_ui.bundle",
-            "MainBundleSize": 1721046,
+            "MainBundleSize": 2125147,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -643,7 +643,7 @@
             "AssetGUID": "25c7912b2f557c7428f7cf2fa76aa9fc",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_ui.bundle",
-            "MainBundleSize": 1721046,
+            "MainBundleSize": 2125147,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -653,7 +653,7 @@
             "AssetGUID": "b40358fe6451d6241b50ee0883cb26af",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_ui.bundle",
-            "MainBundleSize": 1721046,
+            "MainBundleSize": 2125147,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -663,7 +663,7 @@
             "AssetGUID": "17ed867b5bacb5a458f660f4a7551a50",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_ui.bundle",
-            "MainBundleSize": 1721046,
+            "MainBundleSize": 2125147,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -673,7 +673,7 @@
             "AssetGUID": "5fffe622cf3ef8946ac40594d6bf8b4b",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_ui.bundle",
-            "MainBundleSize": 1721046,
+            "MainBundleSize": 2125147,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -683,7 +683,7 @@
             "AssetGUID": "574e4b636b2f7924593ccbe2f3c99483",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_texture_ui.bundle",
-            "MainBundleSize": 1721046,
+            "MainBundleSize": 2125147,
             "DependBundles": [],
             "DependAssets": []
         }
@@ -691,10 +691,10 @@
     "BundleInfos": [
         {
             "BundleName": "assets_bundledres_prefab.bundle",
-            "FileName": "assets_bundledres_prefab_d812bdfaf0f2e346cf00733d7f1774e8.bundle",
-            "FileHash": "d812bdfaf0f2e346cf00733d7f1774e8",
-            "FileCRC": "eaaf8248",
-            "FileSize": 123787,
+            "FileName": "assets_bundledres_prefab_305bc4d0a9a2d322d43c7b418f3281ef.bundle",
+            "FileHash": "305bc4d0a9a2d322d43c7b418f3281ef",
+            "FileCRC": "b6cd235f",
+            "FileSize": 50023,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -706,10 +706,10 @@
         },
         {
             "BundleName": "assets_bundledres_scene.bundle",
-            "FileName": "assets_bundledres_scene_48d02523d23c0a1f415a7f18e3bd4539.bundle",
-            "FileHash": "48d02523d23c0a1f415a7f18e3bd4539",
-            "FileCRC": "229f06a3",
-            "FileSize": 173771,
+            "FileName": "assets_bundledres_scene_76817c9bb85fa1ec19e8fa1760be8aa6.bundle",
+            "FileHash": "76817c9bb85fa1ec19e8fa1760be8aa6",
+            "FileCRC": "1d0100e6",
+            "FileSize": 337207,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -723,10 +723,10 @@
         },
         {
             "BundleName": "assets_bundledres_element.bundle",
-            "FileName": "assets_bundledres_element_51c93a4a48bdf7797598ebcf112fba10.bundle",
-            "FileHash": "51c93a4a48bdf7797598ebcf112fba10",
-            "FileCRC": "da01a076",
-            "FileSize": 20299,
+            "FileName": "assets_bundledres_element_6b614d16103ba2d68c394ea22217ce6e.bundle",
+            "FileHash": "6b614d16103ba2d68c394ea22217ce6e",
+            "FileCRC": "52a2d20d",
+            "FileSize": 20298,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -743,10 +743,10 @@
         },
         {
             "BundleName": "assets_bundledres_ui.bundle",
-            "FileName": "assets_bundledres_ui_330d74150fe622d55e2a76dd94ac8ca3.bundle",
-            "FileHash": "330d74150fe622d55e2a76dd94ac8ca3",
-            "FileCRC": "afa858a5",
-            "FileSize": 17860,
+            "FileName": "assets_bundledres_ui_b186406dfbeec5eaf77a0ac41ba335f7.bundle",
+            "FileHash": "b186406dfbeec5eaf77a0ac41ba335f7",
+            "FileCRC": "3c3ff317",
+            "FileSize": 17859,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -830,10 +830,10 @@
         },
         {
             "BundleName": "unityshaders.bundle",
-            "FileName": "unityshaders_803c6f8cd98c1d264bc7b5393e99c05f.bundle",
-            "FileHash": "803c6f8cd98c1d264bc7b5393e99c05f",
-            "FileCRC": "54ccc0d0",
-            "FileSize": 168542,
+            "FileName": "unityshaders_5d7c06a1f10e818f34b2288423ebaf21.bundle",
+            "FileHash": "5d7c06a1f10e818f34b2288423ebaf21",
+            "FileCRC": "11c34d8b",
+            "FileSize": 65142,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -847,10 +847,10 @@
         },
         {
             "BundleName": "assets_bundledres_texture_background.bundle",
-            "FileName": "assets_bundledres_texture_background_731b7be6ad34a9670c80358faa31c786.bundle",
-            "FileHash": "731b7be6ad34a9670c80358faa31c786",
-            "FileCRC": "7686e49d",
-            "FileSize": 3165147,
+            "FileName": "assets_bundledres_texture_background_0dd817c5250006a9933f43fcdc20290b.bundle",
+            "FileHash": "0dd817c5250006a9933f43fcdc20290b",
+            "FileCRC": "eb70b052",
+            "FileSize": 8615105,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -872,10 +872,10 @@
         },
         {
             "BundleName": "assets_bundledres_texture_npc.bundle",
-            "FileName": "assets_bundledres_texture_npc_efd215f42f7060673c6ca74c4df8f12b.bundle",
-            "FileHash": "efd215f42f7060673c6ca74c4df8f12b",
-            "FileCRC": "a6a8ba25",
-            "FileSize": 34078,
+            "FileName": "assets_bundledres_texture_npc_e518ecf931de20533dac981a5486b99d.bundle",
+            "FileHash": "e518ecf931de20533dac981a5486b99d",
+            "FileCRC": "40432a02",
+            "FileSize": 46176,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -892,10 +892,10 @@
         },
         {
             "BundleName": "assets_bundledres_texture_packages.bundle",
-            "FileName": "assets_bundledres_texture_packages_749916d49cbc27809430efe00c798323.bundle",
-            "FileHash": "749916d49cbc27809430efe00c798323",
-            "FileCRC": "78ea06ed",
-            "FileSize": 88313,
+            "FileName": "assets_bundledres_texture_packages_807db22b60e03c481d8950ad6596b890.bundle",
+            "FileHash": "807db22b60e03c481d8950ad6596b890",
+            "FileCRC": "1f0ab698",
+            "FileSize": 103817,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -918,10 +918,10 @@
         },
         {
             "BundleName": "assets_bundledres_texture_ui.bundle",
-            "FileName": "assets_bundledres_texture_ui_47ab5a3675c5e74dc7895dbe7844be2f.bundle",
-            "FileHash": "47ab5a3675c5e74dc7895dbe7844be2f",
-            "FileCRC": "7cc4f211",
-            "FileSize": 1721046,
+            "FileName": "assets_bundledres_texture_ui_2ee1cbd610387e7b0091aa5518f89227.bundle",
+            "FileHash": "2ee1cbd610387e7b0091aa5518f89227",
+            "FileCRC": "7f481b89",
+            "FileSize": 2125147,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -940,10 +940,10 @@
         },
         {
             "BundleName": "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
-            "FileName": "share_packages_com_unity_textmeshpro_editor resources_gizmos_d8926d716cb3e20002e3322cdd45c624.bundle",
-            "FileHash": "d8926d716cb3e20002e3322cdd45c624",
-            "FileCRC": "fed0fcbf",
-            "FileSize": 5655,
+            "FileName": "share_packages_com_unity_textmeshpro_editor resources_gizmos_1ada37c994c444f47041a042064ec0d7.bundle",
+            "FileHash": "1ada37c994c444f47041a042064ec0d7",
+            "FileCRC": "3cdda275",
+            "FileSize": 5652,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -955,10 +955,10 @@
         },
         {
             "BundleName": "share_assets_textmesh pro_resources_fonts & materials.bundle",
-            "FileName": "share_assets_textmesh pro_resources_fonts & materials_f7aaac36a57b74dc21ca54e804b60846.bundle",
-            "FileHash": "f7aaac36a57b74dc21ca54e804b60846",
-            "FileCRC": "7762de96",
-            "FileSize": 373765,
+            "FileName": "share_assets_textmesh pro_resources_fonts & materials_8b283231ce64d871769ba50b3de60a48.bundle",
+            "FileHash": "8b283231ce64d871769ba50b3de60a48",
+            "FileCRC": "fde6bf98",
+            "FileSize": 373764,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -974,10 +974,10 @@
         },
         {
             "BundleName": "share_assets_textmesh pro_fonts.bundle",
-            "FileName": "share_assets_textmesh pro_fonts_7090b8c0b75e7e92b66230b86e643f3e.bundle",
-            "FileHash": "7090b8c0b75e7e92b66230b86e643f3e",
-            "FileCRC": "fd65be36",
-            "FileSize": 227370,
+            "FileName": "share_assets_textmesh pro_fonts_0d87f86ea4116bb436940b95b4a23387.bundle",
+            "FileHash": "0d87f86ea4116bb436940b95b4a23387",
+            "FileCRC": "51312ab0",
+            "FileSize": 227368,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -990,9 +990,9 @@
         },
         {
             "BundleName": "share_assets_sprites_common.bundle",
-            "FileName": "share_assets_sprites_common_67ba8e8ca577b00c548fee65ae690261.bundle",
-            "FileHash": "67ba8e8ca577b00c548fee65ae690261",
-            "FileCRC": "958586dc",
+            "FileName": "share_assets_sprites_common_69bf678750d7a5b01bab4d4d2ad862f4.bundle",
+            "FileHash": "69bf678750d7a5b01bab4d4d2ad862f4",
+            "FileCRC": "e864a2a9",
             "FileSize": 9434,
             "IsRawFile": false,
             "LoadMethod": 0,
