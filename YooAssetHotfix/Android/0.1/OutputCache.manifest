@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1260580819
+CRC: 1289912412
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -8,12 +8,14 @@ AssetBundleManifest:
     Info_1:
       Name: assets_bundledres_scene.bundle
       Dependencies:
-        Dependency_0: share_assets_textmesh pro_resources_fonts & materials.bundle
+        Dependency_0: assets_bundledres_element.bundle
+        Dependency_1: share_assets_textmesh pro_resources_fonts & materials.bundle
     Info_2:
       Name: assets_bundledres_element.bundle
       Dependencies:
         Dependency_0: assets_bundledres_texture_background.bundle
         Dependency_1: share_assets_textmesh pro_resources_fonts & materials.bundle
+        Dependency_2: share_assets_sprites_common.bundle
     Info_3:
       Name: assets_bundledres_ui.bundle
       Dependencies:
@@ -44,4 +46,7 @@ AssetBundleManifest:
         Dependency_1: share_assets_textmesh pro_fonts.bundle
     Info_11:
       Name: share_assets_textmesh pro_fonts.bundle
+      Dependencies: {}
+    Info_12:
+      Name: share_assets_sprites_common.bundle
       Dependencies: {}

@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/12/2023 3:44:26 PM",
-        "BuildSeconds": 16,
+        "BuildDate": "10/12/2023 3:54:34 PM",
+        "BuildSeconds": 10,
         "BuildTarget": 2,
         "BuildPipeline": 0,
         "BuildMode": 0,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "V.0.1_2023-10-12-15-44-09",
+        "BuildPackageVersion": "V.0.1_2023-10-12-15-54-24",
         "EnableAddressable": true,
         "LocationToLower": false,
         "IncludeAssetGUID": false,
@@ -21,8 +21,8 @@
         "IgnoreTypeTreeChanges": true,
         "AssetFileTotalCount": 68,
         "MainAssetTotalCount": 54,
-        "AllBundleTotalCount": 17,
-        "AllBundleTotalSize": 14930767,
+        "AllBundleTotalCount": 18,
+        "AllBundleTotalSize": 14939452,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 5,
@@ -47,7 +47,7 @@
             "AssetGUID": "c78bd51dc73674391b304d95c867e134",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_scene.bundle",
-            "MainBundleSize": 332301,
+            "MainBundleSize": 337203,
             "DependBundles": [
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
                 "unityshaders.bundle",
@@ -71,9 +71,30 @@
             "AssetGUID": "030b8bbeabe86426bb814ace1f0be35c",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_scene.bundle",
-            "MainBundleSize": 332301,
-            "DependBundles": [],
-            "DependAssets": []
+            "MainBundleSize": 337203,
+            "DependBundles": [
+                "assets_bundledres_element.bundle",
+                "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+                "share_assets_sprites_common.bundle",
+                "unityshaders.bundle",
+                "share_assets_textmesh pro_resources_fonts & materials.bundle",
+                "share_assets_textmesh pro_fonts.bundle"
+            ],
+            "DependAssets": [
+                "Assets/BundledRes/Element/Button_Green.prefab",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Sprites/common/common_btn_green_big_down.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/Sprites/common/common_btn_red_big_down.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/Sprites/common/common_btn_red_big.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/BundledRes/Element/Button_Red.prefab",
+                "Assets/Sprites/common/common_btn_green_big.png",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
         },
         {
             "Address": "YooAssetLoader",
@@ -81,7 +102,7 @@
             "AssetGUID": "372a872c6d80d47d895d4580e38fbbbd",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_scene.bundle",
-            "MainBundleSize": 332301,
+            "MainBundleSize": 337203,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -91,9 +112,10 @@
             "AssetGUID": "51084bdaa02f842e5bea9bc690c08c81",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 26022,
+            "MainBundleSize": 20298,
             "DependBundles": [
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+                "share_assets_sprites_common.bundle",
                 "unityshaders.bundle",
                 "share_assets_textmesh pro_resources_fonts & materials.bundle",
                 "share_assets_textmesh pro_fonts.bundle"
@@ -116,10 +138,11 @@
             "AssetGUID": "cb117a80e8ff74b6ea5d960bd1287c24",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 26022,
+            "MainBundleSize": 20298,
             "DependBundles": [
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
                 "unityshaders.bundle",
+                "share_assets_sprites_common.bundle",
                 "share_assets_textmesh pro_resources_fonts & materials.bundle",
                 "share_assets_textmesh pro_fonts.bundle"
             ],
@@ -141,10 +164,11 @@
             "AssetGUID": "d5d3cb1b72f4147dcb7b3aa482e01c9e",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 26022,
+            "MainBundleSize": 20298,
             "DependBundles": [
                 "assets_bundledres_texture_background.bundle",
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+                "share_assets_sprites_common.bundle",
                 "unityshaders.bundle",
                 "share_assets_textmesh pro_resources_fonts & materials.bundle",
                 "share_assets_textmesh pro_fonts.bundle"
@@ -174,7 +198,7 @@
             "AssetGUID": "8b90734f8420245b8847afb8cecd45a6",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 26022,
+            "MainBundleSize": 20298,
             "DependBundles": [
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
                 "unityshaders.bundle",
@@ -197,7 +221,7 @@
             "AssetGUID": "a36340e11946f45118dfa97a79e858eb",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 17786,
+            "MainBundleSize": 17859,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -207,7 +231,7 @@
             "AssetGUID": "3f8c8381d03f44e7eb98b5fc6314ba96",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 17786,
+            "MainBundleSize": 17859,
             "DependBundles": [
                 "assets_bundledres_texture_ui.bundle"
             ],
@@ -223,7 +247,7 @@
             "AssetGUID": "dda98fe90942740aca9f18fca00c3d85",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 17786,
+            "MainBundleSize": 17859,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -233,7 +257,7 @@
             "AssetGUID": "41651dba72f424433acadcc9e4e0243e",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 17786,
+            "MainBundleSize": 17859,
             "DependBundles": [
                 "assets_bundledres_texture_background.bundle"
             ],
@@ -682,10 +706,10 @@
         },
         {
             "BundleName": "assets_bundledres_scene.bundle",
-            "FileName": "assets_bundledres_scene_4e299e7af7356d96c9050f915661fa86.bundle",
-            "FileHash": "4e299e7af7356d96c9050f915661fa86",
-            "FileCRC": "1738d51d",
-            "FileSize": 332301,
+            "FileName": "assets_bundledres_scene_a7a6949ae5b1f5a915897c10a9df909f.bundle",
+            "FileHash": "a7a6949ae5b1f5a915897c10a9df909f",
+            "FileCRC": "eb5e29bc",
+            "FileSize": 337203,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -699,32 +723,30 @@
         },
         {
             "BundleName": "assets_bundledres_element.bundle",
-            "FileName": "assets_bundledres_element_90caa6ae5962b1d06b2758a5f73cf91e.bundle",
-            "FileHash": "90caa6ae5962b1d06b2758a5f73cf91e",
-            "FileCRC": "927af636",
-            "FileSize": 26022,
+            "FileName": "assets_bundledres_element_6b614d16103ba2d68c394ea22217ce6e.bundle",
+            "FileHash": "6b614d16103ba2d68c394ea22217ce6e",
+            "FileCRC": "52a2d20d",
+            "FileSize": 20298,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
-            "ReferenceIDs": [],
+            "ReferenceIDs": [
+                1
+            ],
             "AllBuiltinAssets": [
                 "Assets/BundledRes/Element/Button_Green.prefab",
                 "Assets/BundledRes/Element/Button_Red.prefab",
                 "Assets/BundledRes/Element/Loader.prefab",
                 "Assets/BundledRes/Element/Slider.prefab",
-                "Assets/Sprites/common/common_btn_green_big_down.png",
-                "Assets/Sprites/common/common_btn_green_big.png",
-                "Assets/Sprites/common/common_btn_red_big_down.png",
-                "Assets/Sprites/common/common_btn_red_big.png",
                 "Assets/Sprites/common/common_win_bg2.png"
             ]
         },
         {
             "BundleName": "assets_bundledres_ui.bundle",
-            "FileName": "assets_bundledres_ui_317e4931369033f578e681dadd9fb5ad.bundle",
-            "FileHash": "317e4931369033f578e681dadd9fb5ad",
-            "FileCRC": "86e55731",
-            "FileSize": 17786,
+            "FileName": "assets_bundledres_ui_b186406dfbeec5eaf77a0ac41ba335f7.bundle",
+            "FileHash": "b186406dfbeec5eaf77a0ac41ba335f7",
+            "FileCRC": "3c3ff317",
+            "FileSize": 17859,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -964,6 +986,25 @@
             ],
             "AllBuiltinAssets": [
                 "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "BundleName": "share_assets_sprites_common.bundle",
+            "FileName": "share_assets_sprites_common_69bf678750d7a5b01bab4d4d2ad862f4.bundle",
+            "FileHash": "69bf678750d7a5b01bab4d4d2ad862f4",
+            "FileCRC": "e864a2a9",
+            "FileSize": 9434,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                2
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Sprites/common/common_btn_green_big_down.png",
+                "Assets/Sprites/common/common_btn_red_big_down.png",
+                "Assets/Sprites/common/common_btn_red_big.png",
+                "Assets/Sprites/common/common_btn_green_big.png"
             ]
         }
     ],

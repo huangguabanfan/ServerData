@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "V.0.1_2023-10-12-15-44-26",
+    "PackageVersion": "V.0.1_2023-10-12-15-54-24",
     "AssetList": [
         {
             "Address": "Cube",
@@ -34,7 +34,14 @@
             "AssetGUID": "",
             "AssetTags": [],
             "BundleID": 1,
-            "DependIDs": []
+            "DependIDs": [
+                2,
+                14,
+                17,
+                9,
+                15,
+                16
+            ]
         },
         {
             "Address": "YooAssetLoader",
@@ -52,6 +59,7 @@
             "BundleID": 2,
             "DependIDs": [
                 14,
+                17,
                 9,
                 15,
                 16
@@ -66,6 +74,7 @@
             "DependIDs": [
                 14,
                 9,
+                17,
                 15,
                 16
             ]
@@ -79,6 +88,7 @@
             "DependIDs": [
                 10,
                 14,
+                17,
                 9,
                 15,
                 16
@@ -473,10 +483,10 @@
     "BundleList": [
         {
             "BundleName": "assets_bundledres_prefab.bundle",
-            "UnityCRC": 3303657004,
-            "FileHash": "d812bdfaf0f2e346cf00733d7f1774e8",
-            "FileCRC": "eaaf8248",
-            "FileSize": 123787,
+            "UnityCRC": 833815701,
+            "FileHash": "305bc4d0a9a2d322d43c7b418f3281ef",
+            "FileCRC": "b6cd235f",
+            "FileSize": 50023,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -484,10 +494,10 @@
         },
         {
             "BundleName": "assets_bundledres_scene.bundle",
-            "UnityCRC": 2197316160,
-            "FileHash": "81ad53a2f974fefaf869ef4d9f97f539",
-            "FileCRC": "2d50a115",
-            "FileSize": 169354,
+            "UnityCRC": 1735566476,
+            "FileHash": "a7a6949ae5b1f5a915897c10a9df909f",
+            "FileCRC": "eb5e29bc",
+            "FileSize": 337203,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -495,21 +505,23 @@
         },
         {
             "BundleName": "assets_bundledres_element.bundle",
-            "UnityCRC": 2757232220,
-            "FileHash": "983f07c2fe15507505d94265b947b8bf",
-            "FileCRC": "16b92792",
-            "FileSize": 26023,
+            "UnityCRC": 2908188037,
+            "FileHash": "6b614d16103ba2d68c394ea22217ce6e",
+            "FileCRC": "52a2d20d",
+            "FileSize": 20298,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
-            "ReferenceIDs": []
+            "ReferenceIDs": [
+                1
+            ]
         },
         {
             "BundleName": "assets_bundledres_ui.bundle",
-            "UnityCRC": 1574130195,
-            "FileHash": "ddd5aa4f0eb12e6b989263b93dcb9ea2",
-            "FileCRC": "d488ec58",
-            "FileSize": 17787,
+            "UnityCRC": 2658586031,
+            "FileHash": "b186406dfbeec5eaf77a0ac41ba335f7",
+            "FileCRC": "3c3ff317",
+            "FileSize": 17859,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -572,10 +584,10 @@
         },
         {
             "BundleName": "unityshaders.bundle",
-            "UnityCRC": 337361614,
-            "FileHash": "803c6f8cd98c1d264bc7b5393e99c05f",
-            "FileCRC": "54ccc0d0",
-            "FileSize": 168542,
+            "UnityCRC": 2837969433,
+            "FileHash": "5d7c06a1f10e818f34b2288423ebaf21",
+            "FileCRC": "11c34d8b",
+            "FileSize": 65142,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -585,10 +597,10 @@
         },
         {
             "BundleName": "assets_bundledres_texture_background.bundle",
-            "UnityCRC": 570536675,
-            "FileHash": "731b7be6ad34a9670c80358faa31c786",
-            "FileCRC": "7686e49d",
-            "FileSize": 3165147,
+            "UnityCRC": 2390181599,
+            "FileHash": "0dd817c5250006a9933f43fcdc20290b",
+            "FileCRC": "eb70b052",
+            "FileSize": 8615105,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -599,10 +611,10 @@
         },
         {
             "BundleName": "assets_bundledres_texture_npc.bundle",
-            "UnityCRC": 3080612790,
-            "FileHash": "efd215f42f7060673c6ca74c4df8f12b",
-            "FileCRC": "a6a8ba25",
-            "FileSize": 34078,
+            "UnityCRC": 3410343946,
+            "FileHash": "e518ecf931de20533dac981a5486b99d",
+            "FileCRC": "40432a02",
+            "FileSize": 46176,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -610,10 +622,10 @@
         },
         {
             "BundleName": "assets_bundledres_texture_packages.bundle",
-            "UnityCRC": 2285782095,
-            "FileHash": "749916d49cbc27809430efe00c798323",
-            "FileCRC": "78ea06ed",
-            "FileSize": 88313,
+            "UnityCRC": 2088941779,
+            "FileHash": "807db22b60e03c481d8950ad6596b890",
+            "FileCRC": "1f0ab698",
+            "FileSize": 103817,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -621,10 +633,10 @@
         },
         {
             "BundleName": "assets_bundledres_texture_ui.bundle",
-            "UnityCRC": 3335718381,
-            "FileHash": "47ab5a3675c5e74dc7895dbe7844be2f",
-            "FileCRC": "7cc4f211",
-            "FileSize": 1721046,
+            "UnityCRC": 2427485468,
+            "FileHash": "2ee1cbd610387e7b0091aa5518f89227",
+            "FileCRC": "7f481b89",
+            "FileSize": 2125147,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -634,10 +646,10 @@
         },
         {
             "BundleName": "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
-            "UnityCRC": 279689642,
-            "FileHash": "d8926d716cb3e20002e3322cdd45c624",
-            "FileCRC": "fed0fcbf",
-            "FileSize": 5655,
+            "UnityCRC": 2671448094,
+            "FileHash": "1ada37c994c444f47041a042064ec0d7",
+            "FileCRC": "3cdda275",
+            "FileSize": 5652,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -645,10 +657,10 @@
         },
         {
             "BundleName": "share_assets_textmesh pro_resources_fonts & materials.bundle",
-            "UnityCRC": 3620845051,
-            "FileHash": "f7aaac36a57b74dc21ca54e804b60846",
-            "FileCRC": "7762de96",
-            "FileSize": 373765,
+            "UnityCRC": 2900556036,
+            "FileHash": "8b283231ce64d871769ba50b3de60a48",
+            "FileCRC": "fde6bf98",
+            "FileSize": 373764,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -659,15 +671,28 @@
         },
         {
             "BundleName": "share_assets_textmesh pro_fonts.bundle",
-            "UnityCRC": 2749632278,
-            "FileHash": "7090b8c0b75e7e92b66230b86e643f3e",
-            "FileCRC": "fd65be36",
-            "FileSize": 227370,
+            "UnityCRC": 1388743360,
+            "FileHash": "0d87f86ea4116bb436940b95b4a23387",
+            "FileCRC": "51312ab0",
+            "FileSize": 227368,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
                 15
+            ]
+        },
+        {
+            "BundleName": "share_assets_sprites_common.bundle",
+            "UnityCRC": 3287012917,
+            "FileHash": "69bf678750d7a5b01bab4d4d2ad862f4",
+            "FileCRC": "e864a2a9",
+            "FileSize": 9434,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                2
             ]
         }
     ]
