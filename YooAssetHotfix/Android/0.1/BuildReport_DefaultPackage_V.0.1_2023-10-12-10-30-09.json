@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/11/2023 4:46:30 PM",
-        "BuildSeconds": 5,
+        "BuildDate": "10/12/2023 10:30:13 AM",
+        "BuildSeconds": 4,
         "BuildTarget": 13,
         "BuildPipeline": 0,
         "BuildMode": 0,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "V.0.1_2023-10-11-16-46-24",
+        "BuildPackageVersion": "V.0.1_2023-10-12-10-30-09",
         "EnableAddressable": true,
         "LocationToLower": false,
         "IncludeAssetGUID": false,
@@ -22,11 +22,11 @@
         "AssetFileTotalCount": 67,
         "MainAssetTotalCount": 53,
         "AllBundleTotalCount": 16,
-        "AllBundleTotalSize": 9058299,
+        "AllBundleTotalSize": 9059834,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 4,
-        "RawBundleTotalSize": 2937344
+        "RawBundleTotalSize": 2938880
     },
     "AssetInfos": [
         {
@@ -35,7 +35,7 @@
             "AssetGUID": "826df16210d6b441a902000e4d0346f7",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_prefab.bundle",
-            "MainBundleSize": 123788,
+            "MainBundleSize": 123787,
             "DependBundles": [],
             "DependAssets": [
                 "Assets/BundledRes/Material/mat_cube.mat"
@@ -257,7 +257,7 @@
             "AssetGUID": "477ecafe5bb7648e88d8c5fa0f1077b3",
             "AssetTags": [],
             "MainBundleName": "assets_dll_aot_mscorlib_dll_bytes.rawfile",
-            "MainBundleSize": 2203136,
+            "MainBundleSize": 2204672,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -657,10 +657,10 @@
     "BundleInfos": [
         {
             "BundleName": "assets_bundledres_prefab.bundle",
-            "FileName": "assets_bundledres_prefab_207e5fc72b960898b2cde96430c62719.bundle",
-            "FileHash": "207e5fc72b960898b2cde96430c62719",
-            "FileCRC": "1e62dc66",
-            "FileSize": 123788,
+            "FileName": "assets_bundledres_prefab_d812bdfaf0f2e346cf00733d7f1774e8.bundle",
+            "FileHash": "d812bdfaf0f2e346cf00733d7f1774e8",
+            "FileCRC": "eaaf8248",
+            "FileSize": 123787,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -742,10 +742,10 @@
         },
         {
             "BundleName": "assets_dll_aot_mscorlib_dll_bytes.rawfile",
-            "FileName": "assets_dll_aot_mscorlib_dll_bytes_4f08f9b071b4d05822e35e64fe7d06b9.rawfile",
-            "FileHash": "4f08f9b071b4d05822e35e64fe7d06b9",
-            "FileCRC": "5be7b9ad",
-            "FileSize": 2203136,
+            "FileName": "assets_dll_aot_mscorlib_dll_bytes_8f2ca1c3692f4dc58e0bd3d6317ae16f.rawfile",
+            "FileHash": "8f2ca1c3692f4dc58e0bd3d6317ae16f",
+            "FileCRC": "44f0e07e",
+            "FileSize": 2204672,
             "IsRawFile": true,
             "LoadMethod": 0,
             "Tags": [],
