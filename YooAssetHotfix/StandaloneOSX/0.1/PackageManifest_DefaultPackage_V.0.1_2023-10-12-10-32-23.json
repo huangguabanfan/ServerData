@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "V.0.1_2023-10-12-10-30-01",
+    "PackageVersion": "V.0.1_2023-10-12-10-32-23",
     "AssetList": [
         {
             "Address": "Cube",
@@ -22,10 +22,10 @@
             "AssetTags": [],
             "BundleID": 1,
             "DependIDs": [
-                13,
-                8,
                 14,
-                15
+                9,
+                15,
+                16
             ]
         },
         {
@@ -51,10 +51,10 @@
             "AssetTags": [],
             "BundleID": 2,
             "DependIDs": [
-                13,
-                8,
                 14,
-                15
+                9,
+                15,
+                16
             ]
         },
         {
@@ -64,10 +64,10 @@
             "AssetTags": [],
             "BundleID": 2,
             "DependIDs": [
-                13,
-                8,
                 14,
-                15
+                9,
+                15,
+                16
             ]
         },
         {
@@ -77,11 +77,11 @@
             "AssetTags": [],
             "BundleID": 2,
             "DependIDs": [
-                9,
-                13,
-                8,
+                10,
                 14,
-                15
+                9,
+                15,
+                16
             ]
         },
         {
@@ -91,10 +91,10 @@
             "AssetTags": [],
             "BundleID": 2,
             "DependIDs": [
-                13,
-                8,
                 14,
-                15
+                9,
+                15,
+                16
             ]
         },
         {
@@ -112,7 +112,7 @@
             "AssetTags": [],
             "BundleID": 3,
             "DependIDs": [
-                12
+                13
             ]
         },
         {
@@ -130,7 +130,7 @@
             "AssetTags": [],
             "BundleID": 3,
             "DependIDs": [
-                9
+                10
             ]
         },
         {
@@ -142,11 +142,19 @@
             "DependIDs": []
         },
         {
+            "Address": "hotfix2.dll",
+            "AssetPath": "Assets/Dll/hotfix/hotfix2.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5,
+            "DependIDs": []
+        },
+        {
             "Address": "mscorlib.dll",
             "AssetPath": "Assets/Dll/AOT/mscorlib.dll.bytes",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 5,
+            "BundleID": 6,
             "DependIDs": []
         },
         {
@@ -154,7 +162,7 @@
             "AssetPath": "Assets/Dll/AOT/System.Core.dll.bytes",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 6,
+            "BundleID": 7,
             "DependIDs": []
         },
         {
@@ -162,7 +170,7 @@
             "AssetPath": "Assets/Dll/AOT/System.dll.bytes",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 7,
+            "BundleID": 8,
             "DependIDs": []
         },
         {
@@ -170,7 +178,7 @@
             "AssetPath": "Assets/BundledRes/ShaderVariants/ShaderVariants.shadervariants",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 8,
+            "BundleID": 9,
             "DependIDs": []
         },
         {
@@ -178,7 +186,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Background/20190812223857627.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 9,
+            "BundleID": 10,
             "DependIDs": []
         },
         {
@@ -186,7 +194,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Background/Arknights.jpg",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 9,
+            "BundleID": 10,
             "DependIDs": []
         },
         {
@@ -194,7 +202,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Background/Fuben1.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 9,
+            "BundleID": 10,
             "DependIDs": []
         },
         {
@@ -202,7 +210,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Background/Fuben2.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 9,
+            "BundleID": 10,
             "DependIDs": []
         },
         {
@@ -210,7 +218,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Background/Fuben3.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 9,
+            "BundleID": 10,
             "DependIDs": []
         },
         {
@@ -218,7 +226,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Background/LogonBG.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 9,
+            "BundleID": 10,
             "DependIDs": []
         },
         {
@@ -226,7 +234,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Background/MainBG.jpg",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 9,
+            "BundleID": 10,
             "DependIDs": []
         },
         {
@@ -234,7 +242,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Background/SelectHero.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 9,
+            "BundleID": 10,
             "DependIDs": []
         },
         {
@@ -242,7 +250,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Background/SelectLevel2.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 9,
+            "BundleID": 10,
             "DependIDs": []
         },
         {
@@ -250,7 +258,7 @@
             "AssetPath": "Assets/BundledRes/Texture/NPC/cunzhang.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 10,
+            "BundleID": 11,
             "DependIDs": []
         },
         {
@@ -258,7 +266,7 @@
             "AssetPath": "Assets/BundledRes/Texture/NPC/dafashi.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 10,
+            "BundleID": 11,
             "DependIDs": []
         },
         {
@@ -266,7 +274,7 @@
             "AssetPath": "Assets/BundledRes/Texture/NPC/guanka.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 10,
+            "BundleID": 11,
             "DependIDs": []
         },
         {
@@ -274,7 +282,7 @@
             "AssetPath": "Assets/BundledRes/Texture/NPC/lenshentuoer.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 10,
+            "BundleID": 11,
             "DependIDs": []
         },
         {
@@ -282,7 +290,7 @@
             "AssetPath": "Assets/BundledRes/Texture/NPC/yadianna.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 10,
+            "BundleID": 11,
             "DependIDs": []
         },
         {
@@ -290,7 +298,7 @@
             "AssetPath": "Assets/BundledRes/Texture/NPC/yasewang.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 10,
+            "BundleID": 11,
             "DependIDs": []
         },
         {
@@ -298,7 +306,7 @@
             "AssetPath": "Assets/BundledRes/Texture/NPC/zhitianshi.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 10,
+            "BundleID": 11,
             "DependIDs": []
         },
         {
@@ -306,7 +314,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Packages/1LVclothes.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 11,
+            "BundleID": 12,
             "DependIDs": []
         },
         {
@@ -314,7 +322,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Packages/1LVpants.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 11,
+            "BundleID": 12,
             "DependIDs": []
         },
         {
@@ -322,7 +330,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Packages/1LVshoes.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 11,
+            "BundleID": 12,
             "DependIDs": []
         },
         {
@@ -330,7 +338,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Packages/1LVstaff.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 11,
+            "BundleID": 12,
             "DependIDs": []
         },
         {
@@ -338,7 +346,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Packages/10LVstaff.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 11,
+            "BundleID": 12,
             "DependIDs": []
         },
         {
@@ -346,7 +354,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Packages/20LVring.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 11,
+            "BundleID": 12,
             "DependIDs": []
         },
         {
@@ -354,7 +362,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Packages/40LVclothes.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 11,
+            "BundleID": 12,
             "DependIDs": []
         },
         {
@@ -362,7 +370,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Packages/chongwujingpo.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 11,
+            "BundleID": 12,
             "DependIDs": []
         },
         {
@@ -370,7 +378,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Packages/copper_box.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 11,
+            "BundleID": 12,
             "DependIDs": []
         },
         {
@@ -378,7 +386,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Packages/Gem3LV1.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 11,
+            "BundleID": 12,
             "DependIDs": []
         },
         {
@@ -386,7 +394,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Packages/Gem4LV2.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 11,
+            "BundleID": 12,
             "DependIDs": []
         },
         {
@@ -394,7 +402,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Packages/Gem6LV3.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 11,
+            "BundleID": 12,
             "DependIDs": []
         },
         {
@@ -402,7 +410,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Packages/StrengStone.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 11,
+            "BundleID": 12,
             "DependIDs": []
         },
         {
@@ -410,7 +418,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Ui/Common Atlas.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 12,
+            "BundleID": 13,
             "DependIDs": []
         },
         {
@@ -418,7 +426,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Ui/createrole Atlas.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 12,
+            "BundleID": 13,
             "DependIDs": []
         },
         {
@@ -426,7 +434,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Ui/Main Atlas.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 12,
+            "BundleID": 13,
             "DependIDs": []
         },
         {
@@ -434,7 +442,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Ui/mmap.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 12,
+            "BundleID": 13,
             "DependIDs": []
         },
         {
@@ -442,7 +450,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Ui/ui_atlas_battle.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 12,
+            "BundleID": 13,
             "DependIDs": []
         },
         {
@@ -450,7 +458,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Ui/ui_atlas_icon_common.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 12,
+            "BundleID": 13,
             "DependIDs": []
         },
         {
@@ -458,7 +466,7 @@
             "AssetPath": "Assets/BundledRes/Texture/Ui/ui_atlas_img_local_normal.png",
             "AssetGUID": "",
             "AssetTags": [],
-            "BundleID": 12,
+            "BundleID": 13,
             "DependIDs": []
         }
     ],
@@ -519,6 +527,17 @@
             "ReferenceIDs": []
         },
         {
+            "BundleName": "assets_dll_hotfix_hotfix2_dll_bytes.rawfile",
+            "UnityCRC": 0,
+            "FileHash": "52ac2984437f2015e773df461f3e0055",
+            "FileCRC": "e7aed3ac",
+            "FileSize": 3584,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
             "BundleName": "assets_dll_aot_mscorlib_dll_bytes.rawfile",
             "UnityCRC": 0,
             "FileHash": "8f2ca1c3692f4dc58e0bd3d6317ae16f",
@@ -561,7 +580,7 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                14
+                15
             ]
         },
         {
@@ -648,7 +667,7 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                14
+                15
             ]
         }
     ]

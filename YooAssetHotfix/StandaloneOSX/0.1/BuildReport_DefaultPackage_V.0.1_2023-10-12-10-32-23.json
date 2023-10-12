@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/12/2023 10:30:09 AM",
+        "BuildDate": "10/12/2023 10:32:31 AM",
         "BuildSeconds": 7,
         "BuildTarget": 2,
         "BuildPipeline": 0,
         "BuildMode": 0,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "V.0.1_2023-10-12-10-30-01",
+        "BuildPackageVersion": "V.0.1_2023-10-12-10-32-23",
         "EnableAddressable": true,
         "LocationToLower": false,
         "IncludeAssetGUID": false,
@@ -19,14 +19,14 @@
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
-        "AssetFileTotalCount": 67,
-        "MainAssetTotalCount": 53,
-        "AllBundleTotalCount": 16,
-        "AllBundleTotalSize": 14927270,
+        "AssetFileTotalCount": 68,
+        "MainAssetTotalCount": 54,
+        "AllBundleTotalCount": 17,
+        "AllBundleTotalSize": 14930854,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
-        "RawBundleTotalCount": 4,
-        "RawBundleTotalSize": 2938880
+        "RawBundleTotalCount": 5,
+        "RawBundleTotalSize": 2942464
     },
     "AssetInfos": [
         {
@@ -248,6 +248,16 @@
             "AssetTags": [],
             "MainBundleName": "assets_dll_hotfix_hotfix_dll_bytes.rawfile",
             "MainBundleSize": 4608,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "hotfix2.dll",
+            "AssetPath": "Assets/Dll/hotfix/hotfix2.dll.bytes",
+            "AssetGUID": "4d690da7315e64e8daf20080de9f393f",
+            "AssetTags": [],
+            "MainBundleName": "assets_dll_hotfix_hotfix2_dll_bytes.rawfile",
+            "MainBundleSize": 3584,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -741,6 +751,20 @@
             ]
         },
         {
+            "BundleName": "assets_dll_hotfix_hotfix2_dll_bytes.rawfile",
+            "FileName": "assets_dll_hotfix_hotfix2_dll_bytes_52ac2984437f2015e773df461f3e0055.rawfile",
+            "FileHash": "52ac2984437f2015e773df461f3e0055",
+            "FileCRC": "e7aed3ac",
+            "FileSize": 3584,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/Dll/hotfix/hotfix2.dll.bytes"
+            ]
+        },
+        {
             "BundleName": "assets_dll_aot_mscorlib_dll_bytes.rawfile",
             "FileName": "assets_dll_aot_mscorlib_dll_bytes_8f2ca1c3692f4dc58e0bd3d6317ae16f.rawfile",
             "FileHash": "8f2ca1c3692f4dc58e0bd3d6317ae16f",
@@ -792,7 +816,7 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                14
+                15
             ],
             "AllBuiltinAssets": [
                 "Assets/BundledRes/ShaderVariants/ShaderVariants.shadervariants",
@@ -936,7 +960,7 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                14
+                15
             ],
             "AllBuiltinAssets": [
                 "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
