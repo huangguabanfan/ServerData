@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/12/2023 4:37:05 PM",
-        "BuildSeconds": 6,
+        "BuildDate": "10/12/2023 5:29:11 PM",
+        "BuildSeconds": 9,
         "BuildTarget": 2,
         "BuildPipeline": 0,
         "BuildMode": 1,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "V.0.1_2023-10-12-16-36-59",
+        "BuildPackageVersion": "V.0.1_2023-10-12-17-29-01",
         "EnableAddressable": true,
         "LocationToLower": false,
         "IncludeAssetGUID": false,
@@ -19,10 +19,10 @@
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
-        "AssetFileTotalCount": 68,
-        "MainAssetTotalCount": 54,
+        "AssetFileTotalCount": 74,
+        "MainAssetTotalCount": 60,
         "AllBundleTotalCount": 18,
-        "AllBundleTotalSize": 14939456,
+        "AllBundleTotalSize": 14948190,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 5,
@@ -47,7 +47,7 @@
             "AssetGUID": "c78bd51dc73674391b304d95c867e134",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_scene.bundle",
-            "MainBundleSize": 337207,
+            "MainBundleSize": 337708,
             "DependBundles": [
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
                 "unityshaders.bundle",
@@ -71,7 +71,7 @@
             "AssetGUID": "030b8bbeabe86426bb814ace1f0be35c",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_scene.bundle",
-            "MainBundleSize": 337207,
+            "MainBundleSize": 337708,
             "DependBundles": [
                 "assets_bundledres_element.bundle",
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
@@ -102,7 +102,7 @@
             "AssetGUID": "372a872c6d80d47d895d4580e38fbbbd",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_scene.bundle",
-            "MainBundleSize": 337207,
+            "MainBundleSize": 337708,
             "DependBundles": [],
             "DependAssets": []
         },
@@ -112,7 +112,7 @@
             "AssetGUID": "51084bdaa02f842e5bea9bc690c08c81",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 20298,
+            "MainBundleSize": 21605,
             "DependBundles": [
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
                 "share_assets_sprites_common.bundle",
@@ -138,7 +138,7 @@
             "AssetGUID": "cb117a80e8ff74b6ea5d960bd1287c24",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 20298,
+            "MainBundleSize": 21605,
             "DependBundles": [
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
                 "unityshaders.bundle",
@@ -164,7 +164,7 @@
             "AssetGUID": "d5d3cb1b72f4147dcb7b3aa482e01c9e",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 20298,
+            "MainBundleSize": 21605,
             "DependBundles": [
                 "assets_bundledres_texture_background.bundle",
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
@@ -198,7 +198,7 @@
             "AssetGUID": "8b90734f8420245b8847afb8cecd45a6",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_element.bundle",
-            "MainBundleSize": 20298,
+            "MainBundleSize": 21605,
             "DependBundles": [
                 "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
                 "unityshaders.bundle",
@@ -221,17 +221,41 @@
             "AssetGUID": "a36340e11946f45118dfa97a79e858eb",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 17859,
+            "MainBundleSize": 24785,
             "DependBundles": [],
             "DependAssets": []
         },
         {
-            "Address": "HeroInfoUIForm",
-            "AssetPath": "Assets/BundledRes/UI/HeroInfoUIForm.prefab",
+            "Address": "Test",
+            "AssetPath": "Assets/BundledRes/UI/Test.prefab",
+            "AssetGUID": "dda98fe90942740aca9f18fca00c3d85",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_ui.bundle",
+            "MainBundleSize": 24785,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "UIDetail",
+            "AssetPath": "Assets/BundledRes/UI/UIDetail.prefab",
+            "AssetGUID": "1b3f17b4ee55741f29d11918c66bcb8a",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_ui.bundle",
+            "MainBundleSize": 24785,
+            "DependBundles": [
+                "assets_bundledres_texture_ui.bundle"
+            ],
+            "DependAssets": [
+                "Assets/BundledRes/Texture/Ui/Common Atlas.png"
+            ]
+        },
+        {
+            "Address": "UIHeroInfo",
+            "AssetPath": "Assets/BundledRes/UI/UIHeroInfo.prefab",
             "AssetGUID": "3f8c8381d03f44e7eb98b5fc6314ba96",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 17859,
+            "MainBundleSize": 24785,
             "DependBundles": [
                 "assets_bundledres_texture_ui.bundle"
             ],
@@ -242,27 +266,112 @@
             ]
         },
         {
-            "Address": "Test",
-            "AssetPath": "Assets/BundledRes/UI/Test.prefab",
-            "AssetGUID": "dda98fe90942740aca9f18fca00c3d85",
-            "AssetTags": [],
-            "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 17859,
-            "DependBundles": [],
-            "DependAssets": []
-        },
-        {
             "Address": "UILogin",
             "AssetPath": "Assets/BundledRes/UI/UILogin.prefab",
             "AssetGUID": "41651dba72f424433acadcc9e4e0243e",
             "AssetTags": [],
             "MainBundleName": "assets_bundledres_ui.bundle",
-            "MainBundleSize": 17859,
+            "MainBundleSize": 24785,
             "DependBundles": [
                 "assets_bundledres_texture_background.bundle"
             ],
             "DependAssets": [
                 "Assets/BundledRes/Texture/Background/LogonBG.png"
+            ]
+        },
+        {
+            "Address": "UIMainCity",
+            "AssetPath": "Assets/BundledRes/UI/UIMainCity.prefab",
+            "AssetGUID": "8e29d58168a794c6ba0ef5bb8c4900e5",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_ui.bundle",
+            "MainBundleSize": 24785,
+            "DependBundles": [
+                "assets_bundledres_texture_ui.bundle",
+                "assets_bundledres_texture_background.bundle"
+            ],
+            "DependAssets": [
+                "Assets/BundledRes/Texture/Ui/ui_atlas_img_local_normal.png",
+                "Assets/BundledRes/Texture/Background/MainBG.jpg"
+            ]
+        },
+        {
+            "Address": "UIMarket",
+            "AssetPath": "Assets/BundledRes/UI/UIMarket.prefab",
+            "AssetGUID": "c2a7346f222b9425cbb6362450a303d4",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_ui.bundle",
+            "MainBundleSize": 24785,
+            "DependBundles": [
+                "assets_bundledres_texture_packages.bundle",
+                "assets_bundledres_texture_ui.bundle"
+            ],
+            "DependAssets": [
+                "Assets/BundledRes/Texture/Packages/1LVpants.png",
+                "Assets/BundledRes/Texture/Packages/10LVstaff.png",
+                "Assets/BundledRes/Texture/Packages/1LVshoes.png",
+                "Assets/BundledRes/Texture/Packages/1LVclothes.png",
+                "Assets/BundledRes/Texture/Ui/Common Atlas.png"
+            ]
+        },
+        {
+            "Address": "UISelectHero",
+            "AssetPath": "Assets/BundledRes/UI/UISelectHero.prefab",
+            "AssetGUID": "3544fd09db7164809b1079309eb46264",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_ui.bundle",
+            "MainBundleSize": 24785,
+            "DependBundles": [
+                "assets_bundledres_texture_ui.bundle",
+                "assets_bundledres_texture_background.bundle"
+            ],
+            "DependAssets": [
+                "Assets/BundledRes/Texture/Ui/ui_atlas_battle.png",
+                "Assets/BundledRes/Texture/Background/SelectHero.png"
+            ]
+        },
+        {
+            "Address": "UITest1",
+            "AssetPath": "Assets/BundledRes/UI/UITest1.prefab",
+            "AssetGUID": "571be715fc5454957ad4c302cac865db",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_ui.bundle",
+            "MainBundleSize": 24785,
+            "DependBundles": [
+                "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+                "unityshaders.bundle",
+                "share_assets_textmesh pro_resources_fonts & materials.bundle",
+                "share_assets_textmesh pro_fonts.bundle"
+            ],
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "UITest2",
+            "AssetPath": "Assets/BundledRes/UI/UITest2.prefab",
+            "AssetGUID": "dd4d51b0328534eef8fbccdb8b7a4e73",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundledres_ui.bundle",
+            "MainBundleSize": 24785,
+            "DependBundles": [
+                "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+                "unityshaders.bundle",
+                "share_assets_textmesh pro_resources_fonts & materials.bundle",
+                "share_assets_textmesh pro_fonts.bundle"
+            ],
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
             ]
         },
         {
@@ -706,10 +815,10 @@
         },
         {
             "BundleName": "assets_bundledres_scene.bundle",
-            "FileName": "assets_bundledres_scene_76817c9bb85fa1ec19e8fa1760be8aa6.bundle",
-            "FileHash": "76817c9bb85fa1ec19e8fa1760be8aa6",
-            "FileCRC": "1d0100e6",
-            "FileSize": 337207,
+            "FileName": "assets_bundledres_scene_2527c92e5ccf88c2c7cd93dc71972be1.bundle",
+            "FileHash": "2527c92e5ccf88c2c7cd93dc71972be1",
+            "FileCRC": "dcdda42a",
+            "FileSize": 337708,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -723,10 +832,10 @@
         },
         {
             "BundleName": "assets_bundledres_element.bundle",
-            "FileName": "assets_bundledres_element_6b614d16103ba2d68c394ea22217ce6e.bundle",
-            "FileHash": "6b614d16103ba2d68c394ea22217ce6e",
-            "FileCRC": "52a2d20d",
-            "FileSize": 20298,
+            "FileName": "assets_bundledres_element_370845756d0005ad34c43ef5f91d4663.bundle",
+            "FileHash": "370845756d0005ad34c43ef5f91d4663",
+            "FileCRC": "859635c7",
+            "FileSize": 21605,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -743,19 +852,25 @@
         },
         {
             "BundleName": "assets_bundledres_ui.bundle",
-            "FileName": "assets_bundledres_ui_b186406dfbeec5eaf77a0ac41ba335f7.bundle",
-            "FileHash": "b186406dfbeec5eaf77a0ac41ba335f7",
-            "FileCRC": "3c3ff317",
-            "FileSize": 17859,
+            "FileName": "assets_bundledres_ui_ea4c61d1f999de3cf611e3c9f4b98231.bundle",
+            "FileHash": "ea4c61d1f999de3cf611e3c9f4b98231",
+            "FileCRC": "041ab226",
+            "FileSize": 24785,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [],
             "AllBuiltinAssets": [
                 "Assets/BundledRes/UI/Canvas.prefab",
-                "Assets/BundledRes/UI/HeroInfoUIForm.prefab",
                 "Assets/BundledRes/UI/Test.prefab",
-                "Assets/BundledRes/UI/UILogin.prefab"
+                "Assets/BundledRes/UI/UIDetail.prefab",
+                "Assets/BundledRes/UI/UIHeroInfo.prefab",
+                "Assets/BundledRes/UI/UILogin.prefab",
+                "Assets/BundledRes/UI/UIMainCity.prefab",
+                "Assets/BundledRes/UI/UIMarket.prefab",
+                "Assets/BundledRes/UI/UISelectHero.prefab",
+                "Assets/BundledRes/UI/UITest1.prefab",
+                "Assets/BundledRes/UI/UITest2.prefab"
             ]
         },
         {
@@ -899,7 +1014,9 @@
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
-            "ReferenceIDs": [],
+            "ReferenceIDs": [
+                3
+            ],
             "AllBuiltinAssets": [
                 "Assets/BundledRes/Texture/Packages/1LVclothes.png",
                 "Assets/BundledRes/Texture/Packages/1LVpants.png",
@@ -964,7 +1081,8 @@
             "Tags": [],
             "ReferenceIDs": [
                 1,
-                2
+                2,
+                3
             ],
             "AllBuiltinAssets": [
                 "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",

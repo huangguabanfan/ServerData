@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "V.0.1_2023-10-12-16-36-59",
+    "PackageVersion": "V.0.1_2023-10-12-17-29-01",
     "AssetList": [
         {
             "Address": "Cube",
@@ -116,8 +116,16 @@
             "DependIDs": []
         },
         {
-            "Address": "HeroInfoUIForm",
-            "AssetPath": "Assets/BundledRes/UI/HeroInfoUIForm.prefab",
+            "Address": "Test",
+            "AssetPath": "Assets/BundledRes/UI/Test.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIDetail",
+            "AssetPath": "Assets/BundledRes/UI/UIDetail.prefab",
             "AssetGUID": "",
             "AssetTags": [],
             "BundleID": 3,
@@ -126,12 +134,14 @@
             ]
         },
         {
-            "Address": "Test",
-            "AssetPath": "Assets/BundledRes/UI/Test.prefab",
+            "Address": "UIHeroInfo",
+            "AssetPath": "Assets/BundledRes/UI/UIHeroInfo.prefab",
             "AssetGUID": "",
             "AssetTags": [],
             "BundleID": 3,
-            "DependIDs": []
+            "DependIDs": [
+                13
+            ]
         },
         {
             "Address": "UILogin",
@@ -141,6 +151,65 @@
             "BundleID": 3,
             "DependIDs": [
                 10
+            ]
+        },
+        {
+            "Address": "UIMainCity",
+            "AssetPath": "Assets/BundledRes/UI/UIMainCity.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": [
+                13,
+                10
+            ]
+        },
+        {
+            "Address": "UIMarket",
+            "AssetPath": "Assets/BundledRes/UI/UIMarket.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": [
+                12,
+                13
+            ]
+        },
+        {
+            "Address": "UISelectHero",
+            "AssetPath": "Assets/BundledRes/UI/UISelectHero.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": [
+                13,
+                10
+            ]
+        },
+        {
+            "Address": "UITest1",
+            "AssetPath": "Assets/BundledRes/UI/UITest1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": [
+                14,
+                9,
+                15,
+                16
+            ]
+        },
+        {
+            "Address": "UITest2",
+            "AssetPath": "Assets/BundledRes/UI/UITest2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": [
+                14,
+                9,
+                15,
+                16
             ]
         },
         {
@@ -494,10 +563,10 @@
         },
         {
             "BundleName": "assets_bundledres_scene.bundle",
-            "UnityCRC": 3822124195,
-            "FileHash": "76817c9bb85fa1ec19e8fa1760be8aa6",
-            "FileCRC": "1d0100e6",
-            "FileSize": 337207,
+            "UnityCRC": 799160571,
+            "FileHash": "2527c92e5ccf88c2c7cd93dc71972be1",
+            "FileCRC": "dcdda42a",
+            "FileSize": 337708,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -505,10 +574,10 @@
         },
         {
             "BundleName": "assets_bundledres_element.bundle",
-            "UnityCRC": 2908188037,
-            "FileHash": "6b614d16103ba2d68c394ea22217ce6e",
-            "FileCRC": "52a2d20d",
-            "FileSize": 20298,
+            "UnityCRC": 3240705079,
+            "FileHash": "370845756d0005ad34c43ef5f91d4663",
+            "FileCRC": "859635c7",
+            "FileSize": 21605,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -518,10 +587,10 @@
         },
         {
             "BundleName": "assets_bundledres_ui.bundle",
-            "UnityCRC": 2658586031,
-            "FileHash": "b186406dfbeec5eaf77a0ac41ba335f7",
-            "FileCRC": "3c3ff317",
-            "FileSize": 17859,
+            "UnityCRC": 1221785094,
+            "FileHash": "ea4c61d1f999de3cf611e3c9f4b98231",
+            "FileCRC": "041ab226",
+            "FileSize": 24785,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -629,7 +698,9 @@
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
-            "ReferenceIDs": []
+            "ReferenceIDs": [
+                3
+            ]
         },
         {
             "BundleName": "assets_bundledres_texture_ui.bundle",
@@ -666,7 +737,8 @@
             "Tags": [],
             "ReferenceIDs": [
                 1,
-                2
+                2,
+                3
             ]
         },
         {
