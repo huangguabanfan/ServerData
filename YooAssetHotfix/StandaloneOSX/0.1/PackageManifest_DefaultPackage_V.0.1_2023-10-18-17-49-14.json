@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "V.0.1_2023-10-18-17-42-15",
+    "PackageVersion": "V.0.1_2023-10-18-17-49-14",
     "AssetList": [
         {
             "Address": "Cube",
@@ -587,10 +587,10 @@
         },
         {
             "BundleName": "assets_bundledres_ui.bundle",
-            "UnityCRC": 1776303755,
-            "FileHash": "d5c6e50bfdb3c09a8dd2aaa9f54dc49e",
-            "FileCRC": "5d5564ea",
-            "FileSize": 24500,
+            "UnityCRC": 3105860090,
+            "FileHash": "c6173f9793ef7add67b868764e85033f",
+            "FileCRC": "6ccb641b",
+            "FileSize": 24499,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
