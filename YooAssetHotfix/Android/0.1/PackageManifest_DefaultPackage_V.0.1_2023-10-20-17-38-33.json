@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "V.0.1_2023-10-20-17-29-22",
+    "PackageVersion": "V.0.1_2023-10-20-17-38-33",
     "AssetList": [
         {
             "Address": "Cube",
@@ -16,6 +16,21 @@
             "DependIDs": []
         },
         {
+            "Address": "EventTest",
+            "AssetPath": "Assets/BundledRes/Scene/EventTest.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": [
+                2,
+                14,
+                15,
+                9,
+                16,
+                17
+            ]
+        },
+        {
             "Address": "HybridCLR",
             "AssetPath": "Assets/BundledRes/Scene/HybridCLR.unity",
             "AssetGUID": "",
@@ -24,8 +39,8 @@
             "DependIDs": [
                 14,
                 9,
-                15,
-                16
+                16,
+                17
             ]
         },
         {
@@ -37,10 +52,10 @@
             "DependIDs": [
                 2,
                 14,
-                17,
-                9,
                 15,
-                16
+                9,
+                16,
+                17
             ]
         },
         {
@@ -59,10 +74,10 @@
             "BundleID": 2,
             "DependIDs": [
                 14,
-                17,
-                9,
                 15,
-                16
+                9,
+                16,
+                17
             ]
         },
         {
@@ -74,9 +89,9 @@
             "DependIDs": [
                 14,
                 9,
-                17,
                 15,
-                16
+                16,
+                17
             ]
         },
         {
@@ -88,10 +103,10 @@
             "DependIDs": [
                 10,
                 14,
-                17,
-                9,
                 15,
-                16
+                9,
+                16,
+                17
             ]
         },
         {
@@ -103,8 +118,8 @@
             "DependIDs": [
                 14,
                 9,
-                15,
-                16
+                16,
+                17
             ]
         },
         {
@@ -195,8 +210,8 @@
             "DependIDs": [
                 14,
                 9,
-                15,
-                16
+                16,
+                17
             ]
         },
         {
@@ -208,8 +223,8 @@
             "DependIDs": [
                 14,
                 9,
-                15,
-                16
+                16,
+                17
             ]
         },
         {
@@ -563,10 +578,10 @@
         },
         {
             "BundleName": "assets_bundledres_scene.bundle",
-            "UnityCRC": 3567621988,
-            "FileHash": "b44b10b0c82ad46dc23f07d600d01a08",
-            "FileCRC": "13d93d6f",
-            "FileSize": 174810,
+            "UnityCRC": 2316020898,
+            "FileHash": "ed2e5f960014cfcf4a73ea812985e56f",
+            "FileCRC": "2ede6f01",
+            "FileSize": 223872,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -661,7 +676,7 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                15
+                16
             ]
         },
         {
@@ -727,6 +742,19 @@
             "ReferenceIDs": []
         },
         {
+            "BundleName": "share_assets_sprites_common.bundle",
+            "UnityCRC": 1620777289,
+            "FileHash": "67ba8e8ca577b00c548fee65ae690261",
+            "FileCRC": "958586dc",
+            "FileSize": 9434,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                2
+            ]
+        },
+        {
             "BundleName": "share_assets_textmesh pro_resources_fonts & materials.bundle",
             "UnityCRC": 3620845051,
             "FileHash": "f7aaac36a57b74dc21ca54e804b60846",
@@ -751,20 +779,7 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                15
-            ]
-        },
-        {
-            "BundleName": "share_assets_sprites_common.bundle",
-            "UnityCRC": 1620777289,
-            "FileHash": "67ba8e8ca577b00c548fee65ae690261",
-            "FileCRC": "958586dc",
-            "FileSize": 9434,
-            "IsRawFile": false,
-            "LoadMethod": 0,
-            "Tags": [],
-            "ReferenceIDs": [
-                2
+                16
             ]
         }
     ]
