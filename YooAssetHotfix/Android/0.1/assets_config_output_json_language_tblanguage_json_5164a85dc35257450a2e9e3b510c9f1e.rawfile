@@ -1,0 +1,17 @@
+[
+  {
+    "ID": "TEST_1",
+    "CN": "中文测试1",
+    "EN": "Test 1"
+  },
+  {
+    "ID": "TEST_2",
+    "CN": "<color=#16b060>中文测试2</color>",
+    "EN": "<color=#16b060>Test 2</color>"
+  },
+  {
+    "ID": "TEST_3",
+    "CN": " <color=#00bdd2>动态生成的文本</color>",
+    "EN": " <color=#00bdd2>Dynamically generated</color>"
+  }
+]
