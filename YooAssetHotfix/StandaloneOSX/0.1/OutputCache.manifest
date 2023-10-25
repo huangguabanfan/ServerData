@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 347154179
+CRC: 1244077309
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -39,16 +39,20 @@ AssetBundleManifest:
       Name: assets_bundledres_texture_ui.bundle
       Dependencies: {}
     Info_9:
+      Name: assets_bundledres_font.bundle
+      Dependencies:
+        Dependency_0: unityshaders.bundle
+    Info_10:
       Name: share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle
       Dependencies: {}
-    Info_10:
+    Info_11:
       Name: share_assets_sprites_common.bundle
       Dependencies: {}
-    Info_11:
+    Info_12:
       Name: share_assets_textmesh pro_resources_fonts & materials.bundle
       Dependencies:
         Dependency_0: unityshaders.bundle
         Dependency_1: share_assets_textmesh pro_fonts.bundle
-    Info_12:
+    Info_13:
       Name: share_assets_textmesh pro_fonts.bundle
       Dependencies: {}
