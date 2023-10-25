@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/25/2023 3:41:43 PM",
-        "BuildSeconds": 5,
+        "BuildDate": "10/25/2023 3:47:14 PM",
+        "BuildSeconds": 4,
         "BuildTarget": 13,
         "BuildPipeline": 0,
         "BuildMode": 0,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "V.0.1_2023-10-25-15-41-37",
-        "EnableAddressable": false,
+        "BuildPackageVersion": "V.0.1_2023-10-25-15-47-09",
+        "EnableAddressable": true,
         "LocationToLower": false,
         "IncludeAssetGUID": false,
         "UniqueBundleName": false,
@@ -30,7 +30,7 @@
     },
     "AssetInfos": [
         {
-            "Address": "",
+            "Address": "Cube",
             "AssetPath": "Assets/BundledRes/Prefab/Cube.prefab",
             "AssetGUID": "826df16210d6b441a902000e4d0346f7",
             "AssetTags": [],
@@ -42,7 +42,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "EventTest",
             "AssetPath": "Assets/BundledRes/Scene/EventTest.unity",
             "AssetGUID": "163084d91d5634c299de5eeb9431f17c",
             "AssetTags": [],
@@ -70,7 +70,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "ExportExcel",
             "AssetPath": "Assets/BundledRes/Scene/ExportExcel.unity",
             "AssetGUID": "310fbb6ab6afa4d0d9458afcfb468e15",
             "AssetTags": [],
@@ -80,7 +80,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "HybridCLR",
             "AssetPath": "Assets/BundledRes/Scene/HybridCLR.unity",
             "AssetGUID": "c78bd51dc73674391b304d95c867e134",
             "AssetTags": [],
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "UILocalizeTest",
             "AssetPath": "Assets/BundledRes/Scene/UILocalizeTest.unity",
             "AssetGUID": "67bb4d7bd06dc4a5c9e91f689c393a9b",
             "AssetTags": [],
@@ -140,7 +140,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "UITest",
             "AssetPath": "Assets/BundledRes/Scene/UITest.unity",
             "AssetGUID": "030b8bbeabe86426bb814ace1f0be35c",
             "AssetTags": [],
@@ -171,7 +171,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "YooAssetLoader",
             "AssetPath": "Assets/BundledRes/Scene/YooAssetLoader.unity",
             "AssetGUID": "372a872c6d80d47d895d4580e38fbbbd",
             "AssetTags": [],
@@ -181,7 +181,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "Button_Green",
             "AssetPath": "Assets/BundledRes/Element/Button_Green.prefab",
             "AssetGUID": "51084bdaa02f842e5bea9bc690c08c81",
             "AssetTags": [],
@@ -207,7 +207,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "Button_Red",
             "AssetPath": "Assets/BundledRes/Element/Button_Red.prefab",
             "AssetGUID": "cb117a80e8ff74b6ea5d960bd1287c24",
             "AssetTags": [],
@@ -233,7 +233,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "Loader",
             "AssetPath": "Assets/BundledRes/Element/Loader.prefab",
             "AssetGUID": "d5d3cb1b72f4147dcb7b3aa482e01c9e",
             "AssetTags": [],
@@ -267,7 +267,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "Slider",
             "AssetPath": "Assets/BundledRes/Element/Slider.prefab",
             "AssetGUID": "8b90734f8420245b8847afb8cecd45a6",
             "AssetTags": [],
@@ -290,7 +290,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "Test",
             "AssetPath": "Assets/BundledRes/UI/Test.prefab",
             "AssetGUID": "dda98fe90942740aca9f18fca00c3d85",
             "AssetTags": [],
@@ -300,7 +300,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "UIDetail",
             "AssetPath": "Assets/BundledRes/UI/UIDetail.prefab",
             "AssetGUID": "1b3f17b4ee55741f29d11918c66bcb8a",
             "AssetTags": [],
@@ -314,7 +314,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "UIHeroInfo",
             "AssetPath": "Assets/BundledRes/UI/UIHeroInfo.prefab",
             "AssetGUID": "3f8c8381d03f44e7eb98b5fc6314ba96",
             "AssetTags": [],
@@ -330,7 +330,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "UILogin",
             "AssetPath": "Assets/BundledRes/UI/UILogin.prefab",
             "AssetGUID": "41651dba72f424433acadcc9e4e0243e",
             "AssetTags": [],
@@ -344,7 +344,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "UIMainCity",
             "AssetPath": "Assets/BundledRes/UI/UIMainCity.prefab",
             "AssetGUID": "8e29d58168a794c6ba0ef5bb8c4900e5",
             "AssetTags": [],
@@ -360,7 +360,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "UIMarket",
             "AssetPath": "Assets/BundledRes/UI/UIMarket.prefab",
             "AssetGUID": "c2a7346f222b9425cbb6362450a303d4",
             "AssetTags": [],
@@ -379,7 +379,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "UIRoot",
             "AssetPath": "Assets/BundledRes/UI/UIRoot.prefab",
             "AssetGUID": "a36340e11946f45118dfa97a79e858eb",
             "AssetTags": [],
@@ -389,7 +389,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "UISelectHero",
             "AssetPath": "Assets/BundledRes/UI/UISelectHero.prefab",
             "AssetGUID": "3544fd09db7164809b1079309eb46264",
             "AssetTags": [],
@@ -405,7 +405,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "UITest1",
             "AssetPath": "Assets/BundledRes/UI/UITest1.prefab",
             "AssetGUID": "571be715fc5454957ad4c302cac865db",
             "AssetTags": [],
@@ -427,7 +427,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "UITest2",
             "AssetPath": "Assets/BundledRes/UI/UITest2.prefab",
             "AssetGUID": "dd4d51b0328534eef8fbccdb8b7a4e73",
             "AssetTags": [],
@@ -449,7 +449,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "hotfix.dll",
             "AssetPath": "Assets/Dll/hotfix/hotfix.dll.bytes",
             "AssetGUID": "303468f9197874f29b7cd5c205b4ab7b",
             "AssetTags": [],
@@ -459,7 +459,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "hotfix2.dll",
             "AssetPath": "Assets/Dll/hotfix/hotfix2.dll.bytes",
             "AssetGUID": "4d690da7315e64e8daf20080de9f393f",
             "AssetTags": [],
@@ -469,7 +469,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "mscorlib.dll",
             "AssetPath": "Assets/Dll/AOT/mscorlib.dll.bytes",
             "AssetGUID": "477ecafe5bb7648e88d8c5fa0f1077b3",
             "AssetTags": [],
@@ -479,7 +479,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "System.Core.dll",
             "AssetPath": "Assets/Dll/AOT/System.Core.dll.bytes",
             "AssetGUID": "50fe3b2bdb0984b7dab6ff36f250bd94",
             "AssetTags": [],
@@ -489,7 +489,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "System.dll",
             "AssetPath": "Assets/Dll/AOT/System.dll.bytes",
             "AssetGUID": "3720eeabc6c47498a9bd29ccf30382f6",
             "AssetTags": [],
@@ -499,7 +499,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "ShaderVariants",
             "AssetPath": "Assets/BundledRes/ShaderVariants/ShaderVariants.shadervariants",
             "AssetGUID": "fc1ffc6f90d754fcfa73b4ed63a55b9d",
             "AssetTags": [],
@@ -511,7 +511,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "20190812223857627",
             "AssetPath": "Assets/BundledRes/Texture/Background/20190812223857627.png",
             "AssetGUID": "e62974d690f1d4747b6dc6a35b469fc7",
             "AssetTags": [],
@@ -521,7 +521,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "Arknights",
             "AssetPath": "Assets/BundledRes/Texture/Background/Arknights.jpg",
             "AssetGUID": "a6c80b399b5604422a7143e463904788",
             "AssetTags": [],
@@ -531,7 +531,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "Fuben1",
             "AssetPath": "Assets/BundledRes/Texture/Background/Fuben1.png",
             "AssetGUID": "05443e49778a6fd44bb6d81ab0f62639",
             "AssetTags": [],
@@ -541,7 +541,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "Fuben2",
             "AssetPath": "Assets/BundledRes/Texture/Background/Fuben2.png",
             "AssetGUID": "13481744d039a2c45ae23c9a73cddcb3",
             "AssetTags": [],
@@ -551,7 +551,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "Fuben3",
             "AssetPath": "Assets/BundledRes/Texture/Background/Fuben3.png",
             "AssetGUID": "24131bcbf2f8ef840baae53a964cb0a8",
             "AssetTags": [],
@@ -561,7 +561,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "LogonBG",
             "AssetPath": "Assets/BundledRes/Texture/Background/LogonBG.png",
             "AssetGUID": "b1ce6df28a6181643830a0a0f3d12423",
             "AssetTags": [],
@@ -571,7 +571,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "MainBG",
             "AssetPath": "Assets/BundledRes/Texture/Background/MainBG.jpg",
             "AssetGUID": "ebdccca273156ae4da44569b3a02d11e",
             "AssetTags": [],
@@ -581,7 +581,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "SelectHero",
             "AssetPath": "Assets/BundledRes/Texture/Background/SelectHero.png",
             "AssetGUID": "d5d8600452a5eeb4caee849575a251f3",
             "AssetTags": [],
@@ -591,7 +591,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "SelectLevel2",
             "AssetPath": "Assets/BundledRes/Texture/Background/SelectLevel2.png",
             "AssetGUID": "f8c9c69d10e619f4f9ab60fefb50d001",
             "AssetTags": [],
@@ -601,7 +601,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "cunzhang",
             "AssetPath": "Assets/BundledRes/Texture/NPC/cunzhang.png",
             "AssetGUID": "2b45ca3b0328ca649aefbdc424c6d9b4",
             "AssetTags": [],
@@ -611,7 +611,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "dafashi",
             "AssetPath": "Assets/BundledRes/Texture/NPC/dafashi.png",
             "AssetGUID": "1643f2e26fc76684e9f82ff5d4d6095b",
             "AssetTags": [],
@@ -621,7 +621,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "guanka",
             "AssetPath": "Assets/BundledRes/Texture/NPC/guanka.png",
             "AssetGUID": "68d2ad52117c7c3458c7283c2f3b6be9",
             "AssetTags": [],
@@ -631,7 +631,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "lenshentuoer",
             "AssetPath": "Assets/BundledRes/Texture/NPC/lenshentuoer.png",
             "AssetGUID": "2778b6f023c8bd347affa2b4f22c6fff",
             "AssetTags": [],
@@ -641,7 +641,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "yadianna",
             "AssetPath": "Assets/BundledRes/Texture/NPC/yadianna.png",
             "AssetGUID": "4ecc5ed9563da964d9bf92de723a7d8e",
             "AssetTags": [],
@@ -651,7 +651,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "yasewang",
             "AssetPath": "Assets/BundledRes/Texture/NPC/yasewang.png",
             "AssetGUID": "6bd7fef5a150fa84892890525ccf7d14",
             "AssetTags": [],
@@ -661,7 +661,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "zhitianshi",
             "AssetPath": "Assets/BundledRes/Texture/NPC/zhitianshi.png",
             "AssetGUID": "5e2e42a77bafb4d4eaa5af4c3f6fb9b6",
             "AssetTags": [],
@@ -671,7 +671,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "1LVclothes",
             "AssetPath": "Assets/BundledRes/Texture/Packages/1LVclothes.png",
             "AssetGUID": "12da5c9946af2b045b917b0e80d36fab",
             "AssetTags": [],
@@ -681,7 +681,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "1LVpants",
             "AssetPath": "Assets/BundledRes/Texture/Packages/1LVpants.png",
             "AssetGUID": "fa68afdde5252894f912844252e7c36a",
             "AssetTags": [],
@@ -691,7 +691,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "1LVshoes",
             "AssetPath": "Assets/BundledRes/Texture/Packages/1LVshoes.png",
             "AssetGUID": "5f050d7a5161c8045aef008bbabbdc73",
             "AssetTags": [],
@@ -701,7 +701,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "1LVstaff",
             "AssetPath": "Assets/BundledRes/Texture/Packages/1LVstaff.png",
             "AssetGUID": "6a7690dc59d2b9542940bda49c1bef7f",
             "AssetTags": [],
@@ -711,7 +711,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "10LVstaff",
             "AssetPath": "Assets/BundledRes/Texture/Packages/10LVstaff.png",
             "AssetGUID": "7ba4e68d7058f044f804f6e820d6f976",
             "AssetTags": [],
@@ -721,7 +721,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "20LVring",
             "AssetPath": "Assets/BundledRes/Texture/Packages/20LVring.png",
             "AssetGUID": "b8e58c90a0f371d41a86cab322665317",
             "AssetTags": [],
@@ -731,7 +731,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "40LVclothes",
             "AssetPath": "Assets/BundledRes/Texture/Packages/40LVclothes.png",
             "AssetGUID": "51d1e026159700c439ea795b2adb1179",
             "AssetTags": [],
@@ -741,7 +741,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "chongwujingpo",
             "AssetPath": "Assets/BundledRes/Texture/Packages/chongwujingpo.png",
             "AssetGUID": "fa70ae5ea0e65f04f9d4e2697fce5b8f",
             "AssetTags": [],
@@ -751,7 +751,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "copper_box",
             "AssetPath": "Assets/BundledRes/Texture/Packages/copper_box.png",
             "AssetGUID": "4cf543e08d7c19c4393dc4d4530a726e",
             "AssetTags": [],
@@ -761,7 +761,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "Gem3LV1",
             "AssetPath": "Assets/BundledRes/Texture/Packages/Gem3LV1.png",
             "AssetGUID": "492ca5c18fc6aa343ad2bb1b638f9eed",
             "AssetTags": [],
@@ -771,7 +771,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "Gem4LV2",
             "AssetPath": "Assets/BundledRes/Texture/Packages/Gem4LV2.png",
             "AssetGUID": "ed8170017ded5d34b961834f416d36c7",
             "AssetTags": [],
@@ -781,7 +781,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "Gem6LV3",
             "AssetPath": "Assets/BundledRes/Texture/Packages/Gem6LV3.png",
             "AssetGUID": "d8f7ea350e558784ab4b21a7e0edd498",
             "AssetTags": [],
@@ -791,7 +791,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "StrengStone",
             "AssetPath": "Assets/BundledRes/Texture/Packages/StrengStone.png",
             "AssetGUID": "9b90f361b5001414b869e91c2b01f20c",
             "AssetTags": [],
@@ -801,7 +801,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "Common Atlas",
             "AssetPath": "Assets/BundledRes/Texture/Ui/Common Atlas.png",
             "AssetGUID": "85f3a54ccc41a6e40ae5e98b6e4f52f7",
             "AssetTags": [],
@@ -811,7 +811,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "createrole Atlas",
             "AssetPath": "Assets/BundledRes/Texture/Ui/createrole Atlas.png",
             "AssetGUID": "2b6993634e49ad74a840d47576210ab7",
             "AssetTags": [],
@@ -821,7 +821,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "Main Atlas",
             "AssetPath": "Assets/BundledRes/Texture/Ui/Main Atlas.png",
             "AssetGUID": "25c7912b2f557c7428f7cf2fa76aa9fc",
             "AssetTags": [],
@@ -831,7 +831,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "mmap",
             "AssetPath": "Assets/BundledRes/Texture/Ui/mmap.png",
             "AssetGUID": "b40358fe6451d6241b50ee0883cb26af",
             "AssetTags": [],
@@ -841,7 +841,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "ui_atlas_battle",
             "AssetPath": "Assets/BundledRes/Texture/Ui/ui_atlas_battle.png",
             "AssetGUID": "17ed867b5bacb5a458f660f4a7551a50",
             "AssetTags": [],
@@ -851,7 +851,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "ui_atlas_icon_common",
             "AssetPath": "Assets/BundledRes/Texture/Ui/ui_atlas_icon_common.png",
             "AssetGUID": "5fffe622cf3ef8946ac40594d6bf8b4b",
             "AssetTags": [],
@@ -861,7 +861,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "ui_atlas_img_local_normal",
             "AssetPath": "Assets/BundledRes/Texture/Ui/ui_atlas_img_local_normal.png",
             "AssetGUID": "574e4b636b2f7924593ccbe2f3c99483",
             "AssetTags": [],
@@ -871,7 +871,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "main SDF",
             "AssetPath": "Assets/BundledRes/Font/main SDF.asset",
             "AssetGUID": "61d24d71c7db94aaca751db8911622d9",
             "AssetTags": [],
@@ -888,7 +888,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "main SDF_outline_black",
             "AssetPath": "Assets/BundledRes/Font/main SDF_outline_black.mat",
             "AssetGUID": "54a850af959ba4ad891fdc684b66e172",
             "AssetTags": [],
@@ -906,7 +906,7 @@
             ]
         },
         {
-            "Address": "",
+            "Address": "main",
             "AssetPath": "Assets/BundledRes/Font/main.otf",
             "AssetGUID": "507e3eac1c5004ded844c29e63b67b21",
             "AssetTags": [],
@@ -916,7 +916,7 @@
             "DependAssets": []
         },
         {
-            "Address": "",
+            "Address": "main_sdf",
             "AssetPath": "Assets/BundledRes/Font/main_sdf.mat",
             "AssetGUID": "111dacdb0224a41239d7d9ad66d46c6f",
             "AssetTags": [],
