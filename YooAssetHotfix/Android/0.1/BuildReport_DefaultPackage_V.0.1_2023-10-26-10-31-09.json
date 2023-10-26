@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "1.5.6-preview",
         "UnityVersion": "2021.3.17f1c1",
-        "BuildDate": "10/25/2023 5:35:01 PM",
-        "BuildSeconds": 9,
+        "BuildDate": "10/26/2023 10:31:21 AM",
+        "BuildSeconds": 11,
         "BuildTarget": 13,
         "BuildPipeline": 0,
         "BuildMode": 0,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "V.0.1_2023-10-25-17-34-50",
+        "BuildPackageVersion": "V.0.1_2023-10-26-10-31-09",
         "EnableAddressable": true,
         "LocationToLower": false,
         "IncludeAssetGUID": false,
@@ -19,10 +19,10 @@
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
-        "AssetFileTotalCount": 86,
-        "MainAssetTotalCount": 71,
-        "AllBundleTotalCount": 23,
-        "AllBundleTotalSize": 17940192,
+        "AssetFileTotalCount": 87,
+        "MainAssetTotalCount": 72,
+        "AllBundleTotalCount": 24,
+        "AllBundleTotalSize": 18019658,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0,
         "RawBundleTotalCount": 9,
@@ -179,6 +179,34 @@
             "MainBundleSize": 314344,
             "DependBundles": [],
             "DependAssets": []
+        },
+        {
+            "Address": "Admob",
+            "AssetPath": "Assets/Ad/Admob/Admob.unity",
+            "AssetGUID": "e70c22a6b46024a43ab4a082062a0d69",
+            "AssetTags": [],
+            "MainBundleName": "assets_ad_admob.bundle",
+            "MainBundleSize": 79466,
+            "DependBundles": [
+                "assets_bundledres_element.bundle",
+                "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+                "share_assets_sprites_common.bundle",
+                "unityshaders.bundle",
+                "share_assets_textmesh pro_resources_fonts & materials.bundle",
+                "share_assets_textmesh pro_fonts.bundle"
+            ],
+            "DependAssets": [
+                "Assets/BundledRes/Element/Button_Green.prefab",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Sprites/common/common_btn_green_big_down.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/Sprites/common/common_btn_green_big.png",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
         },
         {
             "Address": "Button_Green",
@@ -1007,6 +1035,20 @@
             ]
         },
         {
+            "BundleName": "assets_ad_admob.bundle",
+            "FileName": "assets_ad_admob_4b28326f2c11a0537a772ebbca58fddd.bundle",
+            "FileHash": "4b28326f2c11a0537a772ebbca58fddd",
+            "FileCRC": "d8ef3283",
+            "FileSize": 79466,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/Ad/Admob/Admob.unity"
+            ]
+        },
+        {
             "BundleName": "assets_bundledres_element.bundle",
             "FileName": "assets_bundledres_element_f6cd8fd77a6e98e6afae14b238b61718.bundle",
             "FileHash": "f6cd8fd77a6e98e6afae14b238b61718",
@@ -1016,7 +1058,8 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                1
+                1,
+                2
             ],
             "AllBuiltinAssets": [
                 "Assets/BundledRes/Element/Button_Green.prefab",
@@ -1051,9 +1094,9 @@
         },
         {
             "BundleName": "assets_dll_hotfix_hotfix_dll_bytes.rawfile",
-            "FileName": "assets_dll_hotfix_hotfix_dll_bytes_a13d5d7cb6e289a4b222d39c62b51209.rawfile",
-            "FileHash": "a13d5d7cb6e289a4b222d39c62b51209",
-            "FileCRC": "8a18bf9a",
+            "FileName": "assets_dll_hotfix_hotfix_dll_bytes_15f57c9c4e67c53ee41d0d7dca1e81c6.rawfile",
+            "FileHash": "15f57c9c4e67c53ee41d0d7dca1e81c6",
+            "FileCRC": "fd428b14",
             "FileSize": 4608,
             "IsRawFile": true,
             "LoadMethod": 0,
@@ -1065,9 +1108,9 @@
         },
         {
             "BundleName": "assets_dll_hotfix_hotfix2_dll_bytes.rawfile",
-            "FileName": "assets_dll_hotfix_hotfix2_dll_bytes_c608784ce671b065cee89c686de78d14.rawfile",
-            "FileHash": "c608784ce671b065cee89c686de78d14",
-            "FileCRC": "c77d952b",
+            "FileName": "assets_dll_hotfix_hotfix2_dll_bytes_a461696e3260348cabc068267e528ce0.rawfile",
+            "FileHash": "a461696e3260348cabc068267e528ce0",
+            "FileCRC": "c662e59b",
             "FileSize": 3584,
             "IsRawFile": true,
             "LoadMethod": 0,
@@ -1079,9 +1122,9 @@
         },
         {
             "BundleName": "assets_dll_aot_mscorlib_dll_bytes.rawfile",
-            "FileName": "assets_dll_aot_mscorlib_dll_bytes_5f0dd512ddb9197cc10fa55398376622.rawfile",
-            "FileHash": "5f0dd512ddb9197cc10fa55398376622",
-            "FileCRC": "bfd157a2",
+            "FileName": "assets_dll_aot_mscorlib_dll_bytes_ebd09e0448e9e32769dd5de403de6f59.rawfile",
+            "FileHash": "ebd09e0448e9e32769dd5de403de6f59",
+            "FileCRC": "9c596829",
             "FileSize": 2226688,
             "IsRawFile": true,
             "LoadMethod": 0,
@@ -1129,8 +1172,8 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                14,
-                21
+                15,
+                22
             ],
             "AllBuiltinAssets": [
                 "Assets/BundledRes/ShaderVariants/ShaderVariants.shadervariants",
@@ -1148,8 +1191,8 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                2,
-                3
+                3,
+                4
             ],
             "AllBuiltinAssets": [
                 "Assets/BundledRes/Texture/Background/20190812223857627.png",
@@ -1193,7 +1236,7 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                3
+                4
             ],
             "AllBuiltinAssets": [
                 "Assets/BundledRes/Texture/Packages/1LVclothes.png",
@@ -1221,7 +1264,7 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                3
+                4
             ],
             "AllBuiltinAssets": [
                 "Assets/BundledRes/Texture/Ui/Common Atlas.png",
@@ -1333,7 +1376,7 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                2
+                3
             ],
             "AllBuiltinAssets": [
                 "Assets/Sprites/common/common_btn_green_big_down.png",
@@ -1353,8 +1396,8 @@
             "Tags": [],
             "ReferenceIDs": [
                 1,
-                2,
-                3
+                3,
+                4
             ],
             "AllBuiltinAssets": [
                 "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
@@ -1372,7 +1415,7 @@
             "LoadMethod": 0,
             "Tags": [],
             "ReferenceIDs": [
-                21
+                22
             ],
             "AllBuiltinAssets": [
                 "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
