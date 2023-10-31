@@ -1,0 +1,23 @@
+[
+  {
+    "ID": 20001,
+    "ResPath": "Assets/BundledRes/Effect/test/eff_diaoyu_qigan.prefab",
+    "CacheMode": 1,
+    "AutoDestroyTime": 3,
+    "UILayer": 0
+  },
+  {
+    "ID": 20002,
+    "ResPath": "Assets/BundledRes/Effect/test/eff_scene_jinbi_02.prefab",
+    "CacheMode": 2,
+    "AutoDestroyTime": 5,
+    "UILayer": 0
+  },
+  {
+    "ID": 20003,
+    "ResPath": "Assets/BundledRes/Effect/ui/eff_ui_baoxiang_da_01.prefab",
+    "CacheMode": 2,
+    "AutoDestroyTime": 5,
+    "UILayer": 5
+  }
+]

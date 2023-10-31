@@ -1,63 +1,71 @@
 ManifestFileVersion: 0
-CRC: 3286653728
+CRC: 3813899928
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: assets_bundledres_prefab.bundle
+      Name: assets_bundledres_effect_test.bundle
       Dependencies: {}
     Info_1:
+      Name: assets_bundledres_effect_ui.bundle
+      Dependencies: {}
+    Info_2:
       Name: assets_bundledres_scene.bundle
       Dependencies:
         Dependency_0: assets_bundledres_element.bundle
         Dependency_1: assets_bundledres_font.bundle
         Dependency_2: share_assets_textmesh pro_resources_fonts & materials.bundle
-    Info_2:
+    Info_3:
       Name: assets_ad_admob.bundle
       Dependencies:
         Dependency_0: assets_bundledres_element.bundle
-    Info_3:
+    Info_4:
+      Name: assets_objectpool.bundle
+      Dependencies:
+        Dependency_0: share_assets_textmesh pro_resources_fonts & materials.bundle
+    Info_5:
       Name: assets_bundledres_element.bundle
       Dependencies:
         Dependency_0: assets_bundledres_texture_background.bundle
         Dependency_1: share_assets_sprites_common.bundle
         Dependency_2: share_assets_textmesh pro_resources_fonts & materials.bundle
-    Info_4:
+    Info_6:
       Name: assets_bundledres_ui.bundle
       Dependencies:
-        Dependency_0: assets_bundledres_texture_background.bundle
-        Dependency_1: assets_bundledres_texture_packages.bundle
-        Dependency_2: assets_bundledres_texture_ui.bundle
-        Dependency_3: share_assets_textmesh pro_resources_fonts & materials.bundle
-    Info_5:
+        Dependency_0: assets_bundledres_element.bundle
+        Dependency_1: assets_bundledres_texture_background.bundle
+        Dependency_2: assets_bundledres_texture_packages.bundle
+        Dependency_3: assets_bundledres_texture_ui.bundle
+        Dependency_4: share_assets_textmesh pro_resources_fonts & materials.bundle
+    Info_7:
       Name: unityshaders.bundle
       Dependencies: {}
-    Info_6:
+    Info_8:
       Name: assets_bundledres_texture_background.bundle
       Dependencies: {}
-    Info_7:
+    Info_9:
       Name: assets_bundledres_texture_npc.bundle
       Dependencies: {}
-    Info_8:
+    Info_10:
       Name: assets_bundledres_texture_packages.bundle
       Dependencies: {}
-    Info_9:
+    Info_11:
       Name: assets_bundledres_texture_ui.bundle
       Dependencies: {}
-    Info_10:
+    Info_12:
       Name: assets_bundledres_font.bundle
       Dependencies:
         Dependency_0: unityshaders.bundle
-    Info_11:
+    Info_13:
       Name: share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle
       Dependencies: {}
-    Info_12:
+    Info_14:
       Name: share_assets_sprites_common.bundle
       Dependencies: {}
-    Info_13:
+    Info_15:
       Name: share_assets_textmesh pro_resources_fonts & materials.bundle
       Dependencies:
         Dependency_0: unityshaders.bundle
         Dependency_1: share_assets_textmesh pro_fonts.bundle
-    Info_14:
+    Info_16:
       Name: share_assets_textmesh pro_fonts.bundle
       Dependencies: {}
