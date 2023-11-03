@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2366773983
+CRC: 4234968021
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -61,16 +61,25 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: unityshaders.bundle
     Info_14:
-      Name: share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle
+      Name: assets_bundledres_audio_battle.bundle
       Dependencies: {}
     Info_15:
-      Name: share_assets_sprites_common.bundle
+      Name: assets_bundledres_audio_bgm.bundle
       Dependencies: {}
     Info_16:
+      Name: assets_bundledres_audio_ui.bundle
+      Dependencies: {}
+    Info_17:
+      Name: share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle
+      Dependencies: {}
+    Info_18:
+      Name: share_assets_sprites_common.bundle
+      Dependencies: {}
+    Info_19:
       Name: share_assets_textmesh pro_resources_fonts & materials.bundle
       Dependencies:
         Dependency_0: unityshaders.bundle
         Dependency_1: share_assets_textmesh pro_fonts.bundle
-    Info_17:
+    Info_20:
       Name: share_assets_textmesh pro_fonts.bundle
       Dependencies: {}
