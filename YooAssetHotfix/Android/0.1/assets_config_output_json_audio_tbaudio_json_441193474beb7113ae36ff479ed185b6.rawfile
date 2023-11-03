@@ -1,0 +1,40 @@
+[
+  {
+    "ID": "AUDIO_BGM_TEST_1",
+    "ResPath": "Assets/BundledRes/Audio/bgm/bgm_1.ogg",
+    "AudioMode": 1,
+    "AutoDestroyTime": -1,
+    "TestArray": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "ID": "AUDIO_BGM_TEST_2",
+    "ResPath": "Assets/BundledRes/Audio/bgm/bgm_2.ogg",
+    "AudioMode": 1,
+    "AutoDestroyTime": -1,
+    "TestArray": [
+      5
+    ]
+  },
+  {
+    "ID": "AUDIO_TEST_2",
+    "ResPath": "Assets/BundledRes/Audio/battle/knife_1.ogg",
+    "AudioMode": 2,
+    "AutoDestroyTime": 5,
+    "TestArray": [
+      5
+    ]
+  },
+  {
+    "ID": "AUDIO_TEST_3",
+    "ResPath": "Assets/BundledRes/Audio/ui/chapter_open.ogg",
+    "AudioMode": 2,
+    "AutoDestroyTime": 5,
+    "TestArray": [
+      5
+    ]
+  }
+]
