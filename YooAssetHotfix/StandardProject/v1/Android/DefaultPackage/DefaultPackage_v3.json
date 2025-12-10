@@ -10,7 +10,7 @@
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
     "PackageVersion": "v3",
-    "PackageNote": "12/10/2025 3:22:25 PM",
+    "PackageNote": "12/10/2025 3:25:20 PM",
     "AssetList": [
         {
             "Address": "Cube",
@@ -376,10 +376,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_ui_battlemainui.bundle",
-            "UnityCRC": 2393864713,
-            "FileHash": "32ef78d44326f00dbdf36a50aa03627b",
-            "FileCRC": 2888320781,
-            "FileSize": 15085,
+            "UnityCRC": 749480852,
+            "FileHash": "36df3eae7b71c31d3b36021c2b666fd9",
+            "FileCRC": 2150525100,
+            "FileSize": 15083,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": [
