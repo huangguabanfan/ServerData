@@ -1,4 +1,4 @@
-cd /Users/zhangxuan/working_zhangxuan/GitHubServerData
+cd /Users/zhangxuan/working/ServerData/
 git add .
 git commit -m 'Update resources normally'
 git push

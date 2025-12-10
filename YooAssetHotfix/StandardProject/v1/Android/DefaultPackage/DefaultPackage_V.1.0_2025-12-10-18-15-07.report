@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.17",
         "UnityVersion": "2022.3.62f2",
-        "BuildDate": "12/10/2025 4:13:00 PM",
+        "BuildDate": "12/10/2025 6:15:08 PM",
         "BuildSeconds": 1,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "v6",
-        "BuildPackageNote": "12/10/2025 4:12:58 PM",
+        "BuildPackageVersion": "V.1.0_2025-12-10-18-15-07",
+        "BuildPackageNote": "12/10/2025 6:15:07 PM",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "SupportExtensionless": true,
@@ -18,13 +18,13 @@
         "AutoCollectShaders": true,
         "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
         "ClearBuildCacheFiles": false,
-        "UseAssetDependencyDB": false,
+        "UseAssetDependencyDB": true,
         "EnableSharePackRule": true,
         "SingleReferencedPackAlone": true,
         "EncryptionServicesClassName": "YooAsset.Editor.EncryptionNone",
-        "ManifestProcessServicesClassName": "YooAsset.Editor.ManifestProcessNone",
-        "ManifestRestoreServicesClassName": "YooAsset.Editor.ManifestRestoreNone",
-        "FileNameStyle": 0,
+        "ManifestProcessServicesClassName": "null",
+        "ManifestRestoreServicesClassName": "null",
+        "FileNameStyle": 2,
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
@@ -34,10 +34,10 @@
         "CacheServerPort": 0,
         "BuiltinShadersBundleName": "defaultpackage_unityshaders.bundle",
         "MonoScriptsBundleName": "",
-        "AssetFileTotalCount": 37,
-        "MainAssetTotalCount": 37,
-        "AllBundleTotalCount": 11,
-        "AllBundleTotalSize": 2233821,
+        "AssetFileTotalCount": 39,
+        "MainAssetTotalCount": 39,
+        "AllBundleTotalCount": 12,
+        "AllBundleTotalSize": 2250797,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -80,7 +80,7 @@
             "AssetGUID": "c53f453b6907c4f66bdb38c5b5235c17",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 1921211,
+            "MainBundleSize": 1922031,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -90,7 +90,7 @@
             "AssetGUID": "57e95fba8a426445fb2c984e043b73f3",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 1921211,
+            "MainBundleSize": 1922031,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -100,7 +100,7 @@
             "AssetGUID": "cd0c978f5e5b645b0931fc6d841241c6",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 1921211,
+            "MainBundleSize": 1922031,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -110,7 +110,7 @@
             "AssetGUID": "82dba1c31bc4f462fa8d50474ea85d80",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 1921211,
+            "MainBundleSize": 1922031,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -120,7 +120,7 @@
             "AssetGUID": "6dcebd70d587a4955bd21495421931bd",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 1921211,
+            "MainBundleSize": 1922031,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -130,7 +130,7 @@
             "AssetGUID": "71aa73bfacf5d49c48cf6600b1bce7f3",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 1921211,
+            "MainBundleSize": 1922031,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -140,7 +140,7 @@
             "AssetGUID": "378fd0a5d6c554f86bb9672389e42de4",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 1921211,
+            "MainBundleSize": 1922031,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -150,7 +150,7 @@
             "AssetGUID": "b738f5416ae4a4d9e9dad35eb764ab75",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 1921211,
+            "MainBundleSize": 1922031,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -160,7 +160,7 @@
             "AssetGUID": "126940e2c33164493af1959225d5b441",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 1921211,
+            "MainBundleSize": 1922031,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -206,12 +206,32 @@
             ]
         },
         {
+            "Address": "HotfixTest",
+            "AssetPath": "Assets/AssetRaw/Scenes/HotfixTest.unity",
+            "AssetGUID": "cbe172d3441914f2585c2c9a668a071c",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_scenes.bundle",
+            "MainBundleSize": 15994,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "SelectExample",
+            "AssetPath": "Assets/AssetRaw/Scenes/SelectExample.unity",
+            "AssetGUID": "f3aa40c3425304071bdbccff9be5c7fb",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_scenes.bundle",
+            "MainBundleSize": 15994,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
             "Address": "BattleMainUI",
             "AssetPath": "Assets/AssetRaw/UI/BattleMainUI.prefab",
             "AssetGUID": "ecec8ee629e7e1945b209218a435b9cc",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_ui_battlemainui.bundle",
-            "MainBundleSize": 15085,
+            "MainBundleSize": 15247,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Play_Joystick_bg.png",
@@ -460,7 +480,7 @@
     "BundleInfos": [
         {
             "BundleName": "defaultpackage_assets_assetraw_actor.bundle",
-            "FileName": "5eeb8052dc827917f19613da0ec56c01.bundle",
+            "FileName": "defaultpackage_assets_assetraw_actor_5eeb8052dc827917f19613da0ec56c01.bundle",
             "FileHash": "5eeb8052dc827917f19613da0ec56c01",
             "FileCRC": 1997697667,
             "FileSize": 4646,
@@ -479,7 +499,7 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_configs.bundle",
-            "FileName": "e6e9ffac1b925f74644b3a485f579d74.bundle",
+            "FileName": "defaultpackage_assets_assetraw_configs_e6e9ffac1b925f74644b3a485f579d74.bundle",
             "FileHash": "e6e9ffac1b925f74644b3a485f579d74",
             "FileCRC": 414166638,
             "FileSize": 1236,
@@ -496,7 +516,7 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
-            "FileName": "102a0da87d759b4fc4fe5adec1ac3b19.bundle",
+            "FileName": "defaultpackage_assets_assetraw_configs_bytes_102a0da87d759b4fc4fe5adec1ac3b19.bundle",
             "FileHash": "102a0da87d759b4fc4fe5adec1ac3b19",
             "FileCRC": 494974482,
             "FileSize": 1542,
@@ -513,10 +533,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "FileName": "e0e2e134d05574f885874725ce28d9dd.bundle",
-            "FileHash": "e0e2e134d05574f885874725ce28d9dd",
-            "FileCRC": 1049174476,
-            "FileSize": 1921211,
+            "FileName": "defaultpackage_assets_assetraw_dll_06540ea4498dcc78b38458f281f9664a.bundle",
+            "FileHash": "06540ea4498dcc78b38458f281f9664a",
+            "FileCRC": 3499121414,
+            "FileSize": 1922031,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -562,7 +582,7 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_prefabs.bundle",
-            "FileName": "84f49ac3e99b73ca9f267b13d1d3c2a8.bundle",
+            "FileName": "defaultpackage_assets_assetraw_prefabs_84f49ac3e99b73ca9f267b13d1d3c2a8.bundle",
             "FileHash": "84f49ac3e99b73ca9f267b13d1d3c2a8",
             "FileCRC": 2678723708,
             "FileSize": 5565,
@@ -588,11 +608,32 @@
             ]
         },
         {
+            "BundleName": "defaultpackage_assets_assetraw_scenes.bundle",
+            "FileName": "defaultpackage_assets_assetraw_scenes_f70250436ca64c3f8256673e2d76b1b7.bundle",
+            "FileHash": "f70250436ca64c3f8256673e2d76b1b7",
+            "FileCRC": 1488225644,
+            "FileSize": 15994,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/Scenes/HotfixTest.unity",
+                    "AssetGUID": "cbe172d3441914f2585c2c9a668a071c"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/Scenes/SelectExample.unity",
+                    "AssetGUID": "f3aa40c3425304071bdbccff9be5c7fb"
+                }
+            ]
+        },
+        {
             "BundleName": "defaultpackage_assets_assetraw_ui_battlemainui.bundle",
-            "FileName": "32ef78d44326f00dbdf36a50aa03627b.bundle",
-            "FileHash": "32ef78d44326f00dbdf36a50aa03627b",
-            "FileCRC": 2888320781,
-            "FileSize": 15085,
+            "FileName": "defaultpackage_assets_assetraw_ui_battlemainui_b10386a20c0b18443ac9fcda03c1a8a8.bundle",
+            "FileHash": "b10386a20c0b18443ac9fcda03c1a8a8",
+            "FileCRC": 695162950,
+            "FileSize": 15247,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -608,7 +649,7 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_ui_loginui.bundle",
-            "FileName": "ea5f03308b529917977ddc4dbf1feed7.bundle",
+            "FileName": "defaultpackage_assets_assetraw_ui_loginui_ea5f03308b529917977ddc4dbf1feed7.bundle",
             "FileHash": "ea5f03308b529917977ddc4dbf1feed7",
             "FileCRC": 254972864,
             "FileSize": 13597,
@@ -625,7 +666,7 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_ui_testui.bundle",
-            "FileName": "972013a141bcdb8079c40ffcd24b4db5.bundle",
+            "FileName": "defaultpackage_assets_assetraw_ui_testui_972013a141bcdb8079c40ffcd24b4db5.bundle",
             "FileHash": "972013a141bcdb8079c40ffcd24b4db5",
             "FileCRC": 308929283,
             "FileSize": 7727,
@@ -642,7 +683,7 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
-            "FileName": "ebea7be9c8b64f840a0a4edd957f22dc.bundle",
+            "FileName": "defaultpackage_assets_assetraw_uiraw_atlas_battle_ebea7be9c8b64f840a0a4edd957f22dc.bundle",
             "FileHash": "ebea7be9c8b64f840a0a4edd957f22dc",
             "FileCRC": 101188013,
             "FileSize": 23685,
@@ -685,7 +726,7 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "FileName": "29f026c888482655e867cf84c5d84349.bundle",
+            "FileName": "defaultpackage_assets_assetraw_uiraw_atlas_common_29f026c888482655e867cf84c5d84349.bundle",
             "FileHash": "29f026c888482655e867cf84c5d84349",
             "FileCRC": 3829434871,
             "FileSize": 103896,
@@ -746,7 +787,7 @@
         },
         {
             "BundleName": "defaultpackage_unityshaders.bundle",
-            "FileName": "2157f440fee4a4a67a4e67d588f783a7.bundle",
+            "FileName": "defaultpackage_unityshaders_2157f440fee4a4a67a4e67d588f783a7.bundle",
             "FileHash": "2157f440fee4a4a67a4e67d588f783a7",
             "FileCRC": 300909660,
             "FileSize": 135631,
