@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.17",
         "UnityVersion": "2022.3.62f2",
-        "BuildDate": "12/10/2025 12:12:26 PM",
-        "BuildSeconds": 5,
+        "BuildDate": "12/10/2025 1:47:18 PM",
+        "BuildSeconds": 4,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
         "BuildPackageVersion": "v1",
-        "BuildPackageNote": "12/10/2025 12:12:20 PM",
+        "BuildPackageNote": "12/10/2025 1:47:13 PM",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "SupportExtensionless": true,
@@ -37,7 +37,7 @@
         "AssetFileTotalCount": 37,
         "MainAssetTotalCount": 37,
         "AllBundleTotalCount": 11,
-        "AllBundleTotalSize": 2208776,
+        "AllBundleTotalSize": 2208788,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -211,7 +211,7 @@
             "AssetGUID": "ecec8ee629e7e1945b209218a435b9cc",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_ui_battlemainui.bundle",
-            "MainBundleSize": 15071,
+            "MainBundleSize": 15083,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Play_Joystick_bg.png",
@@ -589,10 +589,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_ui_battlemainui.bundle",
-            "FileName": "62a6e77de68bdfb40388747448a3ce01.bundle",
-            "FileHash": "62a6e77de68bdfb40388747448a3ce01",
-            "FileCRC": 2065177234,
-            "FileSize": 15071,
+            "FileName": "36df3eae7b71c31d3b36021c2b666fd9.bundle",
+            "FileHash": "36df3eae7b71c31d3b36021c2b666fd9",
+            "FileCRC": 2150525100,
+            "FileSize": 15083,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
