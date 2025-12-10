@@ -1,0 +1,764 @@
+{
+    "Summary": {
+        "YooVersion": "2.3.17",
+        "UnityVersion": "2022.3.62f2",
+        "BuildDate": "12/10/2025 3:22:27 PM",
+        "BuildSeconds": 1,
+        "BuildTarget": 13,
+        "BuildPipeline": "ScriptableBuildPipeline",
+        "BuildBundleType": 2,
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "v3",
+        "BuildPackageNote": "12/10/2025 3:22:25 PM",
+        "UniqueBundleName": true,
+        "EnableAddressable": true,
+        "SupportExtensionless": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "ClearBuildCacheFiles": false,
+        "UseAssetDependencyDB": false,
+        "EnableSharePackRule": true,
+        "SingleReferencedPackAlone": true,
+        "EncryptionServicesClassName": "YooAsset.Editor.EncryptionNone",
+        "ManifestProcessServicesClassName": "YooAsset.Editor.ManifestProcessNone",
+        "ManifestRestoreServicesClassName": "YooAsset.Editor.ManifestRestoreNone",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "ReplaceAssetPathWithAddress": false,
+        "WriteLinkXML": true,
+        "CacheServerHost": "",
+        "CacheServerPort": 0,
+        "BuiltinShadersBundleName": "defaultpackage_unityshaders.bundle",
+        "MonoScriptsBundleName": "",
+        "AssetFileTotalCount": 37,
+        "MainAssetTotalCount": 37,
+        "AllBundleTotalCount": 11,
+        "AllBundleTotalSize": 2233818,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/AssetRaw/Actor/Cube.prefab",
+            "AssetGUID": "14515f8505976b04fbdd66ddc61a661c",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_actor.bundle",
+            "MainBundleSize": 4646,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "about",
+            "AssetPath": "Assets/AssetRaw/Configs/about.txt",
+            "AssetGUID": "ba11f0707eb5f814392cbf12498aba94",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_configs.bundle",
+            "MainBundleSize": 1236,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "item_tbitem",
+            "AssetPath": "Assets/AssetRaw/Configs/bytes/item_tbitem.bytes",
+            "AssetGUID": "b2c77a84390974211b8bc94f7bb27bfd",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
+            "MainBundleSize": 1542,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "GameLogic.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameLogic.dll.bytes",
+            "AssetGUID": "c53f453b6907c4f66bdb38c5b5235c17",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1921208,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "GameProto.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameProto.dll.bytes",
+            "AssetGUID": "57e95fba8a426445fb2c984e043b73f3",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1921208,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/mscorlib.dll.bytes",
+            "AssetGUID": "cd0c978f5e5b645b0931fc6d841241c6",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1921208,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/System.Core.dll.bytes",
+            "AssetGUID": "82dba1c31bc4f462fa8d50474ea85d80",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1921208,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/System.dll.bytes",
+            "AssetGUID": "6dcebd70d587a4955bd21495421931bd",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1921208,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "TEngine.Runtime.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/TEngine.Runtime.dll.bytes",
+            "AssetGUID": "71aa73bfacf5d49c48cf6600b1bce7f3",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1921208,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UniTask.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UniTask.dll.bytes",
+            "AssetGUID": "378fd0a5d6c554f86bb9672389e42de4",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1921208,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "b738f5416ae4a4d9e9dad35eb764ab75",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1921208,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "YooAsset.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/YooAsset.dll.bytes",
+            "AssetGUID": "126940e2c33164493af1959225d5b441",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1921208,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "TestCube1",
+            "AssetPath": "Assets/AssetRaw/Prefabs/TestCube1.prefab",
+            "AssetGUID": "6dc74a9e066434518a80892506ecd07c",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_prefabs.bundle",
+            "MainBundleSize": 5565,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "TestCube2",
+            "AssetPath": "Assets/AssetRaw/Prefabs/TestCube2.prefab",
+            "AssetGUID": "3ec30f90d7cff46f39874f81e5f7cdfa",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_prefabs.bundle",
+            "MainBundleSize": 5565,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/AssetRaw/Prefabs/TestCube3.prefab",
+                    "AssetGUID": "1b8a2a8c8e962473686735883a099576"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "TestCube3",
+            "AssetPath": "Assets/AssetRaw/Prefabs/TestCube3.prefab",
+            "AssetGUID": "1b8a2a8c8e962473686735883a099576",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_prefabs.bundle",
+            "MainBundleSize": 5565,
+            "DependAssets": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ]
+        },
+        {
+            "Address": "BattleMainUI",
+            "AssetPath": "Assets/AssetRaw/UI/BattleMainUI.prefab",
+            "AssetGUID": "ecec8ee629e7e1945b209218a435b9cc",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_ui_battlemainui.bundle",
+            "MainBundleSize": 15085,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Play_Joystick_bg.png",
+                    "AssetGUID": "f43899c31dd434901b0422f98bcde88b"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Play_Joystick_handle.png",
+                    "AssetGUID": "01ccaea9b49214edda39f03f648b5b8b"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Slider11_Fill_Blue.png",
+                    "AssetGUID": "1f44cb90b6ae648c783dac573bfe9cd0"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Slider11_Fill_Red.png",
+                    "AssetGUID": "bfad0e64f8ef1491c8def7e679187b89"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Slider11_Fill_Yellow.png",
+                    "AssetGUID": "af67f6c46933441daaa64d6880890586"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Slider11_Frame.png",
+                    "AssetGUID": "c95935206d18f42399e9881ce6bdf61c"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/zd_img_light.png",
+                    "AssetGUID": "a43cb397a444ce44f9becc183ced96ed"
+                }
+            ],
+            "DependBundles": [
+                "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle"
+            ]
+        },
+        {
+            "Address": "LoginUI",
+            "AssetPath": "Assets/AssetRaw/UI/LoginUI.prefab",
+            "AssetGUID": "3f4849d649e5a9647acda84aea936e20",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_ui_loginui.bundle",
+            "MainBundleSize": 13597,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "TestUI",
+            "AssetPath": "Assets/AssetRaw/UI/TestUI.prefab",
+            "AssetGUID": "9b969a6a722855c47be887dacd539056",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_ui_testui.bundle",
+            "MainBundleSize": 7727,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Play_Joystick_bg",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Play_Joystick_bg.png",
+            "AssetGUID": "f43899c31dd434901b0422f98bcde88b",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
+            "MainBundleSize": 23685,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Play_Joystick_handle",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Play_Joystick_handle.png",
+            "AssetGUID": "01ccaea9b49214edda39f03f648b5b8b",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
+            "MainBundleSize": 23685,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Slider11_Fill_Blue",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Slider11_Fill_Blue.png",
+            "AssetGUID": "1f44cb90b6ae648c783dac573bfe9cd0",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
+            "MainBundleSize": 23685,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Slider11_Fill_Red",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Slider11_Fill_Red.png",
+            "AssetGUID": "bfad0e64f8ef1491c8def7e679187b89",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
+            "MainBundleSize": 23685,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Slider11_Fill_Yellow",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Slider11_Fill_Yellow.png",
+            "AssetGUID": "af67f6c46933441daaa64d6880890586",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
+            "MainBundleSize": 23685,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Slider11_Frame",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Slider11_Frame.png",
+            "AssetGUID": "c95935206d18f42399e9881ce6bdf61c",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
+            "MainBundleSize": 23685,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "zd_img_light",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/zd_img_light.png",
+            "AssetGUID": "a43cb397a444ce44f9becc183ced96ed",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
+            "MainBundleSize": 23685,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Bob",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/Bob.png",
+            "AssetGUID": "a3b09be1ad15b4352b570f751980b79e",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 103896,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_1",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_1.png",
+            "AssetGUID": "852888589fedb4c7d9bca2c23bbe2648",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 103896,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_10",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_10.png",
+            "AssetGUID": "1c2900bfc3b9241ad8ca61f9be18b321",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 103896,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_2",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_2.png",
+            "AssetGUID": "b9b5919f8b4e948fd8b54c8ec9b254cf",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 103896,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_3",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_3.png",
+            "AssetGUID": "1a5f6eddb55564c85a2c7aa1e65e313c",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 103896,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_4",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_4.png",
+            "AssetGUID": "7591b227b08db44dd99b1414c50e31be",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 103896,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_5",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_5.png",
+            "AssetGUID": "988a584901d14447da5b52200a6c31e7",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 103896,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_6",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_6.png",
+            "AssetGUID": "ee7d410e556174f57a82f6b84d76a283",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 103896,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_7",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_7.png",
+            "AssetGUID": "7d751b22afaae4837ad950002bf8d856",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 103896,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_8",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_8.png",
+            "AssetGUID": "1cafe679636834ec0abf0506ba1cfbbd",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 103896,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_9",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_9.png",
+            "AssetGUID": "4139017cc31044a5b824e499ea00d673",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 103896,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Peter",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/Peter.png",
+            "AssetGUID": "6cbfefe4a6ea843fe8c26731f6fde033",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
+            "MainBundleSize": 103896,
+            "DependAssets": [],
+            "DependBundles": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "defaultpackage_assets_assetraw_actor.bundle",
+            "FileName": "5eeb8052dc827917f19613da0ec56c01.bundle",
+            "FileHash": "5eeb8052dc827917f19613da0ec56c01",
+            "FileCRC": 1997697667,
+            "FileSize": 4646,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/Actor/Cube.prefab",
+                    "AssetGUID": "14515f8505976b04fbdd66ddc61a661c"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_configs.bundle",
+            "FileName": "e6e9ffac1b925f74644b3a485f579d74.bundle",
+            "FileHash": "e6e9ffac1b925f74644b3a485f579d74",
+            "FileCRC": 414166638,
+            "FileSize": 1236,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/Configs/about.txt",
+                    "AssetGUID": "ba11f0707eb5f814392cbf12498aba94"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
+            "FileName": "102a0da87d759b4fc4fe5adec1ac3b19.bundle",
+            "FileHash": "102a0da87d759b4fc4fe5adec1ac3b19",
+            "FileCRC": 494974482,
+            "FileSize": 1542,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/Configs/bytes/item_tbitem.bytes",
+                    "AssetGUID": "b2c77a84390974211b8bc94f7bb27bfd"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "FileName": "765d4f167e5b24bdb971ea15bb5d93b1.bundle",
+            "FileHash": "765d4f167e5b24bdb971ea15bb5d93b1",
+            "FileCRC": 3074633423,
+            "FileSize": 1921208,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/GameLogic.dll.bytes",
+                    "AssetGUID": "c53f453b6907c4f66bdb38c5b5235c17"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/GameProto.dll.bytes",
+                    "AssetGUID": "57e95fba8a426445fb2c984e043b73f3"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/mscorlib.dll.bytes",
+                    "AssetGUID": "cd0c978f5e5b645b0931fc6d841241c6"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/System.Core.dll.bytes",
+                    "AssetGUID": "82dba1c31bc4f462fa8d50474ea85d80"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/System.dll.bytes",
+                    "AssetGUID": "6dcebd70d587a4955bd21495421931bd"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/TEngine.Runtime.dll.bytes",
+                    "AssetGUID": "71aa73bfacf5d49c48cf6600b1bce7f3"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/UniTask.dll.bytes",
+                    "AssetGUID": "378fd0a5d6c554f86bb9672389e42de4"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.CoreModule.dll.bytes",
+                    "AssetGUID": "b738f5416ae4a4d9e9dad35eb764ab75"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/YooAsset.dll.bytes",
+                    "AssetGUID": "126940e2c33164493af1959225d5b441"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_prefabs.bundle",
+            "FileName": "84f49ac3e99b73ca9f267b13d1d3c2a8.bundle",
+            "FileHash": "84f49ac3e99b73ca9f267b13d1d3c2a8",
+            "FileCRC": 2678723708,
+            "FileSize": 5565,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/Prefabs/TestCube1.prefab",
+                    "AssetGUID": "6dc74a9e066434518a80892506ecd07c"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/Prefabs/TestCube2.prefab",
+                    "AssetGUID": "3ec30f90d7cff46f39874f81e5f7cdfa"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/Prefabs/TestCube3.prefab",
+                    "AssetGUID": "1b8a2a8c8e962473686735883a099576"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_ui_battlemainui.bundle",
+            "FileName": "32ef78d44326f00dbdf36a50aa03627b.bundle",
+            "FileHash": "32ef78d44326f00dbdf36a50aa03627b",
+            "FileCRC": 2888320781,
+            "FileSize": 15085,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/UI/BattleMainUI.prefab",
+                    "AssetGUID": "ecec8ee629e7e1945b209218a435b9cc"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_ui_loginui.bundle",
+            "FileName": "ea5f03308b529917977ddc4dbf1feed7.bundle",
+            "FileHash": "ea5f03308b529917977ddc4dbf1feed7",
+            "FileCRC": 254972864,
+            "FileSize": 13597,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/UI/LoginUI.prefab",
+                    "AssetGUID": "3f4849d649e5a9647acda84aea936e20"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_ui_testui.bundle",
+            "FileName": "972013a141bcdb8079c40ffcd24b4db5.bundle",
+            "FileHash": "972013a141bcdb8079c40ffcd24b4db5",
+            "FileCRC": 308929283,
+            "FileSize": 7727,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/UI/TestUI.prefab",
+                    "AssetGUID": "9b969a6a722855c47be887dacd539056"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
+            "FileName": "ebea7be9c8b64f840a0a4edd957f22dc.bundle",
+            "FileHash": "ebea7be9c8b64f840a0a4edd957f22dc",
+            "FileCRC": 101188013,
+            "FileSize": 23685,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_assets_assetraw_ui_battlemainui.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Play_Joystick_bg.png",
+                    "AssetGUID": "f43899c31dd434901b0422f98bcde88b"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Play_Joystick_handle.png",
+                    "AssetGUID": "01ccaea9b49214edda39f03f648b5b8b"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Slider11_Fill_Blue.png",
+                    "AssetGUID": "1f44cb90b6ae648c783dac573bfe9cd0"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Slider11_Fill_Red.png",
+                    "AssetGUID": "bfad0e64f8ef1491c8def7e679187b89"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Slider11_Fill_Yellow.png",
+                    "AssetGUID": "af67f6c46933441daaa64d6880890586"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/Slider11_Frame.png",
+                    "AssetGUID": "c95935206d18f42399e9881ce6bdf61c"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Battle/zd_img_light.png",
+                    "AssetGUID": "a43cb397a444ce44f9becc183ced96ed"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
+            "FileName": "29f026c888482655e867cf84c5d84349.bundle",
+            "FileHash": "29f026c888482655e867cf84c5d84349",
+            "FileCRC": 3829434871,
+            "FileSize": 103896,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/Bob.png",
+                    "AssetGUID": "a3b09be1ad15b4352b570f751980b79e"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_1.png",
+                    "AssetGUID": "852888589fedb4c7d9bca2c23bbe2648"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_10.png",
+                    "AssetGUID": "1c2900bfc3b9241ad8ca61f9be18b321"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_2.png",
+                    "AssetGUID": "b9b5919f8b4e948fd8b54c8ec9b254cf"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_3.png",
+                    "AssetGUID": "1a5f6eddb55564c85a2c7aa1e65e313c"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_4.png",
+                    "AssetGUID": "7591b227b08db44dd99b1414c50e31be"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_5.png",
+                    "AssetGUID": "988a584901d14447da5b52200a6c31e7"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_6.png",
+                    "AssetGUID": "ee7d410e556174f57a82f6b84d76a283"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_7.png",
+                    "AssetGUID": "7d751b22afaae4837ad950002bf8d856"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_8.png",
+                    "AssetGUID": "1cafe679636834ec0abf0506ba1cfbbd"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/goldItem_9.png",
+                    "AssetGUID": "4139017cc31044a5b824e499ea00d673"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/Peter.png",
+                    "AssetGUID": "6cbfefe4a6ea843fe8c26731f6fde033"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_unityshaders.bundle",
+            "FileName": "2157f440fee4a4a67a4e67d588f783a7.bundle",
+            "FileHash": "2157f440fee4a4a67a4e67d588f783a7",
+            "FileCRC": 300909660,
+            "FileSize": 135631,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "defaultpackage_assets_assetraw_actor.bundle",
+                "defaultpackage_assets_assetraw_prefabs.bundle"
+            ],
+            "BundleContents": []
+        }
+    ],
+    "IndependAssets": []
+}
