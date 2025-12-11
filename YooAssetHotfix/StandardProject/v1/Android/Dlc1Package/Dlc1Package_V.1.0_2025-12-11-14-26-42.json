@@ -1,0 +1,980 @@
+{
+    "FileVersion": "2025.9.30",
+    "EnableAddressable": true,
+    "SupportExtensionless": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "ReplaceAssetPathWithAddress": false,
+    "OutputNameStyle": 2,
+    "BuildBundleType": 2,
+    "BuildPipeline": "ScriptableBuildPipeline",
+    "PackageName": "Dlc1Package",
+    "PackageVersion": "V.1.0_2025-12-11-14-26-42",
+    "PackageNote": "12/11/2025 2:26:42 PM",
+    "AssetList": [
+        {
+            "Address": "s10011",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10011.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10019",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10019.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10021",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10021.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10022",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10022.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10023",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10023.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10024",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10024.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10029",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10029.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10031",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10031.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10039",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10039.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10041",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10041.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10042",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10042.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10049",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10049.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10051",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10051.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10059",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10059.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10061",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10061.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10069",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10069.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10071",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10071.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10072",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10072.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10073",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10073.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10079",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10079.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10081",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10081.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10082",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10082.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10083",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10083.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10089",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10089.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10091",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10091.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10092",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10092.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10093",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10093.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10099",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10099.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10101",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10101.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10109",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10109.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10111",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10111.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10119",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10119.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10121",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10121.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10129",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10129.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10131",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10131.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10139",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10139.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10141",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10141.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10149",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10149.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10151",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10151.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10159",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10159.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10161",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10161.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10169",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10169.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10171",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10171.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10172",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10172.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10173",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10173.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10179",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10179.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10181",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10181.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10182",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10182.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10183",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10183.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10189",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10189.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10191",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10191.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10192",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10192.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10193",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10193.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10199",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10199.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10201",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10201.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10202",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10202.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10209",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10209.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10211",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10211.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10212",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10212.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10219",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10219.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10221",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10221.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10229",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10229.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10231",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10231.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10232",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10232.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10239",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10239.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10241",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10241.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10249",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10249.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10251",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10251.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10259",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10259.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10261",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10261.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10269",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10269.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10271",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10271.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10279",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10279.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10281",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10281.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10282",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10282.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10289",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10289.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10291",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10291.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10299",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10299.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10301",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10301.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10309",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10309.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10311",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10311.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10319",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10319.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10321",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10321.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10329",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10329.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10331",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10331.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10339",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10339.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10341",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10341.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10342",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10342.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10349",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10349.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10351",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10351.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10352",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10352.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10353",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10353.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10359",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10359.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10361",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10361.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10369",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10369.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10371",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10371.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10379",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10379.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10381",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10381.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10389",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10389.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10391",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10391.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10392",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10392.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10399",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10399.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10401",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10401.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10409",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10409.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10411",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10411.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10419",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10419.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10421",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10421.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10429",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10429.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10431",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10431.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10439",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10439.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10441",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10441.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10442",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10442.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10449",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10449.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10451",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10451.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10452",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10452.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10459",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10459.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10461",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10461.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10462",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10462.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10469",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10469.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "dlc1package_assets_otherpackage_dlc1_sprite_christmas.bundle",
+            "UnityCRC": 2575124453,
+            "FileHash": "ff9cd99afa0fecce9f128e242c341003",
+            "FileCRC": 1937604058,
+            "FileSize": 2222893,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        }
+    ]
+}
