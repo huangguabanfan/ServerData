@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "Dlc1Package",
-    "PackageVersion": "V.1.0_2025-12-12-16-58-30",
-    "PackageNote": "12/12/2025 4:58:30 PM",
+    "PackageVersion": "V.1.0_2025-12-12-17-05-24",
+    "PackageNote": "12/12/2025 5:05:24 PM",
     "AssetList": [
         {
             "Address": "s10011",
