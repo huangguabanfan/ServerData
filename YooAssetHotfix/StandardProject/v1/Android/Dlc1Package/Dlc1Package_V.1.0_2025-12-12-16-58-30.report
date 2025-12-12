@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.17",
         "UnityVersion": "2022.3.62f2",
-        "BuildDate": "12/12/2025 4:52:01 PM",
-        "BuildSeconds": 0,
+        "BuildDate": "12/12/2025 4:58:31 PM",
+        "BuildSeconds": 1,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "Dlc1Package",
-        "BuildPackageVersion": "V.1.0_2025-12-12-16-52-00",
-        "BuildPackageNote": "12/12/2025 4:52:00 PM",
+        "BuildPackageVersion": "V.1.0_2025-12-12-16-58-30",
+        "BuildPackageNote": "12/12/2025 4:58:30 PM",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "SupportExtensionless": true,
@@ -34,10 +34,10 @@
         "CacheServerPort": 0,
         "BuiltinShadersBundleName": "defaultpackage_unityshaders.bundle",
         "MonoScriptsBundleName": "",
-        "AssetFileTotalCount": 119,
-        "MainAssetTotalCount": 119,
-        "AllBundleTotalCount": 1,
-        "AllBundleTotalSize": 2222893,
+        "AssetFileTotalCount": 129,
+        "MainAssetTotalCount": 129,
+        "AllBundleTotalCount": 2,
+        "AllBundleTotalSize": 2394084,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -1231,6 +1231,106 @@
             "MainBundleSize": 2222893,
             "DependAssets": [],
             "DependBundles": []
+        },
+        {
+            "Address": "goldItem_1",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_1.png",
+            "AssetGUID": "e0b891d5e8acc45cabe4d1c209386069",
+            "AssetTags": [],
+            "MainBundleName": "dlc1package_assets_otherpackage_dlc1_sprite_gold.bundle",
+            "MainBundleSize": 171191,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_10",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_10.png",
+            "AssetGUID": "b25d86b0247564c9e98431e8a100fa20",
+            "AssetTags": [],
+            "MainBundleName": "dlc1package_assets_otherpackage_dlc1_sprite_gold.bundle",
+            "MainBundleSize": 171191,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_2",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_2.png",
+            "AssetGUID": "28dd261211bca41c0b57350a2252f1ae",
+            "AssetTags": [],
+            "MainBundleName": "dlc1package_assets_otherpackage_dlc1_sprite_gold.bundle",
+            "MainBundleSize": 171191,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_3",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_3.png",
+            "AssetGUID": "e46b783f4989a49cb96d51cc8d184d4f",
+            "AssetTags": [],
+            "MainBundleName": "dlc1package_assets_otherpackage_dlc1_sprite_gold.bundle",
+            "MainBundleSize": 171191,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_4",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_4.png",
+            "AssetGUID": "7fff3e816774542cb9cbd87869d322c0",
+            "AssetTags": [],
+            "MainBundleName": "dlc1package_assets_otherpackage_dlc1_sprite_gold.bundle",
+            "MainBundleSize": 171191,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_5",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_5.png",
+            "AssetGUID": "86e381a6197344177972c7908c2b3b09",
+            "AssetTags": [],
+            "MainBundleName": "dlc1package_assets_otherpackage_dlc1_sprite_gold.bundle",
+            "MainBundleSize": 171191,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_6",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_6.png",
+            "AssetGUID": "c286dfbd7f35544d4bb50fec84f740ed",
+            "AssetTags": [],
+            "MainBundleName": "dlc1package_assets_otherpackage_dlc1_sprite_gold.bundle",
+            "MainBundleSize": 171191,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_7",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_7.png",
+            "AssetGUID": "52101315901f64319b1e5c1e6c1d49a8",
+            "AssetTags": [],
+            "MainBundleName": "dlc1package_assets_otherpackage_dlc1_sprite_gold.bundle",
+            "MainBundleSize": 171191,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_8",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_8.png",
+            "AssetGUID": "f15dbccbc640548b3af7567967d8ee3f",
+            "AssetTags": [],
+            "MainBundleName": "dlc1package_assets_otherpackage_dlc1_sprite_gold.bundle",
+            "MainBundleSize": 171191,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "goldItem_9",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_9.png",
+            "AssetGUID": "edd8404362b114edfbc6506b6cf595e8",
+            "AssetTags": [],
+            "MainBundleName": "dlc1package_assets_otherpackage_dlc1_sprite_gold.bundle",
+            "MainBundleSize": 171191,
+            "DependAssets": [],
+            "DependBundles": []
         }
     ],
     "BundleInfos": [
@@ -1720,6 +1820,59 @@
                 {
                     "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10469.png",
                     "AssetGUID": "90606b1565376be4aa2f9afcfad45a09"
+                }
+            ]
+        },
+        {
+            "BundleName": "dlc1package_assets_otherpackage_dlc1_sprite_gold.bundle",
+            "FileName": "dlc1package_assets_otherpackage_dlc1_sprite_gold_2a361ff69d298d2ead6adca8b148c90e.bundle",
+            "FileHash": "2a361ff69d298d2ead6adca8b148c90e",
+            "FileCRC": 3464793809,
+            "FileSize": 171191,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_1.png",
+                    "AssetGUID": "e0b891d5e8acc45cabe4d1c209386069"
+                },
+                {
+                    "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_10.png",
+                    "AssetGUID": "b25d86b0247564c9e98431e8a100fa20"
+                },
+                {
+                    "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_2.png",
+                    "AssetGUID": "28dd261211bca41c0b57350a2252f1ae"
+                },
+                {
+                    "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_3.png",
+                    "AssetGUID": "e46b783f4989a49cb96d51cc8d184d4f"
+                },
+                {
+                    "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_4.png",
+                    "AssetGUID": "7fff3e816774542cb9cbd87869d322c0"
+                },
+                {
+                    "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_5.png",
+                    "AssetGUID": "86e381a6197344177972c7908c2b3b09"
+                },
+                {
+                    "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_6.png",
+                    "AssetGUID": "c286dfbd7f35544d4bb50fec84f740ed"
+                },
+                {
+                    "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_7.png",
+                    "AssetGUID": "52101315901f64319b1e5c1e6c1d49a8"
+                },
+                {
+                    "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_8.png",
+                    "AssetGUID": "f15dbccbc640548b3af7567967d8ee3f"
+                },
+                {
+                    "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/gold/goldItem_9.png",
+                    "AssetGUID": "edd8404362b114edfbc6506b6cf595e8"
                 }
             ]
         }
