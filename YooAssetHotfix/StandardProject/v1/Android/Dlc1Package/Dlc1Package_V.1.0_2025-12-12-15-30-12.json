@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "Dlc1Package",
-    "PackageVersion": "V.1.0_2025-12-11-14-26-42",
-    "PackageNote": "12/11/2025 2:26:42 PM",
+    "PackageVersion": "V.1.0_2025-12-12-15-30-12",
+    "PackageNote": "12/12/2025 3:30:12 PM",
     "AssetList": [
         {
             "Address": "s10011",
@@ -111,6 +111,14 @@
         {
             "Address": "s10051",
             "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10051.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "s10051_1",
+            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10051_1.png",
             "AssetGUID": "",
             "AssetTags": [],
             "BundleID": 0,
@@ -901,14 +909,6 @@
             "DependBundleIDs": []
         },
         {
-            "Address": "s10442",
-            "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10442.png",
-            "AssetGUID": "",
-            "AssetTags": [],
-            "BundleID": 0,
-            "DependBundleIDs": []
-        },
-        {
             "Address": "s10449",
             "AssetPath": "Assets/OtherPackage/Dlc1/Sprite/christmas/s10449.png",
             "AssetGUID": "",
@@ -968,10 +968,10 @@
     "BundleList": [
         {
             "BundleName": "dlc1package_assets_otherpackage_dlc1_sprite_christmas.bundle",
-            "UnityCRC": 2575124453,
-            "FileHash": "ff9cd99afa0fecce9f128e242c341003",
-            "FileCRC": 1937604058,
-            "FileSize": 2222893,
+            "UnityCRC": 3738647091,
+            "FileHash": "e406e4eba182b761c263e0b96f6f43ed",
+            "FileCRC": 1619044588,
+            "FileSize": 2222903,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
