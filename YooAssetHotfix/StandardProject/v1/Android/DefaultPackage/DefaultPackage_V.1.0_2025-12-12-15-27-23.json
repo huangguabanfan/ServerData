@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "V.1.0_2025-12-12-15-08-05",
-    "PackageNote": "12/12/2025 3:08:05 PM",
+    "PackageVersion": "V.1.0_2025-12-12-15-27-23",
+    "PackageNote": "12/12/2025 3:27:23 PM",
     "AssetList": [
         {
             "Address": "Cube",
@@ -370,10 +370,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "UnityCRC": 3536669795,
-            "FileHash": "760c6bef72728c95c56f7045ac53fa48",
-            "FileCRC": 2722797301,
-            "FileSize": 2380603,
+            "UnityCRC": 2806278429,
+            "FileHash": "d2c1d537674d90bb28adf7dcd002c703",
+            "FileCRC": 2139733014,
+            "FileSize": 2380639,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
