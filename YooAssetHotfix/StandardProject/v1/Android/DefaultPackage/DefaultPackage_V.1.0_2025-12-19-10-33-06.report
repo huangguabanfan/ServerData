@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.17",
         "UnityVersion": "2022.3.62f2",
-        "BuildDate": "12/17/2025 5:21:12 PM",
+        "BuildDate": "12/19/2025 10:33:09 AM",
         "BuildSeconds": 2,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "V.1.0_2025-12-17-17-21-10",
-        "BuildPackageNote": "12/17/2025 5:21:10 PM",
+        "BuildPackageVersion": "V.1.0_2025-12-19-10-33-06",
+        "BuildPackageNote": "12/19/2025 10:33:06 AM",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "SupportExtensionless": true,
@@ -37,7 +37,7 @@
         "AssetFileTotalCount": 39,
         "MainAssetTotalCount": 39,
         "AllBundleTotalCount": 12,
-        "AllBundleTotalSize": 2711625,
+        "AllBundleTotalSize": 3036306,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -80,7 +80,7 @@
             "AssetGUID": "c53f453b6907c4f66bdb38c5b5235c17",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2380620,
+            "MainBundleSize": 2705047,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -90,7 +90,7 @@
             "AssetGUID": "57e95fba8a426445fb2c984e043b73f3",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2380620,
+            "MainBundleSize": 2705047,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -100,7 +100,7 @@
             "AssetGUID": "cd0c978f5e5b645b0931fc6d841241c6",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2380620,
+            "MainBundleSize": 2705047,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -110,7 +110,7 @@
             "AssetGUID": "82dba1c31bc4f462fa8d50474ea85d80",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2380620,
+            "MainBundleSize": 2705047,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -120,7 +120,7 @@
             "AssetGUID": "6dcebd70d587a4955bd21495421931bd",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2380620,
+            "MainBundleSize": 2705047,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -130,7 +130,7 @@
             "AssetGUID": "71aa73bfacf5d49c48cf6600b1bce7f3",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2380620,
+            "MainBundleSize": 2705047,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -140,7 +140,7 @@
             "AssetGUID": "378fd0a5d6c554f86bb9672389e42de4",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2380620,
+            "MainBundleSize": 2705047,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -150,7 +150,7 @@
             "AssetGUID": "b738f5416ae4a4d9e9dad35eb764ab75",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2380620,
+            "MainBundleSize": 2705047,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -160,7 +160,7 @@
             "AssetGUID": "126940e2c33164493af1959225d5b441",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2380620,
+            "MainBundleSize": 2705047,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -292,7 +292,7 @@
             "AssetGUID": "f43899c31dd434901b0422f98bcde88b",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
-            "MainBundleSize": 23685,
+            "MainBundleSize": 23818,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -302,7 +302,7 @@
             "AssetGUID": "01ccaea9b49214edda39f03f648b5b8b",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
-            "MainBundleSize": 23685,
+            "MainBundleSize": 23818,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -312,7 +312,7 @@
             "AssetGUID": "1f44cb90b6ae648c783dac573bfe9cd0",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
-            "MainBundleSize": 23685,
+            "MainBundleSize": 23818,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -322,7 +322,7 @@
             "AssetGUID": "bfad0e64f8ef1491c8def7e679187b89",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
-            "MainBundleSize": 23685,
+            "MainBundleSize": 23818,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -332,7 +332,7 @@
             "AssetGUID": "af67f6c46933441daaa64d6880890586",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
-            "MainBundleSize": 23685,
+            "MainBundleSize": 23818,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -342,7 +342,7 @@
             "AssetGUID": "c95935206d18f42399e9881ce6bdf61c",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
-            "MainBundleSize": 23685,
+            "MainBundleSize": 23818,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -352,7 +352,7 @@
             "AssetGUID": "a43cb397a444ce44f9becc183ced96ed",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
-            "MainBundleSize": 23685,
+            "MainBundleSize": 23818,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -362,7 +362,7 @@
             "AssetGUID": "a3b09be1ad15b4352b570f751980b79e",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "MainBundleSize": 103896,
+            "MainBundleSize": 104017,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -372,7 +372,7 @@
             "AssetGUID": "852888589fedb4c7d9bca2c23bbe2648",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "MainBundleSize": 103896,
+            "MainBundleSize": 104017,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -382,7 +382,7 @@
             "AssetGUID": "1c2900bfc3b9241ad8ca61f9be18b321",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "MainBundleSize": 103896,
+            "MainBundleSize": 104017,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -392,7 +392,7 @@
             "AssetGUID": "b9b5919f8b4e948fd8b54c8ec9b254cf",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "MainBundleSize": 103896,
+            "MainBundleSize": 104017,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -402,7 +402,7 @@
             "AssetGUID": "1a5f6eddb55564c85a2c7aa1e65e313c",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "MainBundleSize": 103896,
+            "MainBundleSize": 104017,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -412,7 +412,7 @@
             "AssetGUID": "7591b227b08db44dd99b1414c50e31be",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "MainBundleSize": 103896,
+            "MainBundleSize": 104017,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -422,7 +422,7 @@
             "AssetGUID": "988a584901d14447da5b52200a6c31e7",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "MainBundleSize": 103896,
+            "MainBundleSize": 104017,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -432,7 +432,7 @@
             "AssetGUID": "ee7d410e556174f57a82f6b84d76a283",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "MainBundleSize": 103896,
+            "MainBundleSize": 104017,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -442,7 +442,7 @@
             "AssetGUID": "7d751b22afaae4837ad950002bf8d856",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "MainBundleSize": 103896,
+            "MainBundleSize": 104017,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -452,7 +452,7 @@
             "AssetGUID": "1cafe679636834ec0abf0506ba1cfbbd",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "MainBundleSize": 103896,
+            "MainBundleSize": 104017,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -462,7 +462,7 @@
             "AssetGUID": "4139017cc31044a5b824e499ea00d673",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "MainBundleSize": 103896,
+            "MainBundleSize": 104017,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -472,7 +472,7 @@
             "AssetGUID": "6cbfefe4a6ea843fe8c26731f6fde033",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "MainBundleSize": 103896,
+            "MainBundleSize": 104017,
             "DependAssets": [],
             "DependBundles": []
         }
@@ -533,10 +533,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "FileName": "defaultpackage_assets_assetraw_dll_342deed7bc688360c20d5d2d7dd37337.bundle",
-            "FileHash": "342deed7bc688360c20d5d2d7dd37337",
-            "FileCRC": 3018677529,
-            "FileSize": 2380620,
+            "FileName": "defaultpackage_assets_assetraw_dll_526bcacc489b0d608d3a978e734931c3.bundle",
+            "FileHash": "526bcacc489b0d608d3a978e734931c3",
+            "FileCRC": 234518535,
+            "FileSize": 2705047,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -683,10 +683,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
-            "FileName": "defaultpackage_assets_assetraw_uiraw_atlas_battle_ebea7be9c8b64f840a0a4edd957f22dc.bundle",
-            "FileHash": "ebea7be9c8b64f840a0a4edd957f22dc",
-            "FileCRC": 101188013,
-            "FileSize": 23685,
+            "FileName": "defaultpackage_assets_assetraw_uiraw_atlas_battle_16941d4a666f908c92918a1e122226d1.bundle",
+            "FileHash": "16941d4a666f908c92918a1e122226d1",
+            "FileCRC": 3091153975,
+            "FileSize": 23818,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -726,10 +726,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "FileName": "defaultpackage_assets_assetraw_uiraw_atlas_common_29f026c888482655e867cf84c5d84349.bundle",
-            "FileHash": "29f026c888482655e867cf84c5d84349",
-            "FileCRC": 3829434871,
-            "FileSize": 103896,
+            "FileName": "defaultpackage_assets_assetraw_uiraw_atlas_common_96ce3733d0835a860f8bc073f805fc7b.bundle",
+            "FileHash": "96ce3733d0835a860f8bc073f805fc7b",
+            "FileCRC": 4133871508,
+            "FileSize": 104017,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],

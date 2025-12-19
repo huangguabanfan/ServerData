@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "V.1.0_2025-12-17-17-21-10",
-    "PackageNote": "12/17/2025 5:21:10 PM",
+    "PackageVersion": "V.1.0_2025-12-19-10-33-06",
+    "PackageNote": "12/19/2025 10:33:06 AM",
     "AssetList": [
         {
             "Address": "Cube",
@@ -370,10 +370,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "UnityCRC": 2867097620,
-            "FileHash": "342deed7bc688360c20d5d2d7dd37337",
-            "FileCRC": 3018677529,
-            "FileSize": 2380620,
+            "UnityCRC": 242036116,
+            "FileHash": "526bcacc489b0d608d3a978e734931c3",
+            "FileCRC": 234518535,
+            "FileSize": 2705047,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -434,20 +434,20 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_uiraw_atlas_battle.bundle",
-            "UnityCRC": 2701273320,
-            "FileHash": "ebea7be9c8b64f840a0a4edd957f22dc",
-            "FileCRC": 101188013,
-            "FileSize": 23685,
+            "UnityCRC": 852149770,
+            "FileHash": "16941d4a666f908c92918a1e122226d1",
+            "FileCRC": 3091153975,
+            "FileSize": 23818,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
-            "UnityCRC": 3519830456,
-            "FileHash": "29f026c888482655e867cf84c5d84349",
-            "FileCRC": 3829434871,
-            "FileSize": 103896,
+            "UnityCRC": 1516292769,
+            "FileHash": "96ce3733d0835a860f8bc073f805fc7b",
+            "FileCRC": 4133871508,
+            "FileSize": 104017,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
