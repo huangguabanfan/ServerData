@@ -2,6 +2,7 @@
   <assembly fullname="GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="GameLogic.CubeTest" preserve="all" />
     <type fullname="GameLogic.HotfixTest.HotfixTest" preserve="all" />
+    <type fullname="GameLogic.NetworkTest" preserve="all" />
     <type fullname="GameLogic.SelectExample" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">

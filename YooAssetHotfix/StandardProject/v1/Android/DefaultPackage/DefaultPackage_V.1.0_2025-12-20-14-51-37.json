@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "V.1.0_2025-12-19-12-12-36",
-    "PackageNote": "12/19/2025 12:12:36 PM",
+    "PackageVersion": "V.1.0_2025-12-20-14-51-37",
+    "PackageNote": "12/20/2025 2:51:37 PM",
     "AssetList": [
         {
             "Address": "Cube",
@@ -143,6 +143,14 @@
         {
             "Address": "HotfixTest",
             "AssetPath": "Assets/AssetRaw/Scenes/HotfixTest.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "NetworkTest",
+            "AssetPath": "Assets/AssetRaw/Scenes/NetworkTest.unity",
             "AssetGUID": "",
             "AssetTags": [],
             "BundleID": 5,
@@ -370,10 +378,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "UnityCRC": 3307022124,
-            "FileHash": "773bf9e6f951e6ded2652fd24f7b9023",
-            "FileCRC": 784904019,
-            "FileSize": 2708094,
+            "UnityCRC": 4108114878,
+            "FileHash": "3c05126c15cbf4f3f6da9b95bc6efdcd",
+            "FileCRC": 583648424,
+            "FileSize": 2708786,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
@@ -392,10 +400,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_scenes.bundle",
-            "UnityCRC": 146138199,
-            "FileHash": "14403182a82178f5de7d2b70b5010935",
-            "FileCRC": 2813553740,
-            "FileSize": 18233,
+            "UnityCRC": 31638560,
+            "FileHash": "753d42ffcfcd309bc324f291e0acfa13",
+            "FileCRC": 295755868,
+            "FileSize": 26217,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
